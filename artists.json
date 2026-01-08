@@ -1,9 +1,82 @@
 {
   "artists": [
-    { "id": "artist_kusama", "name": "草間彌生", "aliases": ["Yayoi Kusama", "くさまやよい"] },
-    { "id": "artist_magritte", "name": "ルネ・マグリット", "aliases": ["René Magritte", "Rene Magritte"] },
-    { "id": "artist_kandinsky", "name": "ワシリー・カンディンスキー", "aliases": ["Wassily Kandinsky"] },
-    { "id": "artist_monet", "name": "クロード・モネ", "aliases": ["Claude Monet"] },
-    { "id": "artist_renoir", "name": "ピエール＝オーギュスト・ルノワール", "aliases": ["Pierre-Auguste Renoir", "Auguste Renoir"] }
+    {
+      "id": "artist_kusama",
+      "name": "草間彌生",
+      "aliases": [
+        "Yayoi Kusama",
+        "くさまやよい"
+      ],
+      "blurb": "反復するドットと空間体験で知られる前衛作家",
+      "tags": [
+        "反復",
+        "ドット",
+        "インスタレーション"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_magritte",
+      "name": "ルネ・マグリット",
+      "aliases": [
+        "René Magritte",
+        "Rene Magritte"
+      ],
+      "blurb": "日常をずらすイメージで思考を刺激する",
+      "tags": [
+        "シュルレアリスム",
+        "概念",
+        "ユーモア"
+      ],
+      "era": "20世紀",
+      "region": "欧州"
+    },
+    {
+      "id": "artist_kandinsky",
+      "name": "ワシリー・カンディンスキー",
+      "aliases": [
+        "Wassily Kandinsky"
+      ],
+      "blurb": "色彩と抽象表現で精神性を探究した",
+      "tags": [
+        "抽象",
+        "色彩",
+        "構成"
+      ],
+      "era": "20世紀",
+      "region": "欧州"
+    },
+    {
+      "id": "artist_monet",
+      "name": "クロード・モネ",
+      "aliases": [
+        "Claude Monet"
+      ],
+      "blurb": "光の移ろいを連作で捉えた印象派の中心人物",
+      "tags": [
+        "印象派",
+        "連作",
+        "光"
+      ],
+      "era": "19世紀",
+      "region": "欧州"
+    },
+    {
+      "id": "artist_renoir",
+      "name": "ピエール＝オーギュスト・ルノワール",
+      "aliases": [
+        "Pierre-Auguste Renoir",
+        "Auguste Renoir"
+      ],
+      "blurb": "人物と日常の温度感を柔らかく描いた",
+      "tags": [
+        "印象派",
+        "人物",
+        "日常"
+      ],
+      "era": "19世紀",
+      "region": "欧州"
+    }
   ]
 }

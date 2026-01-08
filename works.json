@@ -1,0 +1,57 @@
+{
+  "works": [
+    {
+      "id": "work_001",
+      "title": "無限の網",
+      "artistId": "artist_kusama",
+      "tags": [
+        "反復",
+        "ドット",
+        "網目"
+      ]
+    },
+    {
+      "id": "work_002",
+      "title": "The Son of Man",
+      "artistId": "artist_magritte",
+      "year": "1964",
+      "tags": [
+        "シュルレアリスム",
+        "人物",
+        "象徴"
+      ],
+      "blurb": "顔を覆うリンゴのイメージで認識を揺らす"
+    },
+    {
+      "id": "work_003",
+      "title": "Improvisation",
+      "artistId": "artist_kandinsky",
+      "tags": [
+        "抽象",
+        "色彩",
+        "構成"
+      ]
+    },
+    {
+      "id": "work_004",
+      "title": "睡蓮",
+      "artistId": "artist_monet",
+      "tags": [
+        "印象派",
+        "連作",
+        "光"
+      ]
+    },
+    {
+      "id": "work_005",
+      "title": "ムーラン・ド・ラ・ギャレットの舞踏会",
+      "artistId": "artist_renoir",
+      "year": "1876",
+      "tags": [
+        "印象派",
+        "人物",
+        "日常"
+      ]
+    }
+  ]
+}

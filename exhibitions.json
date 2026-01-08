@@ -6,8 +6,16 @@
       "venue": "Tokyo Example Museum",
       "startDate": "2026-01-10",
       "endDate": "2026-03-01",
-      "artistIds": ["artist_magritte", "artist_kandinsky"],
-      "url": "https://example.com/magritte"
+      "artistIds": [
+        "artist_magritte",
+        "artist_kandinsky"
+      ],
+      "url": "https://example.com/magritte",
+      "area": "東京",
+      "tags": [
+        "シュルレアリスム",
+        "近代"
+      ]
     },
     {
       "id": "exh_002",
@@ -15,8 +23,15 @@
       "venue": "Kanto Art Center",
       "startDate": "2026-01-05",
       "endDate": "2026-02-20",
-      "artistIds": ["artist_kusama"],
-      "url": "https://yayoikusamamuseum.jp/exhibition/current/"
+      "artistIds": [
+        "artist_kusama"
+      ],
+      "url": "https://yayoikusamamuseum.jp/exhibition/current/",
+      "area": "東京",
+      "tags": [
+        "現代",
+        "インスタレーション"
+      ]
     },
     {
       "id": "exh_003",
@@ -24,8 +39,16 @@
       "venue": "Yokohama City Gallery",
       "startDate": "2026-01-15",
       "endDate": "2026-04-15",
-      "artistIds": ["artist_monet", "artist_renoir"],
-      "url": "https://example.com/renoir"
+      "artistIds": [
+        "artist_monet",
+        "artist_renoir"
+      ],
+      "url": "https://example.com/renoir",
+      "area": "神奈川",
+      "tags": [
+        "印象派",
+        "絵画"
+      ]
     }
   ]
 }
