@@ -1,0 +1,9 @@
+{
+  "artists": [
+    { "id": "artist_kusama", "name": "草間彌生", "aliases": ["Yayoi Kusama", "くさまやよい"] },
+    { "id": "artist_magritte", "name": "ルネ・マグリット", "aliases": ["René Magritte", "Rene Magritte"] },
+    { "id": "artist_kandinsky", "name": "ワシリー・カンディンスキー", "aliases": ["Wassily Kandinsky"] },
+    { "id": "artist_monet", "name": "クロード・モネ", "aliases": ["Claude Monet"] },
+    { "id": "artist_renoir", "name": "ピエール＝オーギュスト・ルノワール", "aliases": ["Pierre-Auguste Renoir", "Auguste Renoir"] }
+  ]
+}
