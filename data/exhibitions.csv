@@ -1,4 +1,3 @@
 id,title,venue,startDate,endDate,artistIds,url,area,tags
 exh_001,Magritte & Friends,Tokyo Example Museum,2026-01-10,2026-03-01,artist_magritte|artist_kandinsky,https://example.com/magritte,東京,シュルレアリスム|近代
-exh_002,草間彌生　闘う女／絵を描く少女,Kanto Art Center,2026-01-05,2026-02-20,artist_kusama,https://yayoikusamamuseum.jp/exhibition/current/,東京,現代|インスタレーション
 exh_003,Impressionism Highlights,Yokohama City Gallery,2026-01-15,2026-04-15,artist_monet|artist_renoir,https://example.com/renoir,神奈川,印象派|絵画

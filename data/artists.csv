@@ -1,7 +1,101 @@
 id,name,aliases,tags,blurb,era,region
-artist_kusama,草間彌生,Yayoi Kusama|くさまやよい,反復|ドット|インスタレーション,反復するドットと空間体験で知られる前衛作家,現代,日本
-artist_magritte,ルネ・マグリット,René Magritte|Rene Magritte,シュルレアリスム|概念|ユーモア,日常をずらすイメージで思考を刺激する,20世紀,欧州
-artist_kandinsky,ワシリー・カンディンスキー,Wassily Kandinsky,抽象|色彩|構成,色彩と抽象表現で精神性を探究した,20世紀,欧州
-artist_monet,クロード・モネ,Claude Monet,印象派|連作|光,光の移ろいを連作で捉えた印象派の中心人物,19世紀,欧州
-artist_renoir,ピエール＝オーギュスト・ルノワール,Pierre-Auguste Renoir|Auguste Renoir,印象派|人物|日常,人物と日常の温度感を柔らかく描いた,19世紀,欧州
-artist_test_001,テスト作家,Test Artist,抽象|実験,色面と線の関係を探る作家,現代,日本
+artist_giotto,ジョット,Giotto di Bondone|Giotto,フレスコ|宗教画|空間表現,写実的な人体と空間で中世絵画を転換した,前期ルネサンス,イタリア
+artist_leonardo,レオナルド・ダ・ヴィンチ,Leonardo da Vinci,盛期ルネサンス|スフマート|肖像,観察と理論で描写を刷新し肖像表現を革新した,盛期ルネサンス,イタリア
+artist_michelangelo,ミケランジェロ,Michelangelo|Michelangelo Buonarroti,盛期ルネサンス|フレスコ|彫刻,彫刻的な人体表現で信仰と肉体を壮大に描いた,盛期ルネサンス,イタリア
+artist_raphael,ラファエロ,Raphael|Raffaello Sanzio,盛期ルネサンス|調和|宗教画,均整の取れた構図と澄んだ色彩で理想美を定式化した,盛期ルネサンス,イタリア
+artist_botticelli,ボッティチェリ,Sandro Botticelli,前期ルネサンス|神話画|線描,優雅な線と寓意で神話と宗教を詩的に結びつけた,前期ルネサンス,イタリア
+artist_titian,ティツィアーノ,Titian|Tiziano Vecellio,ヴェネツィア派|色彩|肖像,厚い色層と光で官能と威厳を両立させた,ルネサンス,イタリア
+artist_veronese,ヴェロネーゼ,Paolo Veronese,ヴェネツィア派|祝祭|大画面,豪華な宴の構図で宗教画に世俗の華やかさを入れた,マニエリスム,イタリア
+artist_tintoretto,ティントレット,Tintoretto|Jacopo Tintoretto,ヴェネツィア派|劇的構図|明暗,急角度の遠近と強い明暗で物語を劇場化した,マニエリスム,イタリア
+artist_el_greco,エル・グレコ,El Greco|Domenikos Theotokopoulos,マニエリスム|霊性|伸長表現,伸びた人体と異様な光で宗教的恍惚を表した,マニエリスム,スペイン
+artist_caravaggio,カラヴァッジョ,Caravaggio|Michelangelo Merisi,バロック|明暗|写実,極端な明暗で聖なる場面を現実へ引き寄せた,バロック,イタリア
+artist_artemisia_gentileschi,アルテミジア・ジェンティレスキ,Artemisia Gentileschi,バロック|女性画家|物語画,力強い女性像と緊張構図で物語画を更新した,バロック,イタリア
+artist_rubens,ルーベンス,Peter Paul Rubens,バロック|動勢|神話画,渦巻く運動感と肉感で壮麗な神話世界を描いた,バロック,フランドル
+artist_van_dyck,ヴァン・ダイク,Anthony van Dyck,バロック|肖像|宮廷,洗練された姿勢と衣装描写で宮廷肖像の型を作った,バロック,フランドル
+artist_velazquez,ベラスケス,Diego Velázquez|Diego Velazquez,バロック|写実|宮廷,空気を含む筆致で権力と日常の距離を描いた,バロック,スペイン
+artist_rembrandt,レンブラント,Rembrandt|Rembrandt van Rijn,バロック|光|自画像,内面を照らす光と厚い絵肌で存在感を掘り下げた,バロック,オランダ
+artist_vermeer,フェルメール,Johannes Vermeer,オランダ黄金時代|室内画|光,室内に差す光で静かな時間の密度を描いた,バロック,オランダ
+artist_frans_hals,フランス・ハルス,Frans Hals,オランダ黄金時代|肖像|筆致,速い筆致で生きた表情を捉え集団肖像を活性化した,バロック,オランダ
+artist_poussin,プッサン,Nicolas Poussin,古典主義|構成|歴史画,理性的構図で物語を秩序立て古典的絵画観を確立した,バロック,フランス
+artist_claude_lorrain,クロード・ロラン,Claude Lorrain,古典主義|風景画|光,理想化された光と遠景構成で風景画の基礎を固めた,バロック,フランス
+artist_watteau,ワトー,Antoine Watteau,ロココ|雅宴画|抒情,優雅な社交の場を淡い色調で夢のように描いた,ロココ,フランス
+artist_boucher,ブーシェ,François Boucher|Francois Boucher,ロココ|官能|装飾,柔らかな肌と装飾性で宮廷文化の甘美さを象徴した,ロココ,フランス
+artist_fragonard,フラゴナール,Jean-Honoré Fragonard|Jean-Honore Fragonard,ロココ|軽快|恋愛寓意,軽やかな筆致と遊戯的主題でロココの頂点を示した,ロココ,フランス
+artist_hogarth,ホガース,William Hogarth,風刺|版画|連作,連作で社会の矛盾を物語化し批評精神を示した,18世紀,イギリス
+artist_goya,ゴヤ,Francisco Goya,ロマン主義|社会批評|暗い幻想,戦争と狂気を直視し近代の不安を露わにした,ロマン主義,スペイン
+artist_jacques_louis_david,ジャック＝ルイ・ダヴィッド,Jacques-Louis David|Jacques Louis David,新古典主義|革命|歴史画,古代の厳格さで革命の倫理と政治を造形化した,新古典主義,フランス
+artist_ingres,アングル,Jean-Auguste-Dominique Ingres|Ingres,新古典主義|線描|肖像,精密な線と理想化で古典と近代の緊張を作った,新古典主義,フランス
+artist_delacroix,ドラクロワ,Eugène Delacroix|Eugene Delacroix,ロマン主義|色彩|動勢,燃える色彩と動きで歴史と異国情緒を描いた,ロマン主義,フランス
+artist_turner,ターナー,J.M.W. Turner|Turner,ロマン主義|光|海景,霧と光の渦で自然のエネルギーを抽象化した,ロマン主義,イギリス
+artist_constable,コンスタブル,John Constable,風景画|自然観察|田園,雲と湿度まで観察し現実の田園を重みで描いた,ロマン主義,イギリス
+artist_courbet,クールベ,Gustave Courbet,写実主義|社会|厚塗り,労働と日常を大画面に持ち込み主題を更新した,写実主義,フランス
+artist_millet,ミレー,Jean-François Millet|Jean-Francois Millet,バルビゾン派|農民|敬虔,農村の労働を静かな尊厳として描いた,写実主義,フランス
+artist_corot,コロー,Jean-Baptiste-Camille Corot|Corot,バルビゾン派|風景|トーン,柔らかな空気と銀灰色の調子で橋渡しをした,19世紀,フランス
+artist_daumier,ドーミエ,Honoré Daumier|Honore Daumier,風刺|社会|版画,鋭い観察で政治と市民生活を描いた,19世紀,フランス
+artist_manet,マネ,Édouard Manet|Edouard Manet|Manet,近代絵画|都市|平面性,古典引用と大胆な省略で近代絵画の扉を開いた,近代,フランス
+artist_monet,モネ,Claude Monet,印象派|連作|光,光の移ろいを連作で追い視覚体験へ変えた,印象派,フランス
+artist_renoir,ルノワール,Pierre-Auguste Renoir|Auguste Renoir,印象派|人物|温かい色,肌の光と社交の喜びを温かな色調で描いた,印象派,フランス
+artist_degas,ドガ,Edgar Degas,印象派|踊り子|構図,切り取る構図で都市の動作と視線を捉えた,印象派,フランス
+artist_pissarro,ピサロ,Camille Pissarro,印象派|田園|都市風景,田園と近代都市を穏やかな筆致で描き続けた,印象派,フランス
+artist_sisley,シスレー,Alfred Sisley,印象派|風景|水辺,空と水の反射を中心に静かな風景を描いた,印象派,フランス
+artist_cezanne,セザンヌ,Paul Cézanne|Paul Cezanne,ポスト印象派|構造|静物,自然を形の骨格として捉え近代の基礎を作った,ポスト印象派,フランス
+artist_van_gogh,フィンセント・ファン・ゴッホ,Vincent van Gogh|Van Gogh,ポスト印象派|筆触|色彩,うねる筆致と強い色で感情を画面に刻んだ,ポスト印象派,オランダ
+artist_gauguin,ゴーギャン,Paul Gauguin,ポスト印象派|象徴|平面,色面と象徴性で理想郷のイメージを作った,ポスト印象派,フランス
+artist_seurat,スーラ,Georges Seurat,新印象派|点描|理論,点描で視覚混合の効果を理論的に追求した,新印象派,フランス
+artist_toulouse_lautrec,トゥールーズ＝ロートレック,Henri de Toulouse-Lautrec|Toulouse-Lautrec,ポスター|夜の街|線,夜の街を鋭い線と平面で捉えポスター芸術を高めた,19世紀末,フランス
+artist_rodin,ロダン,Auguste Rodin,彫刻|近代|表面,荒い表面と未完性で感情と運動を刻んだ,近代,フランス
+artist_klimt,クリムト,Gustav Klimt,象徴主義|装飾|金,装飾と官能で世紀末ウィーンを象徴した,世紀末,オーストリア
+artist_schiele,エゴン・シーレ,Egon Schiele,表現主義|線|身体,切迫した線と歪む身体で内面の不安を露わにした,表現主義,オーストリア
+artist_munch,ムンク,Edvard Munch,表現主義|不安|色,強い色と簡潔形で生と死の不安を反復した,表現主義,ノルウェー
+artist_hilma_af_klint,ヒルマ・アフ・クリント,Hilma af Klint,抽象|神秘主義|先駆,霊性の体系を抽象形態へ翻訳し先駆的作品を残した,近代,スウェーデン
+artist_picasso,ピカソ,Pablo Picasso,キュビスム|多様式|20世紀,形の分解と再構成で視点を複数化し表現を更新した,20世紀,スペイン
+artist_braque,ブラック,Georges Braque,キュビスム|コラージュ|静物,素材と空間を再定義しキュビスムの言語を固めた,20世紀,フランス
+artist_matisse,マティス,Henri Matisse,フォーヴィスム|色彩|室内,解放された色彩で室内と人物を明快に構成した,20世紀,フランス
+artist_kandinsky,カンディンスキー,Wassily Kandinsky,抽象|構成|理論,色と形の響きを理論化し抽象絵画を推進した,20世紀,ロシア
+artist_klee,パウル・クレー,Paul Klee,バウハウス|線|詩性,遊ぶ線と色で思考と詩を可視化した,20世紀,スイス
+artist_mondrian,モンドリアン,Piet Mondrian,デ・ステイル|幾何学|抽象,垂直水平と原色へ還元し普遍的秩序を追った,20世紀,オランダ
+artist_malevich,マレーヴィチ,Kazimir Malevich,シュプレマティスム|無対象|幾何学,無対象の形態で絵画の限界を押し広げた,前衛,ロシア
+artist_tatlin,タトリン,Vladimir Tatlin,構成主義|素材|立体,工業素材と構造で芸術を技術と社会へ接続した,前衛,ロシア
+artist_duchamp,デュシャン,Marcel Duchamp,ダダ|レディメイド|概念,既製品を作品化し芸術の定義を揺さぶった,ダダ,フランス
+artist_dali,ダリ,Salvador Dalí|Salvador Dali,シュルレアリスム|夢|細密,夢の論理を精緻な写実で描き無意識を舞台化した,シュルレアリスム,スペイン
+artist_magritte,ルネ・マグリット,René Magritte|Rene Magritte,シュルレアリスム|言語|逆説,日常物をずらしイメージと言葉の関係を問うた,シュルレアリスム,ベルギー
+artist_miro,ミロ,Joan Miró|Joan Miro,記号|色面|詩,記号的形態と色面で遊びと宇宙感覚を描いた,20世紀,スペイン
+artist_chagall,シャガール,Marc Chagall,詩的|色彩|民俗,記憶と神話を浮遊する人物で鮮やかに描いた,20世紀,ベラルーシ
+artist_kahlo,フリーダ・カーロ,Frida Kahlo,自画像|象徴|身体,痛みと自己を神話的な自画像として描いた,20世紀,メキシコ
+artist_diego_rivera,ディエゴ・リベラ,Diego Rivera,壁画|社会|歴史,公共壁画で歴史と労働者の物語を描いた,20世紀,メキシコ
+artist_okeeffe,ジョージア・オキーフ,Georgia O'Keeffe|Georgia OKeeffe,モダニズム|花|拡大,花や骨を拡大し形態の抽象性を強調した,20世紀,アメリカ
+artist_hopper,エドワード・ホッパー,Edward Hopper,写実|都市|孤独,静かな都市に孤独と間を置く時間を描いた,20世紀,アメリカ
+artist_pollock,ジャクソン・ポロック,Jackson Pollock,抽象表現主義|ドリッピング|身体性,絵具の滴りで身体運動そのものを画面に刻んだ,抽象表現主義,アメリカ
+artist_rothko,マーク・ロスコ,Mark Rothko,色面|抽象|瞑想,大きな色面の層で沈黙の空間を作った,抽象表現主義,アメリカ
+artist_de_kooning,ウィレム・デ・クーニング,Willem de Kooning,抽象表現主義|筆触|人物,荒い筆触で抽象と人物像を往復し緊張を保った,抽象表現主義,アメリカ
+artist_warhol,アンディ・ウォーホル,Andy Warhol,ポップアート|反復|メディア,反復と量産で消費社会のイメージを作品化した,ポップアート,アメリカ
+artist_basquiat,ジャン＝ミシェル・バスキア,Jean-Michel Basquiat|Basquiat,新表現主義|文字|ストリート,文字と記号で権力と歴史を衝突させた,現代,アメリカ
+artist_haring,キース・ヘリング,Keith Haring,ストリート|記号|社会,単純な記号で社会的メッセージを街へ拡散した,現代,アメリカ
+artist_louise_bourgeois,ルイーズ・ブルジョワ,Louise Bourgeois,彫刻|記憶|感情,家族と記憶の感情を彫刻と空間へ昇華した,現代,フランス
+artist_bacon,フランシス・ベーコン,Francis Bacon,具象|歪み|存在,歪んだ肉体像で暴力と不安を露骨に描いた,20世紀,イギリス
+artist_hockney,デイヴィッド・ホックニー,David Hockney,現代|色彩|視点,鮮やかな色と複数視点で日常空間を再構成した,現代,イギリス
+artist_morandi,モランディ,Giorgio Morandi,静物|反復|トーン,瓶と器の距離と灰色の調子で時間を沈殿させた,20世紀,イタリア
+artist_brancusi,ブランクーシ,Constantin Brâncuși|Constantin Brancusi,彫刻|簡素化|抽象,形を極限まで単純化し本質の輪郭を彫刻化した,近代,ルーマニア
+artist_giacometti,ジャコメッティ,Alberto Giacometti,彫刻|実存|細長い,細長い人体像で実存的距離と空間の重さを表した,20世紀,スイス
+artist_lempicka,タマラ・ド・レンピッカ,Tamara de Lempicka,アールデコ|肖像|モダン,硬質な光沢表現で都会的肖像を描いた,アールデコ,ポーランド
+artist_sonia_delaunay,ソニア・ドローネー,Sonia Delaunay,抽象|色彩|デザイン,色彩のリズムを絵画とテキスタイルへ展開した,20世紀,フランス
+artist_jan_van_eyck,ヤン・ファン・エイク,Jan van Eyck,初期フランドル派|油彩|細密,油彩の可能性を広げ質感描写を極めた,北方ルネサンス,フランドル
+artist_bosch,ヒエロニムス・ボス,Hieronymus Bosch,北方ルネサンス|幻想|寓意,怪奇な想像力で罪と救済の寓意世界を描いた,北方ルネサンス,ネーデルラント
+artist_bruegel_elder,ピーテル・ブリューゲル,Pieter Bruegel the Elder|Bruegel,北方ルネサンス|風俗画|風景,農民の生活と季節の循環を大きな視野で描いた,北方ルネサンス,フランドル
+artist_durer,アルブレヒト・デューラー,Albrecht Dürer|Albrecht Duerer|Durer,北方ルネサンス|版画|理論,版画と理論で写実を高め人体比例も研究した,北方ルネサンス,ドイツ
+artist_holbein,ハンス・ホルバイン,Hans Holbein the Younger|Holbein,北方ルネサンス|肖像|宮廷,緻密な描写で宗教改革期の人物像を記録的に描いた,北方ルネサンス,ドイツ
+artist_fra_angelico,フラ・アンジェリコ,Fra Angelico,初期ルネサンス|宗教画|清澄,透明な色と静けさで敬虔な世界を描いた,前期ルネサンス,イタリア
+artist_masaccio,マザッチョ,Masaccio,初期ルネサンス|遠近|人体,重さのある人体と統一遠近で近代的空間を確立した,前期ルネサンス,イタリア
+artist_donatello,ドナテッロ,Donatello,彫刻|古典復興|写実,古典復興の精神で表情豊かな写実彫刻を生み出した,前期ルネサンス,イタリア
+artist_bernini,ベルニーニ,Gian Lorenzo Bernini|Bernini,バロック|彫刻|劇場性,激しい動きと光の効果で宗教体験を劇場化した,バロック,イタリア
+artist_william_blake,ウィリアム・ブレイク,William Blake|Blake,ロマン主義|幻視|詩と版画,詩と版画を融合し幻視的世界を独自の神話で描いた,ロマン主義,イギリス
+artist_sargent,ジョン・シンガー・サージェント,John Singer Sargent|Sargent,肖像|印象派的筆致|上流社会,流麗な筆致で上流社会の人物像を鮮やかに描いた,19世紀末,アメリカ
+artist_vigee_le_brun,ヴィジェ＝ルブラン,Élisabeth Vigée Le Brun|Elisabeth Vigee Le Brun|Vigee Le Brun,肖像|宮廷|女性画家,柔らかな表情と華やかさで宮廷肖像を描いた,18世紀,フランス
+artist_berthe_morisot,ベルト・モリゾ,Berthe Morisot|Morisot,印象派|女性画家|室内,軽い筆致で家庭の瞬間を透明に切り取った,印象派,フランス
+artist_mary_cassatt,メアリー・カサット,Mary Cassatt|Cassatt,印象派|母子|版画,親密な母子像と版画表現で近代生活の視線を示した,印象派,アメリカ
+artist_hokusai,葛飾北斎,Katsushika Hokusai|Hokusai,浮世絵|風景|波,大胆な構図と線で自然と都市の活力を描いた,江戸,日本
+artist_hiroshige,歌川広重,Utagawa Hiroshige|Hiroshige,浮世絵|街道|雨雪,叙情的な色面で旅と季節の空気を描いた,江戸,日本
+artist_utamaro,喜多川歌麿,Kitagawa Utamaro|Utamaro,浮世絵|美人画|繊細,女性の表情と仕草を繊細に捉え美人画を洗練した,江戸,日本
+artist_sesshu,雪舟等楊,Sesshū Tōyō|Sesshu Toyo|Sesshu,水墨画|山水|禅,鋭い筆勢の水墨山水で緊張感ある空間を作った,室町,日本
+artist_korin,尾形光琳,Ogata Kōrin|Ogata Korin|Korin,琳派|装飾|屏風,大胆な図案化と金地で自然をデザインへ昇華した,江戸,日本
+artist_jakuchu,伊藤若冲,Itō Jakuchū|Ito Jakuchu|Jakuchu,江戸絵画|細密|動植物,細密描写と鮮烈な色で生命感を極めた,江戸,日本

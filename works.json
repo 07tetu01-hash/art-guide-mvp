@@ -1,16 +1,6 @@
 {
   "works": [
     {
-      "id": "work_001",
-      "title": "無限の網",
-      "artistId": "artist_kusama",
-      "tags": [
-        "反復",
-        "ドット",
-        "網目"
-      ]
-    },
-    {
       "id": "work_002",
       "title": "The Son of Man",
       "artistId": "artist_magritte",
