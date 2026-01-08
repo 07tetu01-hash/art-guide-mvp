@@ -6,7 +6,7 @@
       "venue": "Tokyo Example Museum",
       "startDate": "2026-01-10",
       "endDate": "2026-03-01",
-      "artistIds": ["artist_magritte", "artist_kandinsky"]
+      "artistIds": ["artist_magritte", "artist_kandinsky"],
       "url": "https://example.com/magritte"
     },
     {
@@ -15,7 +15,7 @@
       "venue": "Kanto Art Center",
       "startDate": "2026-01-05",
       "endDate": "2026-02-20",
-      "artistIds": ["artist_kusama"]
+      "artistIds": ["artist_kusama"],
       "url": "https://yayoikusamamuseum.jp/exhibition/current/"
     },
     {
@@ -24,7 +24,7 @@
       "venue": "Yokohama City Gallery",
       "startDate": "2026-01-15",
       "endDate": "2026-04-15",
-      "artistIds": ["artist_monet", "artist_renoir"]
+      "artistIds": ["artist_monet", "artist_renoir"],
       "url": "https://example.com/renoir"
     }
   ]
