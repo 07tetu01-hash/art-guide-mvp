@@ -1,0 +1,28 @@
+{
+  "exhibitions": [
+    {
+      "id": "exh_001",
+      "title": "Magritte & Friends",
+      "venue": "Tokyo Example Museum",
+      "startDate": "2026-01-10",
+      "endDate": "2026-03-01",
+      "artistIds": ["artist_magritte", "artist_kandinsky"]
+    },
+    {
+      "id": "exh_002",
+      "title": "Yayoi Kusama Retrospective",
+      "venue": "Kanto Art Center",
+      "startDate": "2026-01-05",
+      "endDate": "2026-02-20",
+      "artistIds": ["artist_kusama"]
+    },
+    {
+      "id": "exh_003",
+      "title": "Impressionism Highlights",
+      "venue": "Yokohama City Gallery",
+      "startDate": "2026-01-15",
+      "endDate": "2026-04-15",
+      "artistIds": ["artist_monet", "artist_renoir"]
+    }
+  ]
+}
