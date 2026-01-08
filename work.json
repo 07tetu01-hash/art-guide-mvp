@@ -1,0 +1,7 @@
+{
+  "works": [
+    { "id": "work_kusama_01", "title": "Infinity Mirror Rooms", "artistId": "artist_kusama", "year": "2013", "museum": "Yayoi Kusama Museum" },
+    { "id": "work_monet_01", "title": "Water Lilies", "artistId": "artist_monet", "year": "1916", "museum": "Musée de l'Orangerie" },
+    { "id": "work_magritte_01", "title": "The Son of Man", "artistId": "artist_magritte", "year": "1964", "museum": "Private/Various" }
+  ]
+}
