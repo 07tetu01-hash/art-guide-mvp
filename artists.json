@@ -77,6 +77,20 @@
       ],
       "era": "19世紀",
       "region": "欧州"
+    },
+    {
+      "id": "artist_test_001",
+      "name": "テスト作家",
+      "aliases": [
+        "Test Artist"
+      ],
+      "blurb": "色面と線の関係を探る作家",
+      "tags": [
+        "抽象",
+        "実験"
+      ],
+      "era": "現代",
+      "region": "日本"
     }
   ]
 }
