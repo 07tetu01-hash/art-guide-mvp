@@ -1549,6 +1549,306 @@
       ],
       "era": "江戸",
       "region": "日本"
+    },
+    {
+      "id": "artist_ad_reinhardt",
+      "name": "アド・ラインハート",
+      "aliases": [
+        "Ad Reinhardt"
+      ],
+      "blurb": "黒の抽象画を徹底し、絵画を極限まで還元する方向を示した",
+      "tags": [
+        "抽象",
+        "ミニマル",
+        "モノクロ"
+      ],
+      "era": "ミニマル前夜",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_andrew_wyeth",
+      "name": "アンドリュー・ワイエス",
+      "aliases": [
+        "Andrew Wyeth"
+      ],
+      "blurb": "乾いた光と静謐さで農村の記憶や不在の気配を描いた",
+      "tags": [
+        "写実",
+        "テンペラ",
+        "アメリカンリアリズム"
+      ],
+      "era": "20世紀",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_calder",
+      "name": "アレクサンダー・カルダー",
+      "aliases": [
+        "Alexander Calder"
+      ],
+      "blurb": "モビールで彫刻に運動と偶然性を導入し空間芸術を刷新した",
+      "tags": [
+        "彫刻",
+        "モビール",
+        "抽象"
+      ],
+      "era": "モダニズム",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_caspar_david_friedrich",
+      "name": "カスパー・ダーヴィト・フリードリヒ",
+      "aliases": [
+        "Caspar David Friedrich"
+      ],
+      "blurb": "自然の広がりに人の内面を重ね、孤独と崇高を象徴的に描いた",
+      "tags": [
+        "ロマン主義",
+        "風景",
+        "崇高"
+      ],
+      "era": "ロマン主義",
+      "region": "ドイツ"
+    },
+    {
+      "id": "artist_damien_hirst",
+      "name": "ダミアン・ハースト",
+      "aliases": [
+        "Damien Hirst"
+      ],
+      "blurb": "標本や反復イメージで生と死、信仰と消費を挑発的に扱った",
+      "tags": [
+        "現代美術",
+        "YBA",
+        "生と死"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_el_lissitzky",
+      "name": "エル・リシツキー",
+      "aliases": [
+        "El Lissitzky"
+      ],
+      "blurb": "構成主義とグラフィックで芸術と社会の接点を設計した",
+      "tags": [
+        "構成主義",
+        "タイポグラフィ",
+        "デザイン"
+      ],
+      "era": "ロシア・アヴァンギャルド",
+      "region": "ロシア"
+    },
+    {
+      "id": "artist_gainsborough",
+      "name": "トマス・ゲインズバラ",
+      "aliases": [
+        "Thomas Gainsborough"
+      ],
+      "blurb": "軽やかな筆致で肖像と田園風景を詩的に描き英国絵画を代表した",
+      "tags": [
+        "肖像",
+        "風景",
+        "18世紀"
+      ],
+      "era": "18世紀",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_georges_de_la_tour",
+      "name": "ジョルジュ・ド・ラ・トゥール",
+      "aliases": [
+        "Georges de La Tour"
+      ],
+      "blurb": "ろうそくの光に照らされた静かな場面で明暗表現を極めた",
+      "tags": [
+        "バロック",
+        "明暗",
+        "ろうそく"
+      ],
+      "era": "バロック",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_grant_wood",
+      "name": "グラント・ウッド",
+      "aliases": [
+        "Grant Wood"
+      ],
+      "blurb": "中西部の生活を象徴的に描き地域主義絵画を代表した",
+      "tags": [
+        "地域主義",
+        "アメリカ",
+        "農村"
+      ],
+      "era": "20世紀",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_hans_memling",
+      "name": "ハンス・メムリンク",
+      "aliases": [
+        "Hans Memling"
+      ],
+      "blurb": "端正な描写と澄んだ色調で信仰画と肖像を精緻に表現した",
+      "tags": [
+        "初期フランドル",
+        "宗教画",
+        "肖像"
+      ],
+      "era": "初期フランドル",
+      "region": "ネーデルラント"
+    },
+    {
+      "id": "artist_henry_moore",
+      "name": "ヘンリー・ムーア",
+      "aliases": [
+        "Henry Moore"
+      ],
+      "blurb": "穴の開いた有機的フォルムで人体と風景の共鳴を彫刻にした",
+      "tags": [
+        "彫刻",
+        "人体",
+        "有機形態"
+      ],
+      "era": "モダニズム",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_hunt",
+      "name": "ウィリアム・ホルマン・ハント",
+      "aliases": [
+        "William Holman Hunt"
+      ],
+      "blurb": "精密な自然描写と象徴性でラファエル前派の理念を体現した",
+      "tags": [
+        "ラファエル前派",
+        "宗教画",
+        "象徴"
+      ],
+      "era": "ラファエル前派",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_jasper_johns",
+      "name": "ジャスパー・ジョーンズ",
+      "aliases": [
+        "Jasper Johns"
+      ],
+      "blurb": "旗や標的など既成記号を描き、意味と物質の境界を問い直した",
+      "tags": [
+        "ネオダダ",
+        "記号",
+        "ポップ前夜"
+      ],
+      "era": "ネオダダ",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_jeff_koons",
+      "name": "ジェフ・クーンズ",
+      "aliases": [
+        "Jeff Koons"
+      ],
+      "blurb": "鏡面彫刻や量産イメージで欲望と価値の仕組みを誇張した",
+      "tags": [
+        "現代美術",
+        "ポップ",
+        "キッチュ"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_joseph_kosuth",
+      "name": "ジョセフ・コスース",
+      "aliases": [
+        "Joseph Kosuth"
+      ],
+      "blurb": "言葉と定義を素材に、作品の意味生成そのものを提示した",
+      "tags": [
+        "コンセプチュアル",
+        "言語",
+        "定義"
+      ],
+      "era": "コンセプチュアル",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_lichtenstein",
+      "name": "ロイ・リキテンスタイン",
+      "aliases": [
+        "Roy Lichtenstein"
+      ],
+      "blurb": "コミック表現を拡大し、印刷網点で大衆文化の視覚語を転用した",
+      "tags": [
+        "ポップアート",
+        "コミック",
+        "網点"
+      ],
+      "era": "ポップアート",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_millais",
+      "name": "ジョン・エヴァレット・ミレー",
+      "aliases": [
+        "John Everett Millais"
+      ],
+      "blurb": "鮮烈な色と緻密な描写で物語性の高い場面を構築した",
+      "tags": [
+        "ラファエル前派",
+        "物語",
+        "肖像"
+      ],
+      "era": "ラファエル前派",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_rossetti",
+      "name": "ダンテ・ガブリエル・ロセッティ",
+      "aliases": [
+        "Dante Gabriel Rossetti"
+      ],
+      "blurb": "詩と絵画を往還し、官能的な女性像と象徴色彩で独自世界を築いた",
+      "tags": [
+        "ラファエル前派",
+        "象徴",
+        "詩"
+      ],
+      "era": "ラファエル前派",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_rousseau",
+      "name": "アンリ・ルソー",
+      "aliases": [
+        "Henri Rousseau"
+      ],
+      "blurb": "素朴な筆致と幻想的な植物描写で夢のような風景を生んだ",
+      "tags": [
+        "素朴派",
+        "象徴",
+        "ジャングル"
+      ],
+      "era": "素朴派",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_waterhouse",
+      "name": "ジョン・ウィリアム・ウォーターハウス",
+      "aliases": [
+        "John William Waterhouse"
+      ],
+      "blurb": "神話や文学の女性像を濃密な色彩で叙情的に描いた",
+      "tags": [
+        "後期ラファエル前派",
+        "神話",
+        "文学"
+      ],
+      "era": "後期ラファエル前派",
+      "region": "イギリス"
     }
   ]
 }
