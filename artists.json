@@ -1849,6 +1849,246 @@
       ],
       "era": "後期ラファエル前派",
       "region": "イギリス"
+    },
+    {
+      "id": "artist_ciurlionis",
+      "name": "チュルリョーニス",
+      "aliases": [
+        "Mikalojus Konstantinas Čiurlionis"
+      ],
+      "blurb": "作曲と絵画を往復し宇宙的象徴世界を築いた",
+      "tags": [
+        "象徴主義",
+        "音楽",
+        "絵画"
+      ],
+      "era": "近代",
+      "region": "リトアニア"
+    },
+    {
+      "id": "artist_kawanabe_kyosai",
+      "name": "河鍋暁斎",
+      "aliases": [
+        "Kawanabe Kyōsai"
+      ],
+      "blurb": "奇想と筆力で戯画から仏画まで奔放に描き切った",
+      "tags": [
+        "日本画",
+        "戯画",
+        "幕末明治"
+      ],
+      "era": "近代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_albert_marquet",
+      "name": "アルベール・マルケ",
+      "aliases": [
+        "Albert Marquet"
+      ],
+      "blurb": "静かな色面で都市と水辺の気配をすくい取った",
+      "tags": [
+        "フォーヴ",
+        "風景",
+        "水辺"
+      ],
+      "era": "近代",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_alfredo_jaar",
+      "name": "アルフレド・ジャー",
+      "aliases": [
+        "Alfredo Jaar"
+      ],
+      "blurb": "政治とメディアを問う作品で見ることの倫理を揺さぶった",
+      "tags": [
+        "現代",
+        "社会",
+        "インスタレーション"
+      ],
+      "era": "現代",
+      "region": "チリ"
+    },
+    {
+      "id": "artist_richard_tuttle",
+      "name": "リチャード・タトル",
+      "aliases": [
+        "Richard Tuttle"
+      ],
+      "blurb": "小さな形と素材で空間の感覚を更新し続けた",
+      "tags": [
+        "現代",
+        "ミニマル",
+        "ドローイング"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_dan_graham",
+      "name": "ダン・グレアム",
+      "aliases": [
+        "Dan Graham"
+      ],
+      "blurb": "パビリオンや映像で観者と空間の関係を可視化した",
+      "tags": [
+        "現代",
+        "映像",
+        "建築"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_aoki_jun",
+      "name": "青木淳",
+      "aliases": [
+        "Jun Aoki"
+      ],
+      "blurb": "軽やかな構成で建築と都市の輪郭を編み替える",
+      "tags": [
+        "建築",
+        "現代",
+        "空間"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_mina_perhonen",
+      "name": "minä perhonen",
+      "aliases": [
+        "minä perhonen"
+      ],
+      "blurb": "物語性ある図案で日常に詩情を差し込む",
+      "tags": [
+        "デザイン",
+        "テキスタイル",
+        "現代"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_takiguchi_shuzo",
+      "name": "瀧口修造",
+      "aliases": [
+        "Takiguchi Shūzō"
+      ],
+      "blurb": "言葉とイメージの実験で日本前衛を牽引した",
+      "tags": [
+        "前衛",
+        "詩",
+        "批評"
+      ],
+      "era": "近代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_ettore_sottsass",
+      "name": "エットレ・ソットサス",
+      "aliases": [
+        "Ettore Sottsass"
+      ],
+      "blurb": "メンフィスなどで色と形の祝祭をデザインに持ち込んだ",
+      "tags": [
+        "デザイン",
+        "ポストモダン",
+        "家具"
+      ],
+      "era": "現代",
+      "region": "イタリア"
+    },
+    {
+      "id": "artist_kobayashi_kiyochika",
+      "name": "小林清親",
+      "aliases": [
+        "Kobayashi Kiyochika"
+      ],
+      "blurb": "光線画で近代都市の陰影を版画に刻んだ",
+      "tags": [
+        "版画",
+        "明治",
+        "新版画前史"
+      ],
+      "era": "近代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_kawase_hasui",
+      "name": "川瀬巴水",
+      "aliases": [
+        "Kawase Hasui"
+      ],
+      "blurb": "叙情的な風景で新版画の人気を決定づけた",
+      "tags": [
+        "新版画",
+        "風景",
+        "大正昭和"
+      ],
+      "era": "近代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_mori_mariko",
+      "name": "森万里子",
+      "aliases": [
+        "Mariko Mori"
+      ],
+      "blurb": "テクノロジーと精神性を交差させ未来的な祈りの場を立ち上げる",
+      "tags": [
+        "現代",
+        "映像",
+        "インスタレーション"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_ron_mueck",
+      "name": "ロン・ミュエク",
+      "aliases": [
+        "Ron Mueck"
+      ],
+      "blurb": "スケールの違和感と超写実で身体感覚を攪乱する",
+      "tags": [
+        "現代",
+        "彫刻",
+        "写実"
+      ],
+      "era": "現代",
+      "region": "オーストラリア"
+    },
+    {
+      "id": "artist_yoshida_nagi",
+      "name": "吉田ナギ",
+      "aliases": [
+        "Nagi Yoshida"
+      ],
+      "blurb": "世界各地のコミュニティを鮮烈なポートレートで記録する",
+      "tags": [
+        "写真",
+        "現代",
+        "ポートレート"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_antonio_fontanesi",
+      "name": "アントニオ・フォンタネージ",
+      "aliases": [
+        "Antonio Fontanesi"
+      ],
+      "blurb": "近代日本の洋画教育にも影響した風景画家",
+      "tags": [
+        "近代",
+        "風景画",
+        "日欧"
+      ],
+      "era": "近代",
+      "region": "イタリア"
     }
   ]
 }

@@ -1,3 +1,34 @@
 id,title,venue,startDate,endDate,artistIds,url,area,tags
-exh_001,Magritte & Friends,Tokyo Example Museum,2026-01-10,2026-03-01,artist_magritte|artist_kandinsky,https://example.com/magritte,東京,シュルレアリスム|近代
-exh_003,Impressionism Highlights,Yokohama City Gallery,2026-01-15,2026-04-15,artist_monet|artist_renoir,https://example.com/renoir,神奈川,印象派|絵画
+exh_004,博物館に初もうで,東京国立博物館,2026-01-02,2026-01-25,,https://www.tnm.jp/,東京,日本|文化財|博物館
+exh_005,特別展 百万石！加賀前田家,東京国立博物館,2026-01-04,2026-02-01,,https://www.tnm.jp/,東京,日本|歴史|工芸
+exh_006,特別展 チェスター・ビーティー・コレクション,東京国立博物館,2026-01-06,2026-02-15,,https://www.tnm.jp/,東京,書物|装飾写本|コレクション
+exh_007,特別展 空海と真言の名宝,東京国立博物館,2026-01-14,2026-03-15,,https://www.tnm.jp/,東京,仏教美術|日本|文化財
+exh_008,オルセー美術館所蔵 印象派ー室内をめぐる物語,国立西洋美術館,2025-10-25,2026-04-05,,https://www.nmwa.go.jp/,東京,西洋|印象派|絵画
+exh_009,北斎 冨嶽三十六景 井内コレクションより,すみだ北斎美術館,2026-02-10,2026-06-07,artist_hokusai,https://hokusai-museum.jp/,東京,浮世絵|江戸|版画
+exh_010,スウェーデン絵画 北欧の光、日常のかがやき,東京都美術館,2026-01-27,2026-05-12,,https://www.tobikan.jp/,東京,絵画|北欧|近代
+exh_011,チュルリョーニス展,上野の森美術館,2026-03-14,2026-06-14,artist_ciurlionis,https://www.ueno-mori.org/,東京,象徴主義|音楽|絵画
+exh_012,版画家レンブラント,国立西洋美術館,2026-04-08,2026-07-05,artist_rembrandt,https://www.nmwa.go.jp/,東京,版画|西洋|バロック
+exh_013,テート美術館 ターナー展,東京都美術館,2026-03-25,2026-06-14,artist_turner,https://www.tobikan.jp/,東京,絵画|ロマン主義|英国
+exh_014,アンドリュー・ワイエス展,東京都美術館,2026-03-20,2026-06-21,artist_andrew_wyeth,https://www.tobikan.jp/,東京,絵画|アメリカ|20世紀
+exh_015,大英博物館日本美術コレクション 百花繚乱～海を越えた江戸絵画,東京都美術館,2026-01-02,2026-02-15,,https://www.tobikan.jp/,東京,日本|江戸|絵画
+exh_016,ヨシダナギ写真展 HEROES －RELOADED－,上野の森美術館,2025-12-06,2026-02-08,artist_yoshida_nagi,https://www.ueno-mori.org/,東京,写真|現代|ポートレート
+exh_017,アール・デコとモード,三菱一号館美術館,2025-10-11,2026-01-25,,https://mimt.jp/,東京,デザイン|アール・デコ|近代
+exh_018,トワイライト、新版画―小林清親から川瀬巴水まで,三菱一号館美術館,2026-02-19,2026-05-24,artist_kobayashi_kiyochika|artist_kawase_hasui,https://mimt.jp/,東京,新版画|版画|日本
+exh_019,アントニオ・フォンタネージ展 ヨーロッパと日本を橋渡しした風景画（仮称）,三菱一号館美術館,2026-10-17,2027-01-24,artist_antonio_fontanesi,https://mimt.jp/,東京,風景画|近代|日欧
+exh_020,国宝 熊野御幸記と藤原定家の書,三井記念美術館,2025-12-06,2026-02-01,,https://www.mitsui-museum.jp/,東京,書|国宝|日本
+exh_021,クラウド・モネ －風景への問いかけ,アーティゾン美術館,2026-02-07,2026-05-24,artist_monet,https://www.artizon.museum/,東京,印象派|絵画|連作
+exh_022,瀧口修造 書くことと描くこと,アーティゾン美術館,2026-06-23,2026-10-04,artist_takiguchi_shuzo,https://www.artizon.museum/,東京,日本|前衛|詩・批評
+exh_023,エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる,アーティゾン美術館,2026-06-23,2026-10-04,artist_ettore_sottsass,https://www.artizon.museum/,東京,デザイン|ポストモダン|イタリア
+exh_024,ルーヴル美術館展 ルネサンス,国立新美術館,2026-09-09,2026-12-13,,https://www.museum.or.jp/event/122660,東京,西洋|ルネサンス|絵画
+exh_025,ゴールドマン コレクション 河鍋暁斎の世界,サントリー美術館,2026-04-22,2026-06-21,artist_kawanabe_kyosai,https://www.museum.or.jp/event/123109,東京,日本|幕末明治|絵画
+exh_026,六本木クロッシング2025展：時間は過ぎ去る わたしたちは永遠,森美術館,2025-12-03,2026-03-29,,https://www.museum.or.jp/event/117673,東京,現代|グループ|日本
+exh_027,ロン・ミュエク展,森美術館,2026-04-29,2026-09-23,artist_ron_mueck,https://www.museum.or.jp/event/122584,東京,現代|彫刻|写実
+exh_028,森万里子展,森美術館,2026-10-31,2027-03-28,artist_mori_mariko,https://www.mori.art.museum/jp/,東京,現代|インスタレーション|日本
+exh_029,美しいユートピア 理想の地を夢みた近代日本の群像,パナソニック汐留美術館,2026-01-15,2026-03-22,,https://www.museum.or.jp/event/121255,東京,日本|近代|絵画
+exh_030,開館50周年記念 モダンアートの街・新宿,SOMPO美術館,2026-01-10,2026-02-15,,https://www.museum.or.jp/event/118576,東京,日本|近代|都市
+exh_031,生誕150年 アルベール・マルケ展（仮称）,SOMPO美術館,2026-09-22,2026-12-13,artist_albert_marquet,https://www.sompo-museum.org/,東京,絵画|フォーヴ|フランス
+exh_032,アルフレド・ジャー あなたと私、そして世界のすべての人たち,東京オペラシティ アートギャラリー,2026-01-21,2026-03-29,artist_alfredo_jaar,https://www.museum.or.jp/event/122608,東京,現代|インスタレーション|社会
+exh_033,ほぼ空：青木淳 ＋ リチャード・タトル,東京オペラシティ アートギャラリー,2026-07-18,2026-09-23,artist_aoki_jun|artist_richard_tuttle,https://www.museum.or.jp/event/120569,東京,現代|建築|ドローイング
+exh_034,ダン・グレアム Dan Graham,東京オペラシティ アートギャラリー,2026-10-17,2026-12-20,artist_dan_graham,https://www.operacity.jp/ag/,東京,現代|映像|インスタレーション
+exh_035,つぐ minä perhonen,世田谷美術館,2025-11-22,2026-02-01,artist_mina_perhonen,https://www.museum.or.jp/event/120571,東京,デザイン|テキスタイル|現代
+exh_036,テート美術館 ― YBA & BEYOND 世界を変えた90s英国アート,国立新美術館,2026-02-11,2026-05-11,,https://www.nact.jp/,東京,現代|英国|90s
