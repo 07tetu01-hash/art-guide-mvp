@@ -1,313 +1,157 @@
 {
   "exhibitions": [
     {
-      "id": "exh_004",
-      "title": "博物館に初もうで",
-      "venue": "東京国立博物館",
-      "startDate": "2026-01-02",
-      "endDate": "2026-01-25",
-      "artistIds": [],
-      "url": "https://www.tnm.jp/",
-      "area": "東京",
-      "tags": [
-        "日本",
-        "文化財",
-        "博物館"
-      ]
-    },
-    {
-      "id": "exh_005",
-      "title": "特別展 百万石！加賀前田家",
-      "venue": "東京国立博物館",
-      "startDate": "2026-01-04",
-      "endDate": "2026-02-01",
-      "artistIds": [],
-      "url": "https://www.tnm.jp/",
-      "area": "東京",
-      "tags": [
-        "日本",
-        "歴史",
-        "工芸"
-      ]
-    },
-    {
-      "id": "exh_006",
-      "title": "特別展 チェスター・ビーティー・コレクション",
-      "venue": "東京国立博物館",
-      "startDate": "2026-01-06",
-      "endDate": "2026-02-15",
-      "artistIds": [],
-      "url": "https://www.tnm.jp/",
-      "area": "東京",
-      "tags": [
-        "書物",
-        "装飾写本",
-        "コレクション"
-      ]
-    },
-    {
-      "id": "exh_007",
-      "title": "特別展 空海と真言の名宝",
-      "venue": "東京国立博物館",
-      "startDate": "2026-01-14",
-      "endDate": "2026-03-15",
-      "artistIds": [],
-      "url": "https://www.tnm.jp/",
-      "area": "東京",
-      "tags": [
-        "仏教美術",
-        "日本",
-        "文化財"
-      ]
-    },
-    {
-      "id": "exh_008",
-      "title": "オルセー美術館所蔵 印象派ー室内をめぐる物語",
-      "venue": "国立西洋美術館",
-      "startDate": "2025-10-25",
-      "endDate": "2026-04-05",
-      "artistIds": [],
-      "url": "https://www.nmwa.go.jp/",
-      "area": "東京",
-      "tags": [
-        "西洋",
-        "印象派",
-        "絵画"
-      ]
-    },
-    {
-      "id": "exh_009",
-      "title": "北斎 冨嶽三十六景 井内コレクションより",
-      "venue": "すみだ北斎美術館",
-      "startDate": "2026-02-10",
-      "endDate": "2026-06-07",
+      "id": "exh_040",
+      "title": "ロン・ミュエク",
+      "venue": "森美術館",
+      "startDate": "2026-04-29",
+      "endDate": "2026-09-23",
       "artistIds": [
-        "artist_hokusai"
+        "artist_ron_mueck",
+        "artist_gautier_deblonde"
       ],
-      "url": "https://hokusai-museum.jp/",
+      "url": "https://www.mori.art.museum/jp/exhibitions/ron_mueck/",
       "area": "東京",
       "tags": [
-        "浮世絵",
-        "江戸",
-        "版画"
+        "現代美術",
+        "彫刻",
+        "人物表現",
+        "回顧展",
+        "森美術館"
       ]
     },
     {
-      "id": "exh_010",
-      "title": "スウェーデン絵画 北欧の光、日常のかがやき",
-      "venue": "東京都美術館",
-      "startDate": "2026-01-27",
-      "endDate": "2026-05-12",
-      "artistIds": [],
-      "url": "https://www.tobikan.jp/",
-      "area": "東京",
-      "tags": [
-        "絵画",
-        "北欧",
-        "近代"
-      ]
-    },
-    {
-      "id": "exh_011",
-      "title": "チュルリョーニス展",
-      "venue": "上野の森美術館",
-      "startDate": "2026-03-14",
-      "endDate": "2026-06-14",
+      "id": "exh_041",
+      "title": "テート美術館 － YBA&BEYOND 世界を変えた90s 英国アート",
+      "venue": "国立新美術館",
+      "startDate": "2026-04-15",
+      "endDate": "2026-07-06",
       "artistIds": [
-        "artist_ciurlionis"
+        "artist_gillian_wearing",
+        "artist_sam_taylor_johnson",
+        "artist_sarah_lucas",
+        "artist_damien_hirst",
+        "artist_michael_landy",
+        "artist_angus_fairhurst",
+        "artist_monica_bonvicini",
+        "artist_mark_wallinger",
+        "artist_liz_rhodes",
+        "artist_hamish_fulton",
+        "artist_chris_ofili",
+        "artist_steve_mcqueen",
+        "artist_martin_creed",
+        "artist_marc_quinn",
+        "artist_fiona_banner",
+        "artist_antony_gormley",
+        "artist_wolfgang_tillmans",
+        "artist_cornelia_parker",
+        "artist_tracey_emin",
+        "artist_ian_davenport",
+        "artist_chapman_brothers",
+        "artist_anish_kapoor",
+        "artist_tom_sachs",
+        "artist_christian_jankowski",
+        "artist_thomas_hirschhorn",
+        "artist_carsten_holler",
+        "artist_julian_opie",
+        "artist_gavin_turk",
+        "artist_peter_doig",
+        "artist_jason_rhoades",
+        "artist_lorna_simpson",
+        "artist_cindy_sherman"
       ],
-      "url": "https://www.ueno-mori.org/",
+      "url": "https://www.nact.jp/exhibition_special/2026/ybabeyond/",
       "area": "東京",
       "tags": [
-        "象徴主義",
-        "音楽",
-        "絵画"
+        "現代美術",
+        "英国",
+        "90年代",
+        "テート",
+        "グループ展"
       ]
     },
     {
-      "id": "exh_012",
-      "title": "版画家レンブラント",
-      "venue": "国立西洋美術館",
-      "startDate": "2026-04-08",
-      "endDate": "2026-07-05",
+      "id": "exh_042",
+      "title": "生誕100年 森英恵（仮）",
+      "venue": "国立新美術館",
+      "startDate": "2026-04-15",
+      "endDate": "2026-07-06",
       "artistIds": [
-        "artist_rembrandt"
+        "artist_hanae_mori"
       ],
-      "url": "https://www.nmwa.go.jp/",
+      "url": "https://www.nact.jp/exhibition_special/2026/hanae_mori/",
       "area": "東京",
       "tags": [
-        "版画",
-        "西洋",
-        "バロック"
-      ]
-    },
-    {
-      "id": "exh_013",
-      "title": "テート美術館 ターナー展",
-      "venue": "東京都美術館",
-      "startDate": "2026-03-25",
-      "endDate": "2026-06-14",
-      "artistIds": [
-        "artist_turner"
-      ],
-      "url": "https://www.tobikan.jp/",
-      "area": "東京",
-      "tags": [
-        "絵画",
-        "ロマン主義",
-        "英国"
-      ]
-    },
-    {
-      "id": "exh_014",
-      "title": "アンドリュー・ワイエス展",
-      "venue": "東京都美術館",
-      "startDate": "2026-03-20",
-      "endDate": "2026-06-21",
-      "artistIds": [
-        "artist_andrew_wyeth"
-      ],
-      "url": "https://www.tobikan.jp/",
-      "area": "東京",
-      "tags": [
-        "絵画",
-        "アメリカ",
-        "20世紀"
-      ]
-    },
-    {
-      "id": "exh_015",
-      "title": "大英博物館日本美術コレクション 百花繚乱～海を越えた江戸絵画",
-      "venue": "東京都美術館",
-      "startDate": "2026-01-02",
-      "endDate": "2026-02-15",
-      "artistIds": [],
-      "url": "https://www.tobikan.jp/",
-      "area": "東京",
-      "tags": [
-        "日本",
-        "江戸",
-        "絵画"
-      ]
-    },
-    {
-      "id": "exh_016",
-      "title": "ヨシダナギ写真展 HEROES －RELOADED－",
-      "venue": "上野の森美術館",
-      "startDate": "2025-12-06",
-      "endDate": "2026-02-08",
-      "artistIds": [
-        "artist_yoshida_nagi"
-      ],
-      "url": "https://www.ueno-mori.org/",
-      "area": "東京",
-      "tags": [
-        "写真",
-        "現代",
-        "ポートレート"
-      ]
-    },
-    {
-      "id": "exh_017",
-      "title": "アール・デコとモード",
-      "venue": "三菱一号館美術館",
-      "startDate": "2025-10-11",
-      "endDate": "2026-01-25",
-      "artistIds": [],
-      "url": "https://mimt.jp/",
-      "area": "東京",
-      "tags": [
+        "ファッション",
         "デザイン",
-        "アール・デコ",
-        "近代"
+        "回顧展",
+        "日本",
+        "国立新美術館"
       ]
     },
     {
-      "id": "exh_018",
-      "title": "トワイライト、新版画―小林清親から川瀬巴水まで",
-      "venue": "三菱一号館美術館",
-      "startDate": "2026-02-19",
-      "endDate": "2026-05-24",
+      "id": "exh_043",
+      "title": "ピカソ meets ポール・スミス（仮）",
+      "venue": "国立新美術館",
+      "startDate": "2026-06-10",
+      "endDate": "2026-09-21",
       "artistIds": [
-        "artist_kobayashi_kiyochika",
-        "artist_kawase_hasui"
+        "artist_picasso",
+        "artist_paul_smith"
       ],
-      "url": "https://mimt.jp/",
+      "url": "https://www.nact.jp/exhibition_special/2026/picasso_paulsmith/",
       "area": "東京",
       "tags": [
-        "新版画",
-        "版画",
-        "日本"
+        "ピカソ",
+        "ファッション",
+        "コラボ",
+        "モダンアート",
+        "企画展"
       ]
     },
     {
-      "id": "exh_019",
-      "title": "アントニオ・フォンタネージ展 ヨーロッパと日本を橋渡しした風景画（仮称）",
-      "venue": "三菱一号館美術館",
-      "startDate": "2026-10-17",
-      "endDate": "2027-01-24",
-      "artistIds": [
-        "artist_antonio_fontanesi"
-      ],
-      "url": "https://mimt.jp/",
-      "area": "東京",
-      "tags": [
-        "風景画",
-        "近代",
-        "日欧"
-      ]
-    },
-    {
-      "id": "exh_020",
-      "title": "国宝 熊野御幸記と藤原定家の書",
-      "venue": "三井記念美術館",
-      "startDate": "2025-12-06",
-      "endDate": "2026-02-01",
-      "artistIds": [],
-      "url": "https://www.mitsui-museum.jp/",
-      "area": "東京",
-      "tags": [
-        "書",
-        "国宝",
-        "日本"
-      ]
-    },
-    {
-      "id": "exh_021",
-      "title": "クラウド・モネ －風景への問いかけ",
+      "id": "exh_044",
+      "title": "モネ没後100年 クロード・モネ ー風景への問いかけ",
       "venue": "アーティゾン美術館",
       "startDate": "2026-02-07",
       "endDate": "2026-05-24",
       "artistIds": [
-        "artist_monet"
+        "artist_monet",
+        "artist_ange_leccia"
       ],
-      "url": "https://www.artizon.museum/",
+      "url": "https://www.artizon.museum/exhibition_sp/monet2026/",
       "area": "東京",
       "tags": [
+        "モネ",
         "印象派",
         "絵画",
-        "連作"
+        "没後100年",
+        "アーティゾン"
       ]
     },
     {
-      "id": "exh_022",
-      "title": "瀧口修造 書くことと描くこと",
+      "id": "exh_045",
+      "title": "カタリウム",
       "venue": "アーティゾン美術館",
-      "startDate": "2026-06-23",
-      "endDate": "2026-10-04",
+      "startDate": "2026-02-07",
+      "endDate": "2026-05-24",
       "artistIds": [
-        "artist_takiguchi_shuzo"
+        "artist_ben_shahn",
+        "artist_tmp_001",
+        "artist_tmp_002"
       ],
-      "url": "https://www.artizon.museum/",
+      "url": "https://www.artizon.museum/exhibition_sp/katarium/",
       "area": "東京",
       "tags": [
-        "日本",
-        "前衛",
-        "詩・批評"
+        "コレクション",
+        "近現代",
+        "絵画",
+        "ドローイング",
+        "アーティゾン"
       ]
     },
     {
-      "id": "exh_023",
+      "id": "exh_046",
       "title": "エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる",
       "venue": "アーティゾン美術館",
       "startDate": "2026-06-23",
@@ -315,224 +159,300 @@
       "artistIds": [
         "artist_ettore_sottsass"
       ],
-      "url": "https://www.artizon.museum/",
+      "url": "https://www.artizon.museum/exhibition/detail/602",
       "area": "東京",
       "tags": [
         "デザイン",
+        "ソットサス",
         "ポストモダン",
-        "イタリア"
+        "建築",
+        "アーティゾン"
       ]
     },
     {
-      "id": "exh_024",
-      "title": "ルーヴル美術館展 ルネサンス",
-      "venue": "国立新美術館",
-      "startDate": "2026-09-09",
-      "endDate": "2026-12-13",
-      "artistIds": [],
-      "url": "https://www.museum.or.jp/event/122660",
-      "area": "東京",
-      "tags": [
-        "西洋",
-        "ルネサンス",
-        "絵画"
-      ]
-    },
-    {
-      "id": "exh_025",
-      "title": "ゴールドマン コレクション 河鍋暁斎の世界",
-      "venue": "サントリー美術館",
-      "startDate": "2026-04-22",
-      "endDate": "2026-06-21",
+      "id": "exh_047",
+      "title": "企画展「デザインの先生」",
+      "venue": "21_21 DESIGN SIGHT",
+      "startDate": "2025-11-21",
+      "endDate": "2026-03-08",
       "artistIds": [
-        "artist_kawanabe_kyosai"
+        "artist_bruno_munari",
+        "artist_max_bill",
+        "artist_achille_castiglioni",
+        "artist_otl_aicher",
+        "artist_enzo_mari",
+        "artist_dieter_rams",
+        "artist_tmp_003"
       ],
-      "url": "https://www.museum.or.jp/event/123109",
+      "url": "https://www.2121designsight.jp/program/design_maestros/",
       "area": "東京",
       "tags": [
-        "日本",
-        "幕末明治",
-        "絵画"
+        "デザイン",
+        "教育",
+        "プロダクト",
+        "グラフィック",
+        "21_21"
       ]
     },
     {
-      "id": "exh_026",
-      "title": "六本木クロッシング2025展：時間は過ぎ去る わたしたちは永遠",
-      "venue": "森美術館",
-      "startDate": "2025-12-03",
-      "endDate": "2026-03-29",
-      "artistIds": [],
-      "url": "https://www.museum.or.jp/event/117673",
-      "area": "東京",
-      "tags": [
-        "現代",
-        "グループ",
-        "日本"
-      ]
-    },
-    {
-      "id": "exh_027",
-      "title": "ロン・ミュエク展",
-      "venue": "森美術館",
-      "startDate": "2026-04-29",
-      "endDate": "2026-09-23",
+      "id": "exh_051",
+      "title": "おしゃれの誕生 －マリー・アントワネットとヴェルサイユのモード（仮）",
+      "venue": "横浜美術館",
+      "startDate": "2026-08-08",
+      "endDate": "2026-11-29",
       "artistIds": [
-        "artist_ron_mueck"
+        "artist_tmp_026",
+        "artist_francois_hubert_drouais"
       ],
-      "url": "https://www.museum.or.jp/event/122584",
-      "area": "東京",
+      "url": "https://yokohama.art.museum/exhibition/2026_marieantoinette_style/",
+      "area": "神奈川",
       "tags": [
-        "現代",
-        "彫刻",
-        "写実"
+        "ファッション",
+        "ヴェルサイユ",
+        "18世紀",
+        "フランス",
+        "横浜美術館"
       ]
     },
     {
-      "id": "exh_028",
-      "title": "森万里子展",
-      "venue": "森美術館",
-      "startDate": "2026-10-31",
-      "endDate": "2027-03-28",
-      "artistIds": [
-        "artist_mori_mariko"
-      ],
-      "url": "https://www.mori.art.museum/jp/",
-      "area": "東京",
-      "tags": [
-        "現代",
-        "インスタレーション",
-        "日本"
-      ]
-    },
-    {
-      "id": "exh_029",
-      "title": "美しいユートピア 理想の地を夢みた近代日本の群像",
-      "venue": "パナソニック汐留美術館",
-      "startDate": "2026-01-15",
-      "endDate": "2026-03-22",
-      "artistIds": [],
-      "url": "https://www.museum.or.jp/event/121255",
-      "area": "東京",
-      "tags": [
-        "日本",
-        "近代",
-        "絵画"
-      ]
-    },
-    {
-      "id": "exh_030",
+      "id": "exh_052",
       "title": "開館50周年記念 モダンアートの街・新宿",
       "venue": "SOMPO美術館",
       "startDate": "2026-01-10",
       "endDate": "2026-02-15",
-      "artistIds": [],
-      "url": "https://www.museum.or.jp/event/118576",
+      "artistIds": [
+        "artist_ogihara_morie",
+        "artist_nakamura_tsune",
+        "artist_satomi_katsuzo",
+        "artist_tsuruta_goro",
+        "artist_saito_yori",
+        "artist_suzuki_ryozo",
+        "artist_somya_ichinen",
+        "artist_arishima_ikuma",
+        "artist_takamura_kotaro",
+        "artist_kishida_ryusei",
+        "artist_miya_yoshihei",
+        "artist_aizu_yaichi",
+        "artist_koizumi_kiyoshi",
+        "artist_saeki_yuzo",
+        "artist_togo_seiji",
+        "artist_minemura_ritsuko",
+        "artist_mitsutani_kunishiro",
+        "artist_oda_kazuma",
+        "artist_hasegawa_toshiyuki",
+        "artist_yoshida_hiroshi",
+        "artist_seimiya_naobumi",
+        "artist_kishida_reiko",
+        "artist_satomi_ton",
+        "artist_nagayo_yoshio",
+        "artist_matsumoto_shunsuke",
+        "artist_aso_saburo",
+        "artist_hayashi_fumiko",
+        "artist_tezuka_ryokubin",
+        "artist_yoshioka_ken",
+        "artist_gyobu_hito",
+        "artist_terada_masaaki",
+        "artist_tsuruoka_masao",
+        "artist_abe_tenya",
+        "artist_takiguchi_shuzo",
+        "artist_saito_yoshishige",
+        "artist_akutagawa_saori",
+        "artist_fukushima_hideko",
+        "artist_miyawaki_aiko"
+      ],
+      "url": "https://www.sompo-museum.org/exhibitions/2024/modern-art/",
       "area": "東京",
       "tags": [
-        "日本",
-        "近代",
-        "都市"
+        "近代美術",
+        "新宿",
+        "コレクション",
+        "企画展"
       ]
     },
     {
-      "id": "exh_031",
-      "title": "生誕150年 アルベール・マルケ展（仮称）",
+      "id": "exh_053",
+      "title": "東京都美術館開館100周年記念 スウェーデン絵画 北欧の光、日常のかがやき",
+      "venue": "東京都美術館",
+      "startDate": "2026-01-27",
+      "endDate": "2026-04-12",
+      "artistIds": [
+        "artist_nils_blommer",
+        "artist_edvard_bergh",
+        "artist_carl_fredrik_hill",
+        "artist_ernst_josephson",
+        "artist_karl_nordstrom",
+        "artist_bruno_liljefors",
+        "artist_oskar_bjorck",
+        "artist_carl_larsson",
+        "artist_anders_zorn",
+        "artist_august_strindberg",
+        "artist_eugene_jansson",
+        "artist_gustaf_fjaestad",
+        "artist_nils_kreuger",
+        "artist_prince_eugen",
+        "artist_richard_bergh"
+      ],
+      "url": "https://www.swedishpainting2026.jp/",
+      "area": "東京",
+      "tags": [
+        "絵画",
+        "スウェーデン",
+        "北欧美術",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_054",
+      "title": "トワイライト、新版画―小林清親から川瀬巴水まで",
+      "venue": "三菱一号館美術館",
+      "startDate": "2026-02-19",
+      "endDate": "2026-05-24",
+      "artistIds": [
+        "artist_kobayashi_kiyochika",
+        "artist_yoshida_hiroshi",
+        "artist_kawase_hasui"
+      ],
+      "url": "https://mimt.jp/ex_sp/shin-hanga/",
+      "area": "東京",
+      "tags": [
+        "新版画",
+        "版画",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_055",
+      "title": "長沢蘆雪",
+      "venue": "府中市美術館",
+      "startDate": "2026-03-14",
+      "endDate": "2026-05-10",
+      "artistIds": [
+        "artist_nagasawa_rosetsu"
+      ],
+      "url": "https://www.city.fuchu.tokyo.jp/art/tenrankai/kikakuten/2025/rosetsu.html",
+      "area": "東京",
+      "tags": [
+        "日本画",
+        "江戸絵画",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_056",
+      "title": "SORAYAMA 光・透明・反射 ーTOKYOー",
+      "venue": "CREATIVE MUSEUM TOKYO",
+      "startDate": "2026-03-14",
+      "endDate": "2026-05-31",
+      "artistIds": [
+        "artist_sorayama_hajime"
+      ],
+      "url": "https://sorayama2026.jp/",
+      "area": "東京",
+      "tags": [
+        "現代美術",
+        "回顧展",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_057",
+      "title": "チュルリョーニス展 内なる星図",
+      "venue": "国立西洋美術館",
+      "startDate": "2026-03-28",
+      "endDate": "2026-06-14",
+      "artistIds": [
+        "artist_mikalojus_konstantinas_ciurlionis"
+      ],
+      "url": "https://2026ciurlionis.nmwa.go.jp/",
+      "area": "東京",
+      "tags": [
+        "絵画",
+        "象徴主義",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_058",
+      "title": "今村紫紅「黄昏の石庭」",
+      "venue": "横浜美術館",
+      "startDate": "2026-04-25",
+      "endDate": "2026-06-28",
+      "artistIds": [
+        "artist_imamura_shiko"
+      ],
+      "url": "https://yokohama.art.museum/exhibition-schedule/",
+      "area": "神奈川",
+      "tags": [
+        "日本画",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_059",
+      "title": "ブーダン展",
+      "venue": "SOMPO美術館",
+      "startDate": "2026-04-11",
+      "endDate": "2026-06-21",
+      "artistIds": [
+        "artist_eugene_boudin"
+      ],
+      "url": "https://www.sompo-museum.org/exhibitions/2026/boudin/",
+      "area": "東京",
+      "tags": [
+        "絵画",
+        "フランス",
+        "近代美術",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_060",
+      "title": "山口華楊展",
+      "venue": "SOMPO美術館",
+      "startDate": "2026-07-11",
+      "endDate": "2026-08-30",
+      "artistIds": [
+        "artist_yamaguchi_kayo"
+      ],
+      "url": "https://www.sompo-museum.org/exhibitions/2026/kayo/",
+      "area": "東京",
+      "tags": [
+        "日本画",
+        "企画展"
+      ]
+    },
+    {
+      "id": "exh_061",
+      "title": "アルベール・マルケ展",
       "venue": "SOMPO美術館",
       "startDate": "2026-09-22",
       "endDate": "2026-12-13",
       "artistIds": [
         "artist_albert_marquet"
       ],
-      "url": "https://www.sompo-museum.org/",
+      "url": "https://www.sompo-museum.org/exhibitions/2026/marquet/",
       "area": "東京",
       "tags": [
         "絵画",
-        "フォーヴ",
-        "フランス"
+        "フランス",
+        "企画展"
       ]
     },
     {
-      "id": "exh_032",
-      "title": "アルフレド・ジャー あなたと私、そして世界のすべての人たち",
-      "venue": "東京オペラシティ アートギャラリー",
-      "startDate": "2026-01-21",
-      "endDate": "2026-03-29",
+      "id": "exh_062",
+      "title": "たたかう仏像",
+      "venue": "静嘉堂文庫美術館",
+      "startDate": "2026-01-02",
+      "endDate": "2026-03-22",
       "artistIds": [
-        "artist_alfredo_jaar"
+        "artist_koen"
       ],
-      "url": "https://www.museum.or.jp/event/122608",
+      "url": "https://www.seikado.or.jp/exhibition/current_exhibition/",
       "area": "東京",
       "tags": [
-        "現代",
-        "インスタレーション",
-        "社会"
-      ]
-    },
-    {
-      "id": "exh_033",
-      "title": "ほぼ空：青木淳 ＋ リチャード・タトル",
-      "venue": "東京オペラシティ アートギャラリー",
-      "startDate": "2026-07-18",
-      "endDate": "2026-09-23",
-      "artistIds": [
-        "artist_aoki_jun",
-        "artist_richard_tuttle"
-      ],
-      "url": "https://www.museum.or.jp/event/120569",
-      "area": "東京",
-      "tags": [
-        "現代",
-        "建築",
-        "ドローイング"
-      ]
-    },
-    {
-      "id": "exh_034",
-      "title": "ダン・グレアム Dan Graham",
-      "venue": "東京オペラシティ アートギャラリー",
-      "startDate": "2026-10-17",
-      "endDate": "2026-12-20",
-      "artistIds": [
-        "artist_dan_graham"
-      ],
-      "url": "https://www.operacity.jp/ag/",
-      "area": "東京",
-      "tags": [
-        "現代",
-        "映像",
-        "インスタレーション"
-      ]
-    },
-    {
-      "id": "exh_035",
-      "title": "つぐ minä perhonen",
-      "venue": "世田谷美術館",
-      "startDate": "2025-11-22",
-      "endDate": "2026-02-01",
-      "artistIds": [
-        "artist_mina_perhonen"
-      ],
-      "url": "https://www.museum.or.jp/event/120571",
-      "area": "東京",
-      "tags": [
-        "デザイン",
-        "テキスタイル",
-        "現代"
-      ]
-    },
-    {
-      "id": "exh_036",
-      "title": "テート美術館 ― YBA & BEYOND 世界を変えた90s英国アート",
-      "venue": "国立新美術館",
-      "startDate": "2026-02-11",
-      "endDate": "2026-05-11",
-      "artistIds": [],
-      "url": "https://www.nact.jp/",
-      "area": "東京",
-      "tags": [
-        "現代",
-        "英国",
-        "90s"
+        "仏像",
+        "彫刻",
+        "企画展"
       ]
     }
   ]

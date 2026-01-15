@@ -1,34 +1,21 @@
 id,title,venue,startDate,endDate,artistIds,url,area,tags
-exh_004,博物館に初もうで,東京国立博物館,2026-01-02,2026-01-25,,https://www.tnm.jp/,東京,日本|文化財|博物館
-exh_005,特別展 百万石！加賀前田家,東京国立博物館,2026-01-04,2026-02-01,,https://www.tnm.jp/,東京,日本|歴史|工芸
-exh_006,特別展 チェスター・ビーティー・コレクション,東京国立博物館,2026-01-06,2026-02-15,,https://www.tnm.jp/,東京,書物|装飾写本|コレクション
-exh_007,特別展 空海と真言の名宝,東京国立博物館,2026-01-14,2026-03-15,,https://www.tnm.jp/,東京,仏教美術|日本|文化財
-exh_008,オルセー美術館所蔵 印象派ー室内をめぐる物語,国立西洋美術館,2025-10-25,2026-04-05,,https://www.nmwa.go.jp/,東京,西洋|印象派|絵画
-exh_009,北斎 冨嶽三十六景 井内コレクションより,すみだ北斎美術館,2026-02-10,2026-06-07,artist_hokusai,https://hokusai-museum.jp/,東京,浮世絵|江戸|版画
-exh_010,スウェーデン絵画 北欧の光、日常のかがやき,東京都美術館,2026-01-27,2026-05-12,,https://www.tobikan.jp/,東京,絵画|北欧|近代
-exh_011,チュルリョーニス展,上野の森美術館,2026-03-14,2026-06-14,artist_ciurlionis,https://www.ueno-mori.org/,東京,象徴主義|音楽|絵画
-exh_012,版画家レンブラント,国立西洋美術館,2026-04-08,2026-07-05,artist_rembrandt,https://www.nmwa.go.jp/,東京,版画|西洋|バロック
-exh_013,テート美術館 ターナー展,東京都美術館,2026-03-25,2026-06-14,artist_turner,https://www.tobikan.jp/,東京,絵画|ロマン主義|英国
-exh_014,アンドリュー・ワイエス展,東京都美術館,2026-03-20,2026-06-21,artist_andrew_wyeth,https://www.tobikan.jp/,東京,絵画|アメリカ|20世紀
-exh_015,大英博物館日本美術コレクション 百花繚乱～海を越えた江戸絵画,東京都美術館,2026-01-02,2026-02-15,,https://www.tobikan.jp/,東京,日本|江戸|絵画
-exh_016,ヨシダナギ写真展 HEROES －RELOADED－,上野の森美術館,2025-12-06,2026-02-08,artist_yoshida_nagi,https://www.ueno-mori.org/,東京,写真|現代|ポートレート
-exh_017,アール・デコとモード,三菱一号館美術館,2025-10-11,2026-01-25,,https://mimt.jp/,東京,デザイン|アール・デコ|近代
-exh_018,トワイライト、新版画―小林清親から川瀬巴水まで,三菱一号館美術館,2026-02-19,2026-05-24,artist_kobayashi_kiyochika|artist_kawase_hasui,https://mimt.jp/,東京,新版画|版画|日本
-exh_019,アントニオ・フォンタネージ展 ヨーロッパと日本を橋渡しした風景画（仮称）,三菱一号館美術館,2026-10-17,2027-01-24,artist_antonio_fontanesi,https://mimt.jp/,東京,風景画|近代|日欧
-exh_020,国宝 熊野御幸記と藤原定家の書,三井記念美術館,2025-12-06,2026-02-01,,https://www.mitsui-museum.jp/,東京,書|国宝|日本
-exh_021,クラウド・モネ －風景への問いかけ,アーティゾン美術館,2026-02-07,2026-05-24,artist_monet,https://www.artizon.museum/,東京,印象派|絵画|連作
-exh_022,瀧口修造 書くことと描くこと,アーティゾン美術館,2026-06-23,2026-10-04,artist_takiguchi_shuzo,https://www.artizon.museum/,東京,日本|前衛|詩・批評
-exh_023,エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる,アーティゾン美術館,2026-06-23,2026-10-04,artist_ettore_sottsass,https://www.artizon.museum/,東京,デザイン|ポストモダン|イタリア
-exh_024,ルーヴル美術館展 ルネサンス,国立新美術館,2026-09-09,2026-12-13,,https://www.museum.or.jp/event/122660,東京,西洋|ルネサンス|絵画
-exh_025,ゴールドマン コレクション 河鍋暁斎の世界,サントリー美術館,2026-04-22,2026-06-21,artist_kawanabe_kyosai,https://www.museum.or.jp/event/123109,東京,日本|幕末明治|絵画
-exh_026,六本木クロッシング2025展：時間は過ぎ去る わたしたちは永遠,森美術館,2025-12-03,2026-03-29,,https://www.museum.or.jp/event/117673,東京,現代|グループ|日本
-exh_027,ロン・ミュエク展,森美術館,2026-04-29,2026-09-23,artist_ron_mueck,https://www.museum.or.jp/event/122584,東京,現代|彫刻|写実
-exh_028,森万里子展,森美術館,2026-10-31,2027-03-28,artist_mori_mariko,https://www.mori.art.museum/jp/,東京,現代|インスタレーション|日本
-exh_029,美しいユートピア 理想の地を夢みた近代日本の群像,パナソニック汐留美術館,2026-01-15,2026-03-22,,https://www.museum.or.jp/event/121255,東京,日本|近代|絵画
-exh_030,開館50周年記念 モダンアートの街・新宿,SOMPO美術館,2026-01-10,2026-02-15,,https://www.museum.or.jp/event/118576,東京,日本|近代|都市
-exh_031,生誕150年 アルベール・マルケ展（仮称）,SOMPO美術館,2026-09-22,2026-12-13,artist_albert_marquet,https://www.sompo-museum.org/,東京,絵画|フォーヴ|フランス
-exh_032,アルフレド・ジャー あなたと私、そして世界のすべての人たち,東京オペラシティ アートギャラリー,2026-01-21,2026-03-29,artist_alfredo_jaar,https://www.museum.or.jp/event/122608,東京,現代|インスタレーション|社会
-exh_033,ほぼ空：青木淳 ＋ リチャード・タトル,東京オペラシティ アートギャラリー,2026-07-18,2026-09-23,artist_aoki_jun|artist_richard_tuttle,https://www.museum.or.jp/event/120569,東京,現代|建築|ドローイング
-exh_034,ダン・グレアム Dan Graham,東京オペラシティ アートギャラリー,2026-10-17,2026-12-20,artist_dan_graham,https://www.operacity.jp/ag/,東京,現代|映像|インスタレーション
-exh_035,つぐ minä perhonen,世田谷美術館,2025-11-22,2026-02-01,artist_mina_perhonen,https://www.museum.or.jp/event/120571,東京,デザイン|テキスタイル|現代
-exh_036,テート美術館 ― YBA & BEYOND 世界を変えた90s英国アート,国立新美術館,2026-02-11,2026-05-11,,https://www.nact.jp/,東京,現代|英国|90s
+exh_040,ロン・ミュエク,森美術館,2026-04-29,2026-09-23,artist_ron_mueck|artist_gautier_deblonde,https://www.mori.art.museum/jp/exhibitions/ron_mueck/,東京,現代美術|彫刻|人物表現|回顧展|森美術館
+exh_041,テート美術館 － YBA&BEYOND 世界を変えた90s 英国アート,国立新美術館,2026-04-15,2026-07-06,artist_gillian_wearing|artist_sam_taylor_johnson|artist_sarah_lucas|artist_damien_hirst|artist_michael_landy|artist_angus_fairhurst|artist_monica_bonvicini|artist_mark_wallinger|artist_liz_rhodes|artist_hamish_fulton|artist_chris_ofili|artist_steve_mcqueen|artist_martin_creed|artist_marc_quinn|artist_fiona_banner|artist_antony_gormley|artist_wolfgang_tillmans|artist_cornelia_parker|artist_tracey_emin|artist_ian_davenport|artist_chapman_brothers|artist_anish_kapoor|artist_tom_sachs|artist_christian_jankowski|artist_thomas_hirschhorn|artist_carsten_holler|artist_julian_opie|artist_gavin_turk|artist_peter_doig|artist_jason_rhoades|artist_lorna_simpson|artist_cindy_sherman,https://www.nact.jp/exhibition_special/2026/ybabeyond/,東京,現代美術|英国|90年代|テート|グループ展
+exh_042,生誕100年 森英恵（仮）,国立新美術館,2026-04-15,2026-07-06,artist_hanae_mori,https://www.nact.jp/exhibition_special/2026/hanae_mori/,東京,ファッション|デザイン|回顧展|日本|国立新美術館
+exh_043,ピカソ meets ポール・スミス（仮）,国立新美術館,2026-06-10,2026-09-21,artist_picasso|artist_paul_smith,https://www.nact.jp/exhibition_special/2026/picasso_paulsmith/,東京,ピカソ|ファッション|コラボ|モダンアート|企画展
+exh_044,モネ没後100年 クロード・モネ ー風景への問いかけ,アーティゾン美術館,2026-02-07,2026-05-24,artist_monet|artist_ange_leccia,https://www.artizon.museum/exhibition_sp/monet2026/,東京,モネ|印象派|絵画|没後100年|アーティゾン
+exh_045,カタリウム,アーティゾン美術館,2026-02-07,2026-05-24,artist_ben_shahn|artist_tmp_001|artist_tmp_002,https://www.artizon.museum/exhibition_sp/katarium/,東京,コレクション|近現代|絵画|ドローイング|アーティゾン
+exh_046,エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる,アーティゾン美術館,2026-06-23,2026-10-04,artist_ettore_sottsass,https://www.artizon.museum/exhibition/detail/602,東京,デザイン|ソットサス|ポストモダン|建築|アーティゾン
+exh_047,企画展「デザインの先生」,21_21 DESIGN SIGHT,2025-11-21,2026-03-08,artist_bruno_munari|artist_max_bill|artist_achille_castiglioni|artist_otl_aicher|artist_enzo_mari|artist_dieter_rams|artist_tmp_003,https://www.2121designsight.jp/program/design_maestros/,東京,デザイン|教育|プロダクト|グラフィック|21_21
+exh_051,おしゃれの誕生 －マリー・アントワネットとヴェルサイユのモード（仮）,横浜美術館,2026-08-08,2026-11-29,artist_tmp_026|artist_francois_hubert_drouais,https://yokohama.art.museum/exhibition/2026_marieantoinette_style/,神奈川,ファッション|ヴェルサイユ|18世紀|フランス|横浜美術館
+exh_052,開館50周年記念 モダンアートの街・新宿,SOMPO美術館,2026-01-10,2026-02-15,artist_ogihara_morie|artist_nakamura_tsune|artist_satomi_katsuzo|artist_tsuruta_goro|artist_saito_yori|artist_suzuki_ryozo|artist_somya_ichinen|artist_arishima_ikuma|artist_takamura_kotaro|artist_kishida_ryusei|artist_miya_yoshihei|artist_aizu_yaichi|artist_koizumi_kiyoshi|artist_saeki_yuzo|artist_togo_seiji|artist_minemura_ritsuko|artist_mitsutani_kunishiro|artist_oda_kazuma|artist_hasegawa_toshiyuki|artist_yoshida_hiroshi|artist_seimiya_naobumi|artist_kishida_reiko|artist_satomi_ton|artist_nagayo_yoshio|artist_matsumoto_shunsuke|artist_aso_saburo|artist_hayashi_fumiko|artist_tezuka_ryokubin|artist_yoshioka_ken|artist_gyobu_hito|artist_terada_masaaki|artist_tsuruoka_masao|artist_abe_tenya|artist_takiguchi_shuzo|artist_saito_yoshishige|artist_akutagawa_saori|artist_fukushima_hideko|artist_miyawaki_aiko,https://www.sompo-museum.org/exhibitions/2024/modern-art/,東京,近代美術|新宿|コレクション|企画展
+exh_053,東京都美術館開館100周年記念 スウェーデン絵画 北欧の光、日常のかがやき,東京都美術館,2026-01-27,2026-04-12,artist_nils_blommer|artist_edvard_bergh|artist_carl_fredrik_hill|artist_ernst_josephson|artist_karl_nordstrom|artist_bruno_liljefors|artist_oskar_bjorck|artist_carl_larsson|artist_anders_zorn|artist_august_strindberg|artist_eugene_jansson|artist_gustaf_fjaestad|artist_nils_kreuger|artist_prince_eugen|artist_richard_bergh,https://www.swedishpainting2026.jp/,東京,絵画|スウェーデン|北欧美術|企画展
+exh_054,トワイライト、新版画―小林清親から川瀬巴水まで,三菱一号館美術館,2026-02-19,2026-05-24,artist_kobayashi_kiyochika|artist_yoshida_hiroshi|artist_kawase_hasui,https://mimt.jp/ex_sp/shin-hanga/,東京,新版画|版画|企画展
+exh_055,長沢蘆雪,府中市美術館,2026-03-14,2026-05-10,artist_nagasawa_rosetsu,https://www.city.fuchu.tokyo.jp/art/tenrankai/kikakuten/2025/rosetsu.html,東京,日本画|江戸絵画|企画展
+exh_056,SORAYAMA 光・透明・反射 ーTOKYOー,CREATIVE MUSEUM TOKYO,2026-03-14,2026-05-31,artist_sorayama_hajime,https://sorayama2026.jp/,東京,現代美術|回顧展|企画展
+exh_057,チュルリョーニス展 内なる星図,国立西洋美術館,2026-03-28,2026-06-14,artist_mikalojus_konstantinas_ciurlionis,https://2026ciurlionis.nmwa.go.jp/,東京,絵画|象徴主義|企画展
+exh_058,今村紫紅「黄昏の石庭」,横浜美術館,2026-04-25,2026-06-28,artist_imamura_shiko,https://yokohama.art.museum/exhibition-schedule/,神奈川,日本画|企画展
+exh_059,ブーダン展,SOMPO美術館,2026-04-11,2026-06-21,artist_eugene_boudin,https://www.sompo-museum.org/exhibitions/2026/boudin/,東京,絵画|フランス|近代美術|企画展
+exh_060,山口華楊展,SOMPO美術館,2026-07-11,2026-08-30,artist_yamaguchi_kayo,https://www.sompo-museum.org/exhibitions/2026/kayo/,東京,日本画|企画展
+exh_061,アルベール・マルケ展,SOMPO美術館,2026-09-22,2026-12-13,artist_albert_marquet,https://www.sompo-museum.org/exhibitions/2026/marquet/,東京,絵画|フランス|企画展
+exh_062,たたかう仏像,静嘉堂文庫美術館,2026-01-02,2026-03-22,artist_koen,https://www.seikado.or.jp/exhibition/current_exhibition/,東京,仏像|彫刻|企画展

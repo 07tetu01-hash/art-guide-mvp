@@ -2089,6 +2089,1521 @@
       ],
       "era": "近代",
       "region": "イタリア"
+    },
+    {
+      "id": "artist_aizu_yaichi",
+      "name": "會津八一",
+      "aliases": [
+        "Aizu Yaichi"
+      ],
+      "blurb": "歌人・書家として知られ、美術史研究も行った",
+      "tags": [
+        "文学",
+        "美術史"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_akutagawa_saori",
+      "name": "芥川（間所）紗織",
+      "aliases": [
+        "Akutagawa Saori",
+        "Madokoro Saori"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_anders_zorn",
+      "name": "アンデシュ・ソーン",
+      "aliases": [
+        "Anders Zorn"
+      ],
+      "blurb": "肖像画と水辺の裸婦で国際的に名高い画家",
+      "tags": [
+        "スウェーデン絵画",
+        "肖像画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_arishima_ikuma",
+      "name": "有島生馬",
+      "aliases": [
+        "Arishima Ikuma"
+      ],
+      "blurb": "白樺派と関わり洋画制作と美術批評を行った",
+      "tags": [
+        "洋画",
+        "美術批評"
+      ],
+      "era": "明治-大正",
+      "region": "日本"
+    },
+    {
+      "id": "artist_aso_saburo",
+      "name": "麻生三郎",
+      "aliases": [
+        "Aso Saburo"
+      ],
+      "blurb": "戦後の洋画で知られる画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_abe_tenya",
+      "name": "阿部展也(芳文)",
+      "aliases": [
+        "Abe Tenya",
+        "阿部芳文"
+      ],
+      "blurb": "抽象表現でも知られる画家",
+      "tags": [
+        "洋画",
+        "抽象"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_august_strindberg",
+      "name": "アウグスト・ストリンドバリ",
+      "aliases": [
+        "August Strindberg"
+      ],
+      "blurb": "劇作家として著名で、後期に絵画制作も行った",
+      "tags": [
+        "文学",
+        "絵画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_bruno_liljefors",
+      "name": "ブリューノ・リリエフォッシュ",
+      "aliases": [
+        "Bruno Liljefors"
+      ],
+      "blurb": "野生動物と自然を写実的に描いた画家",
+      "tags": [
+        "スウェーデン絵画",
+        "動物画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_carl_fredrik_hill",
+      "name": "カール=フレードリック・ヒル",
+      "aliases": [
+        "Carl Fredrik Hill"
+      ],
+      "blurb": "風景画から晩年の幻想的素描までで知られる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_carl_larsson",
+      "name": "カール・ラーション",
+      "aliases": [
+        "Carl Larsson"
+      ],
+      "blurb": "家庭生活を描いた水彩連作で広く親しまれる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "水彩"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_edvard_bergh",
+      "name": "エードヴァッド・バリ",
+      "aliases": [
+        "Edvard Bergh"
+      ],
+      "blurb": "スウェーデンの風景画で知られる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_ernst_josephson",
+      "name": "アーンシュト・ヨーセフソン",
+      "aliases": [
+        "Ernst Josephson"
+      ],
+      "blurb": "写実から象徴的表現まで幅広く展開した画家",
+      "tags": [
+        "スウェーデン絵画",
+        "象徴主義"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_eugene_boudin",
+      "name": "ウジェーヌ・ブーダン",
+      "aliases": [
+        "Eugène Boudin"
+      ],
+      "blurb": "海辺の風景画で知られ、印象派の先駆とされる",
+      "tags": [
+        "フランス絵画",
+        "風景画",
+        "近代美術"
+      ],
+      "era": "19世紀",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_eugene_jansson",
+      "name": "エウシェーン・ヤーンソン",
+      "aliases": [
+        "Eugène Jansson"
+      ],
+      "blurb": "都市景観や人物像で知られる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_fukushima_hideko",
+      "name": "福島秀子",
+      "aliases": [
+        "Fukushima Hideko"
+      ],
+      "blurb": "実験工房に参加し立体作品などを制作した",
+      "tags": [
+        "戦後美術",
+        "彫刻"
+      ],
+      "era": "戦後",
+      "region": "日本"
+    },
+    {
+      "id": "artist_gyobu_hito",
+      "name": "刑部人",
+      "aliases": [
+        "Gyobu Hito"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_gustaf_fjaestad",
+      "name": "グスタヴ・フィエースタード",
+      "aliases": [
+        "Gustaf Fjæstad"
+      ],
+      "blurb": "雪景色など北国の自然を描いた画家",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_hasegawa_toshiyuki",
+      "name": "長谷川利行",
+      "aliases": [
+        "Hasegawa Toshiyuki"
+      ],
+      "blurb": "都市の情景を描いた洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "大正-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_hayashi_fumiko",
+      "name": "林芙美子",
+      "aliases": [
+        "Hayashi Fumiko"
+      ],
+      "blurb": "昭和期を代表する小説家",
+      "tags": [
+        "文学"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_imamura_shiko",
+      "name": "今村紫紅",
+      "aliases": [
+        "Imamura Shiko"
+      ],
+      "blurb": "大正期の日本画家",
+      "tags": [
+        "日本画"
+      ],
+      "era": "大正",
+      "region": "日本"
+    },
+    {
+      "id": "artist_karl_nordstrom",
+      "name": "カール・ノードシュトルム",
+      "aliases": [
+        "Karl Nordström"
+      ],
+      "blurb": "北欧の自然を主題にした風景画家",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_kishida_reiko",
+      "name": "岸田麗子",
+      "aliases": [
+        "Kishida Reiko"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_koen",
+      "name": "康円",
+      "aliases": [
+        "Kōen",
+        "Koen"
+      ],
+      "blurb": "鎌倉時代の仏師として知られる",
+      "tags": [
+        "仏師",
+        "仏像"
+      ],
+      "era": "鎌倉",
+      "region": "日本"
+    },
+    {
+      "id": "artist_koizumi_kiyoshi",
+      "name": "小泉清",
+      "aliases": [
+        "Koizumi Kiyoshi"
+      ],
+      "blurb": "都市風景などを木版画で制作した版画家",
+      "tags": [
+        "版画",
+        "木版画"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_matsumoto_shunsuke",
+      "name": "松本竣介",
+      "aliases": [
+        "Matsumoto Shunsuke"
+      ],
+      "blurb": "昭和期の洋画家として知られる",
+      "tags": [
+        "洋画"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_mikalojus_konstantinas_ciurlionis",
+      "name": "ミカロユス・コンスタンティナス・チュルリョーニス",
+      "aliases": [
+        "Mikalojus Konstantinas Čiurlionis",
+        "M. K. Čiurlionis"
+      ],
+      "blurb": "象徴主義的な絵画と作曲を手がけた芸術家",
+      "tags": [
+        "象徴主義",
+        "絵画",
+        "音楽"
+      ],
+      "era": "19-20世紀",
+      "region": "リトアニア"
+    },
+    {
+      "id": "artist_minemura_ritsuko",
+      "name": "峰村リツ子",
+      "aliases": [
+        "Minemura Ritsuko"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_mitsutani_kunishiro",
+      "name": "満谷国四郎",
+      "aliases": [
+        "Mitsutani Kunishiro"
+      ],
+      "blurb": "明治から昭和にかけて活躍した洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_miyawaki_aiko",
+      "name": "宮脇愛子",
+      "aliases": [
+        "Miyawaki Aiko"
+      ],
+      "blurb": "金属を用いた彫刻作品で知られる",
+      "tags": [
+        "彫刻",
+        "戦後美術"
+      ],
+      "era": "戦後",
+      "region": "日本"
+    },
+    {
+      "id": "artist_miya_yoshihei",
+      "name": "宮芳平",
+      "aliases": [
+        "Miya Yoshihira",
+        "Miya Yohei"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_nagayo_yoshio",
+      "name": "長與善郎",
+      "aliases": [
+        "Nagayo Yoshio"
+      ],
+      "blurb": "白樺派と関わった小説家・劇作家",
+      "tags": [
+        "文学"
+      ],
+      "era": "大正-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_nagasawa_rosetsu",
+      "name": "長沢蘆雪",
+      "aliases": [
+        "Nagasawa Rosetsu"
+      ],
+      "blurb": "江戸後期に活躍した画家",
+      "tags": [
+        "日本画",
+        "江戸絵画"
+      ],
+      "era": "江戸",
+      "region": "日本"
+    },
+    {
+      "id": "artist_nakamura_tsune",
+      "name": "中村彝",
+      "aliases": [
+        "Nakamura Tsune"
+      ],
+      "blurb": "大正期の洋画家で肖像表現で知られる",
+      "tags": [
+        "洋画",
+        "肖像画"
+      ],
+      "era": "大正",
+      "region": "日本"
+    },
+    {
+      "id": "artist_nils_blommer",
+      "name": "ニルス・ブロメール",
+      "aliases": [
+        "Nils Blommér"
+      ],
+      "blurb": "スウェーデンのロマン主義的風景・人物画で知られる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "ロマン主義"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_nils_kreuger",
+      "name": "ニルス・クルーゲル",
+      "aliases": [
+        "Nils Kreuger"
+      ],
+      "blurb": "農村風景などを描いた画家",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_oda_kazuma",
+      "name": "織田一磨",
+      "aliases": [
+        "Oda Kazuma"
+      ],
+      "blurb": "都市や風景を描いた木版画家",
+      "tags": [
+        "版画",
+        "木版画"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_ogihara_morie",
+      "name": "荻原守衛",
+      "aliases": [
+        "Ogihara Morie",
+        "Ogihara Rokuzan",
+        "荻原碌山"
+      ],
+      "blurb": "近代彫刻の先駆者として知られる彫刻家",
+      "tags": [
+        "彫刻",
+        "近代彫刻"
+      ],
+      "era": "明治",
+      "region": "日本"
+    },
+    {
+      "id": "artist_oskar_bjorck",
+      "name": "オスカル・ビュルク",
+      "aliases": [
+        "Oskar Björck"
+      ],
+      "blurb": "写実的な人物・風俗画で知られる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "写実"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_prince_eugen",
+      "name": "エウシェーン王子",
+      "aliases": [
+        "Prince Eugen",
+        "Eugen of Sweden"
+      ],
+      "blurb": "王族であり風景画家としても活動した",
+      "tags": [
+        "スウェーデン絵画",
+        "風景画"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_richard_bergh",
+      "name": "リッカッド・バリ",
+      "aliases": [
+        "Richard Bergh"
+      ],
+      "blurb": "象徴的な人物画や風景画で知られる画家",
+      "tags": [
+        "スウェーデン絵画",
+        "象徴主義"
+      ],
+      "era": "19世紀",
+      "region": "スウェーデン"
+    },
+    {
+      "id": "artist_saeki_yuzo",
+      "name": "佐伯祐三",
+      "aliases": [
+        "Saeki Yuzo"
+      ],
+      "blurb": "パリと東京で活躍した洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "大正",
+      "region": "日本"
+    },
+    {
+      "id": "artist_saito_yori",
+      "name": "斎藤与里",
+      "aliases": [
+        "Saito Yori"
+      ],
+      "blurb": "明治から昭和にかけて活躍した洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_saito_yoshishige",
+      "name": "斎藤義重",
+      "aliases": [
+        "Saito Yoshishige"
+      ],
+      "blurb": "戦後日本の彫刻で重要な作家",
+      "tags": [
+        "彫刻",
+        "戦後美術"
+      ],
+      "era": "戦後",
+      "region": "日本"
+    },
+    {
+      "id": "artist_satomi_katsuzo",
+      "name": "里見勝蔵",
+      "aliases": [
+        "Satomi Katsuzo"
+      ],
+      "blurb": "大正から昭和にかけて活躍した洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "大正-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_satomi_ton",
+      "name": "里見弴",
+      "aliases": [
+        "Satomi Ton"
+      ],
+      "blurb": "白樺派と関わった小説家",
+      "tags": [
+        "文学"
+      ],
+      "era": "大正-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_seimiya_naobumi",
+      "name": "清宮質文",
+      "aliases": [
+        "Seimiya Naobumi"
+      ],
+      "blurb": "木版画で知られる版画家",
+      "tags": [
+        "版画",
+        "木版画"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_somya_ichinen",
+      "name": "曽宮一念",
+      "aliases": [
+        "Somya Ichinen"
+      ],
+      "blurb": "風景・静物などで知られる洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_sorayama_hajime",
+      "name": "空山基",
+      "aliases": [
+        "Hajime Sorayama"
+      ],
+      "blurb": "エアブラシ技法の作品で知られるアーティスト",
+      "tags": [
+        "現代美術",
+        "イラスト"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_suzuki_ryozo",
+      "name": "鈴木良三",
+      "aliases": [
+        "Suzuki Ryozo"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_takamura_kotaro",
+      "name": "高村光太郎",
+      "aliases": [
+        "Takamura Kotaro"
+      ],
+      "blurb": "彫刻と詩で知られる芸術家",
+      "tags": [
+        "彫刻",
+        "文学"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_terada_masaaki",
+      "name": "寺田政明",
+      "aliases": [
+        "Terada Masaaki"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_tezuka_ryokubin",
+      "name": "手塚緑敏",
+      "aliases": [
+        "Tezuka Ryokubin"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_togo_seiji",
+      "name": "東郷青児",
+      "aliases": [
+        "Togo Seiji"
+      ],
+      "blurb": "人物画を中心に独自の様式を築いた洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "大正-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_tsuruta_goro",
+      "name": "鶴田吾郎",
+      "aliases": [
+        "Tsuruta Goro"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_tsuruoka_masao",
+      "name": "鶴岡政男",
+      "aliases": [
+        "Tsuruoka Masao"
+      ],
+      "blurb": "戦後に活躍した洋画家",
+      "tags": [
+        "洋画"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_yamaguchi_kayo",
+      "name": "山口華楊",
+      "aliases": [
+        "Yamaguchi Kayo"
+      ],
+      "blurb": "動物画などで知られる日本画家",
+      "tags": [
+        "日本画",
+        "動物画"
+      ],
+      "era": "昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_yoshioka_ken",
+      "name": "吉岡憲",
+      "aliases": [
+        "Yoshioka Ken"
+      ],
+      "region": "日本"
+    },
+    {
+      "id": "artist_yoshida_hiroshi",
+      "name": "吉田博",
+      "aliases": [
+        "Yoshida Hiroshi"
+      ],
+      "blurb": "新版画の代表的版画家として知られる",
+      "tags": [
+        "版画",
+        "新版画"
+      ],
+      "era": "明治-昭和",
+      "region": "日本"
+    },
+    {
+      "id": "artist_gautier_deblonde",
+      "name": "ゴーティエ・デブロンド",
+      "aliases": [
+        "Gautier Deblonde",
+        "Gautier DEBLONDE",
+        "ゴーティエ・デブロンド"
+      ],
+      "blurb": "フランス出身の写真家・映像作家。世界各地のアーティストのアトリエを長年にわたり撮影し、スタジオシリーズ『Atelier』などで知られる。",
+      "tags": [
+        "写真",
+        "映像",
+        "現代"
+      ],
+      "era": "現代",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_achille_castiglioni",
+      "name": "アキッレ・カスティリオーニ",
+      "aliases": [
+        "Achille Castiglioni"
+      ],
+      "blurb": "イタリアの建築家・プロダクトデザイナー。日用品を観察し、機能とユーモアを両立させたデザインで知られ、「Arco」ランプ（1962、ピエル・ジャコモと共作）などを手がけた。",
+      "tags": [
+        "デザイン",
+        "プロダクト",
+        "照明",
+        "イタリア"
+      ],
+      "era": "20世紀",
+      "region": "イタリア"
+    },
+    {
+      "id": "artist_ange_leccia",
+      "name": "アンジュ・レシア",
+      "aliases": [
+        "Ange Leccia"
+      ],
+      "blurb": "フランス（コルシカ）出身の現代美術家。映像や写真、オブジェを通じて反復や知覚、時間感覚を扱う作品で知られる。",
+      "tags": [
+        "現代",
+        "映像",
+        "写真",
+        "フランス"
+      ],
+      "era": "現代",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_angus_fairhurst",
+      "name": "アンガス・フェアハースト",
+      "aliases": [
+        "Angus Fairhurst"
+      ],
+      "blurb": "イギリスの現代美術家（YBA世代）。彫刻・写真・インスタレーションを中心に制作した。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "インスタレーション",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_anish_kapoor",
+      "name": "アニッシュ・カプーア",
+      "aliases": [
+        "Anish Kapoor"
+      ],
+      "blurb": "インド出身の現代美術家（英国拠点）。顔料や鏡面、巨大彫刻などで空間知覚や身体感覚を揺さぶる作品で知られる。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "インスタレーション",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_antony_gormley",
+      "name": "アントニー・ゴームリー",
+      "aliases": [
+        "Antony Gormley"
+      ],
+      "blurb": "イギリスの彫刻家。自らの身体を鋳型にした彫刻や、人体と空間の関係を問うインスタレーションで知られる。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_ben_shahn",
+      "name": "ベン・シャーン",
+      "aliases": [
+        "Ben Shahn"
+      ],
+      "blurb": "アメリカの画家・版画家（リトアニア生まれ）。社会問題や労働者の姿を主題に、絵画・写真・ポスターなど多様な媒体で表現した。",
+      "tags": [
+        "絵画",
+        "版画",
+        "社会派",
+        "アメリカ"
+      ],
+      "era": "20世紀",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_bruno_munari",
+      "name": "ブルーノ・ムナーリ",
+      "aliases": [
+        "Bruno Munari"
+      ],
+      "blurb": "イタリアのアーティスト／デザイナー。造形実験からプロダクト、グラフィック、子どものための教育的デザインまで幅広く活動し、創造性の方法論でも影響力を持つ。",
+      "tags": [
+        "デザイン",
+        "教育",
+        "プロダクト",
+        "イタリア"
+      ],
+      "era": "20世紀",
+      "region": "イタリア"
+    },
+    {
+      "id": "artist_carsten_holler",
+      "name": "カーステン・ホラー",
+      "aliases": [
+        "Carsten Höller",
+        "Carsten Holler"
+      ],
+      "blurb": "ドイツ出身の現代美術家。遊具のような装置や体験型インスタレーションを通じて、知覚・行動・選択をめぐる実験的状況をつくる。",
+      "tags": [
+        "現代",
+        "インスタレーション",
+        "体験型",
+        "ドイツ"
+      ],
+      "era": "現代",
+      "region": "ドイツ"
+    },
+    {
+      "id": "artist_chapman_brothers",
+      "name": "チャップマン兄弟",
+      "aliases": [
+        "Jake Chapman",
+        "Dinos Chapman",
+        "Chapman Brothers"
+      ],
+      "blurb": "イギリスのアーティストデュオ（兄弟）。歴史イメージや暴力表象を扱う彫刻・インスタレーションで知られる。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "インスタレーション",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_chris_ofili",
+      "name": "クリス・オフィリ",
+      "aliases": [
+        "Chris Ofili",
+        "Christopher Ofili"
+      ],
+      "blurb": "イギリスの画家。コラージュや多素材を取り入れた絵画で知られ、ターナー賞受賞。",
+      "tags": [
+        "現代",
+        "絵画",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_christian_jankowski",
+      "name": "クリスチャン・ヤンコフスキー",
+      "aliases": [
+        "Christian Jankowski"
+      ],
+      "blurb": "ドイツの現代美術家。映像・写真・パフォーマンスなどを用い、テレビや商業などアート外の領域との協働を通じて制度や役割を問い直す。",
+      "tags": [
+        "現代",
+        "映像",
+        "インスタレーション",
+        "ドイツ"
+      ],
+      "era": "現代",
+      "region": "ドイツ"
+    },
+    {
+      "id": "artist_cindy_sherman",
+      "name": "シンディ・シャーマン",
+      "aliases": [
+        "Cindy Sherman"
+      ],
+      "blurb": "アメリカの写真家／現代美術家。変装したセルフポートレート（『Untitled Film Stills』など）で、イメージと女性表象を批評的に扱う。",
+      "tags": [
+        "現代",
+        "写真",
+        "アメリカ"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_cornelia_parker",
+      "name": "コーネリア・パーカー",
+      "aliases": [
+        "Cornelia Parker"
+      ],
+      "blurb": "イギリスの現代美術家。破壊・変形した素材や既製品を再構成し、力学や記憶を可視化する彫刻／インスタレーションで知られる。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "インスタレーション",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_dieter_rams",
+      "name": "ディーター・ラムス",
+      "aliases": [
+        "Dieter Rams"
+      ],
+      "blurb": "ドイツのインダストリアルデザイナー。Braunのデザインを長年率い、「良いデザインの10原則」などミニマルで人間中心の思想で知られる。",
+      "tags": [
+        "デザイン",
+        "プロダクト",
+        "ブラウン",
+        "ドイツ"
+      ],
+      "era": "20世紀",
+      "region": "ドイツ"
+    },
+    {
+      "id": "artist_enzo_mari",
+      "name": "エンツォ・マーリ",
+      "aliases": [
+        "Enzo Mari"
+      ],
+      "blurb": "イタリアのデザイナー／アーティスト。大量生産と消費社会への批評的態度でも知られ、DIY家具の提案『Autoprogettazione』（1974）などを通じてデザインの社会性を問い続けた。",
+      "tags": [
+        "デザイン",
+        "プロダクト",
+        "イタリア"
+      ],
+      "era": "20世紀",
+      "region": "イタリア"
+    },
+    {
+      "id": "artist_fiona_banner",
+      "name": "フィオナ・バナー",
+      "aliases": [
+        "Fiona Banner",
+        "The Vanity Press"
+      ],
+      "blurb": "イギリスの現代美術家（Fiona Banner aka The Vanity Press）。テキストや出版、戦闘機・戦争映画など視覚文化への関心から、彫刻・インスタレーション・ドローイングを展開する。",
+      "tags": [
+        "現代",
+        "テキスト",
+        "インスタレーション",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_francois_hubert_drouais",
+      "name": "フランソワ＝ユベール・ドルーエ",
+      "aliases": [
+        "François-Hubert Drouais",
+        "Francois-Hubert Drouais"
+      ],
+      "blurb": "18世紀フランスの宮廷肖像画家。ヴェルサイユ宮廷で活動し、マリー・アントワネットの肖像などで知られる。",
+      "tags": [
+        "絵画",
+        "肖像画",
+        "18世紀",
+        "フランス"
+      ],
+      "era": "18世紀",
+      "region": "フランス"
+    },
+    {
+      "id": "artist_gavin_turk",
+      "name": "ギャヴィン・ターク",
+      "aliases": [
+        "Gavin Turk"
+      ],
+      "blurb": "イギリスの現代美術家（YBA世代）。作者性や自己表象、ブランド性をめぐるコンセプチュアルな作品で知られる。",
+      "tags": [
+        "現代",
+        "コンセプチュアル",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_gillian_wearing",
+      "name": "ジリアン・ウェアリング",
+      "aliases": [
+        "Gillian Wearing"
+      ],
+      "blurb": "イギリスの現代美術家。写真・映像で「告白」や社会的役割、他者との関係を扱い、ターナー賞受賞。",
+      "tags": [
+        "現代",
+        "写真",
+        "映像",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_hamish_fulton",
+      "name": "ハミッシュ・フルトン",
+      "aliases": [
+        "Hamish Fulton"
+      ],
+      "blurb": "イギリスの現代美術家。歩行（ウォーキング）そのものを制作の中心に据え、テキストや写真で経験を提示する。",
+      "tags": [
+        "現代",
+        "ランドアート",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_hanae_mori",
+      "name": "森英恵",
+      "aliases": [
+        "Hanae Mori",
+        "Mori Hanae"
+      ],
+      "blurb": "日本のファッションデザイナー（1926–2022）。映画衣装から出発し国際的に活躍、フランスのオートクチュール組織に加盟したアジア人女性として知られる。",
+      "tags": [
+        "ファッション",
+        "デザイン",
+        "日本"
+      ],
+      "era": "20世紀",
+      "region": "日本"
+    },
+    {
+      "id": "artist_ian_davenport",
+      "name": "イアン・ダヴェンポート",
+      "aliases": [
+        "Ian Davenport"
+      ],
+      "blurb": "イギリスの抽象画家。傾けた支持体に絵具を注いで生まれる縦のラインや溜まり（puddle）を特徴とする。",
+      "tags": [
+        "現代",
+        "絵画",
+        "抽象",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_jason_rhoades",
+      "name": "ジェイソン・ローズ",
+      "aliases": [
+        "Jason Rhoades"
+      ],
+      "blurb": "アメリカのインスタレーション・アーティスト（1965–2006）。日用品や工業素材、ネオンサインを大量に組み合わせた大規模空間作品で知られる。",
+      "tags": [
+        "現代",
+        "インスタレーション",
+        "ネオン",
+        "アメリカ"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_julian_opie",
+      "name": "ジュリアン・オピー",
+      "aliases": [
+        "Julian Opie"
+      ],
+      "blurb": "イギリスの現代美術家。輪郭線と単純化した形態で人物や都市を表し、絵画・彫刻・デジタルメディアで展開する。",
+      "tags": [
+        "現代",
+        "絵画",
+        "デジタル",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_kishida_ryusei",
+      "name": "岸田劉生",
+      "aliases": [
+        "Kishida Ryūsei",
+        "Kishida Ryusei"
+      ],
+      "blurb": "日本の画家。写実表現を追究し『麗子像』などで知られる。",
+      "tags": [
+        "絵画",
+        "日本",
+        "近代"
+      ],
+      "era": "近代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_liz_rhodes",
+      "name": "リズ・ローズ",
+      "aliases": [
+        "Lis Rhodes",
+        "Liz Rhodes"
+      ],
+      "blurb": "イギリスのアーティスト。フィルム、光、音を用いた実験的作品で知られ、代表作に映像・音響インスタレーション『Light Music』がある。",
+      "tags": [
+        "現代",
+        "映像",
+        "サウンド",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_lorna_simpson",
+      "name": "ローナ・シンプソン",
+      "aliases": [
+        "Lorna Simpson"
+      ],
+      "blurb": "アメリカの現代美術家。写真とテキスト、映像などで人種・ジェンダー表象を批評的に扱う。",
+      "tags": [
+        "現代",
+        "写真",
+        "アメリカ"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_marc_quinn",
+      "name": "マーク・クイン",
+      "aliases": [
+        "Marc Quinn"
+      ],
+      "blurb": "イギリスの現代美術家。身体やアイデンティティを主題に彫刻・インスタレーションを制作する。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_mark_wallinger",
+      "name": "マーク・ウォリンジャー",
+      "aliases": [
+        "Mark Wallinger"
+      ],
+      "blurb": "イギリスの現代美術家。映像・彫刻・インスタレーションで政治や制度、信仰などを扱う。",
+      "tags": [
+        "現代",
+        "コンセプチュアル",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_martin_creed",
+      "name": "マーティン・クリード",
+      "aliases": [
+        "Martin Creed"
+      ],
+      "blurb": "イギリスの現代美術家。最小限の行為や指示で成立する作品や、音楽・パフォーマンスも含む多領域の活動で知られる。",
+      "tags": [
+        "現代",
+        "コンセプチュアル",
+        "イギリリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_max_bill",
+      "name": "マックス・ビル",
+      "aliases": [
+        "Max Bill"
+      ],
+      "blurb": "スイスの芸術家・建築家・デザイナー。具体芸術（Concrete Art）の重要人物で、造形・デザイン・教育を横断し、ウルム造形大学の設立にも関わった。",
+      "tags": [
+        "デザイン",
+        "具体芸術",
+        "建築",
+        "スイス"
+      ],
+      "era": "20世紀",
+      "region": "スイス"
+    },
+    {
+      "id": "artist_michael_landy",
+      "name": "マイケル・ランディ",
+      "aliases": [
+        "Michael Landy"
+      ],
+      "blurb": "イギリスの現代美術家（YBA世代）。自身の所持品をすべて解体・破壊したプロジェクト『Break Down』（2001）など、消費社会を問う作品で知られる。",
+      "tags": [
+        "現代",
+        "インスタレーション",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_monica_bonvicini",
+      "name": "モニカ・ボンヴィチーニ",
+      "aliases": [
+        "Monica Bonvicini"
+      ],
+      "blurb": "イタリア出身（ベルリン拠点）の現代美術家。建築、権力、ジェンダーを主題に、言語や素材（チェーン等）を用いたインスタレーションで批評的に展開する。",
+      "tags": [
+        "現代",
+        "インスタレーション",
+        "彫刻",
+        "イタリア"
+      ],
+      "era": "現代",
+      "region": "イタリア"
+    },
+    {
+      "id": "artist_otl_aicher",
+      "name": "オトル・アイヒャー",
+      "aliases": [
+        "Otl Aicher",
+        "Otto Aicher"
+      ],
+      "blurb": "ドイツのグラフィックデザイナー／タイポグラファ。ウルム造形大学（HfG Ulm）の共同創設者の一人で、1972年ミュンヘン五輪のビジュアル・アイデンティティとピクトグラムで広く知られる。",
+      "tags": [
+        "グラフィック",
+        "タイポグラフィ",
+        "ピクトグラム",
+        "ドイツ"
+      ],
+      "era": "20世紀",
+      "region": "ドイツ"
+    },
+    {
+      "id": "artist_paul_smith",
+      "name": "ポール・スミス",
+      "aliases": [
+        "Paul Smith"
+      ],
+      "blurb": "イギリスのファッションデザイナー。ブランド「Paul Smith」で知られ、クラシックな仕立てに色や柄の遊びを加えたスタイルを展開した。",
+      "tags": [
+        "ファッション",
+        "デザイン",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_peter_doig",
+      "name": "ピーター・ドイグ",
+      "aliases": [
+        "Peter Doig"
+      ],
+      "blurb": "スコットランド生まれの画家。記憶や写真、風景をもとにした絵画で知られる。",
+      "tags": [
+        "現代",
+        "絵画",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_sam_taylor_johnson",
+      "name": "サム・テイラー＝ジョンソン",
+      "aliases": [
+        "Sam Taylor-Johnson",
+        "Sam Taylor-Wood"
+      ],
+      "blurb": "イギリスのアーティスト／映画監督。映像・写真作品で知られ、長編映画も制作する。",
+      "tags": [
+        "現代",
+        "映像",
+        "写真",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_sarah_lucas",
+      "name": "サラ・ルーカス",
+      "aliases": [
+        "Sarah Lucas"
+      ],
+      "blurb": "イギリスの現代美術家（YBA世代）。日用品や言葉遊びを用い、身体・ジェンダーをめぐる挑発的な彫刻／写真で知られる。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "写真",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_steve_mcqueen",
+      "name": "スティーヴ・マックイーン",
+      "aliases": [
+        "Steve McQueen"
+      ],
+      "blurb": "イギリスのアーティスト／映画監督。映像インスタレーションから長編映画まで制作する。",
+      "tags": [
+        "現代",
+        "映像",
+        "映画",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_thomas_hirschhorn",
+      "name": "トーマス・ヒルシュホルン",
+      "aliases": [
+        "Thomas Hirschhorn"
+      ],
+      "blurb": "スイスの現代美術家。段ボールやテープなど日常素材による大規模インスタレーションで、社会と思想を接続する。",
+      "tags": [
+        "現代",
+        "インスタレーション",
+        "スイス"
+      ],
+      "era": "現代",
+      "region": "スイス"
+    },
+    {
+      "id": "artist_tom_sachs",
+      "name": "トム・サックス",
+      "aliases": [
+        "Tom Sachs"
+      ],
+      "blurb": "アメリカの現代美術家。既製品や工作素材を用い、消費文化や宇宙開発などを題材に制作する。",
+      "tags": [
+        "現代",
+        "彫刻",
+        "インスタレーション",
+        "アメリカ"
+      ],
+      "era": "現代",
+      "region": "アメリカ"
+    },
+    {
+      "id": "artist_tracey_emin",
+      "name": "トレイシー・エミン",
+      "aliases": [
+        "Tracey Emin",
+        "Tracey Karima Emin"
+      ],
+      "blurb": "イギリスの現代美術家（YBA世代）。自伝的・告白的な表現で知られ、ネオン作品やインスタレーションなどを制作する。",
+      "tags": [
+        "現代",
+        "インスタレーション",
+        "ネオン",
+        "イギリス"
+      ],
+      "era": "現代",
+      "region": "イギリス"
+    },
+    {
+      "id": "artist_wolfgang_tillmans",
+      "name": "ヴォルフガング・ティルマンス",
+      "aliases": [
+        "Wolfgang Tillmans"
+      ],
+      "blurb": "ドイツの写真家。ポートレートから抽象まで幅広い写真表現と、空間全体を用いた展示構成で知られる。",
+      "tags": [
+        "現代",
+        "写真",
+        "ドイツ"
+      ],
+      "era": "現代",
+      "region": "ドイツ"
+    },
+    {
+      "id": "artist_tmp_001",
+      "name": "因陀羅",
+      "aliases": [
+        "Indra (painter)",
+        "因陀羅"
+      ],
+      "blurb": "元代の画僧。禅画・水墨画で知られ、《禅機図断簡》などが伝わる。",
+      "tags": [
+        "絵画",
+        "水墨",
+        "禅画",
+        "中国"
+      ],
+      "era": "14世紀",
+      "region": "中国"
+    },
+    {
+      "id": "artist_tmp_002",
+      "name": "楚石梵琦",
+      "aliases": [
+        "Chushi Fanqi",
+        "楚石梵琦"
+      ],
+      "blurb": "元代の臨済宗の禅僧。書や賛（題跋）で知られ、因陀羅作品への賛が伝わる。",
+      "tags": [
+        "書",
+        "禅",
+        "中国"
+      ],
+      "era": "14世紀",
+      "region": "中国"
+    },
+    {
+      "id": "artist_tmp_003",
+      "name": "菱川勢一",
+      "aliases": [
+        "Seiichi Hishikawa",
+        "DRAWING AND MANUAL",
+        "菱川勢一"
+      ],
+      "blurb": "映像ディレクター／デザイナー。映像・インスタレーションなどで活動し、プロジェクト「DRAWING AND MANUAL」としても知られる。",
+      "tags": [
+        "現代",
+        "映像",
+        "デザイン",
+        "日本"
+      ],
+      "era": "現代",
+      "region": "日本"
+    },
+    {
+      "id": "artist_tmp_026",
+      "name": "マリー・アントワネット",
+      "aliases": [
+        "Marie Antoinette"
+      ],
+      "blurb": "フランス王妃（1755–1793）。ヴェルサイユ宮廷の装いとイメージが後世のファッション文化に大きな影響を与えた。",
+      "tags": [
+        "18世紀",
+        "ファッション",
+        "ヴェルサイユ",
+        "フランス"
+      ],
+      "era": "18世紀",
+      "region": "フランス"
     }
   ]
 }
