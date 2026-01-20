@@ -1,369 +1,432 @@
-id,title,artistId,year,tags,blurb
-work_0201,プリマヴェーラ,artist_botticelli,c.1482,renaissance|mythology|florence,春を人格化した神話画で優雅な線と装飾性が際立つ
-work_0205,岩窟の聖母,artist_leonardo,1483,renaissance|religious|chiaroscuro,洞窟の闇と柔らかな光で聖なる親密さを描く
-work_0208,ダヴィデ像,artist_michelangelo,1504,renaissance|sculpture|marble,緊張の静けさを宿す巨大な理想人体彫刻
-work_0209,アテナイの学堂,artist_raphael,1511,renaissance|fresco|humanism,哲学者たちを壮大な建築空間に配置した人文主義の宣言
-work_0210,システィーナの聖母,artist_raphael,1513,renaissance|religious|madonna,柔らかな表情と構図で理想化された聖母像を示す
-work_0212,バッカスとアリアドネ,artist_titian,1523,renaissance|mythology|color,鮮烈な色彩と動勢で神話の祝祭を描く
-work_0213,聖ペテロの磔刑,artist_caravaggio,1601,baroque|religious|tenebrism,暗闇から浮かぶ肉体で殉教の重さを突きつける
-work_0215,メデューサ,artist_caravaggio,1597,baroque|mythology|shock,盾に描かれた首の叫びが視覚的衝撃を生む
-work_0216,聖パウロの回心,artist_caravaggio,1601,baroque|religious|drama,倒れた身体と光で改宗の瞬間を舞台化する
-work_0218,解剖学講義,artist_rembrandt,1632,baroque|group|science,知と死の場面を明暗で引き締めた集団肖像
-work_0219,ダナエ,artist_rembrandt,1643,baroque|mythology|intimate,柔らかな光が親密な神話の場面を包む
-work_0220,自画像 1660年頃,artist_rembrandt,1660,baroque|portrait|self,老境の視線に絵画の倫理と人間の深みが宿る
-work_0223,デルフトの眺望,artist_vermeer,1660,baroque|cityscape|light,都市の静けさと大気の透明感を精緻に描写する
-work_0224,フェルメールの天文学者,artist_vermeer,1668,baroque|genre|science,探究の姿を室内光で詩的に表した
-work_0226,教皇インノケンティウス十世の肖像,artist_velazquez,1650,baroque|portrait|power,権威と人間性を同時に暴く強烈な肖像
-work_0227,降伏,artist_velazquez,1635,baroque|history|war,勝者と敗者の礼節を冷静に描く歴史画
-work_0228,織女たち,artist_velazquez,1657,baroque|mythology|genre,工房の現実と神話を二層に重ねた
-work_0229,アーノルフィーニ夫妻像,artist_jan_van_eyck,1434,northern|portrait|symbol,鏡と細密描写で生活と儀礼を象徴化する
-work_0230,ゲントの祭壇画,artist_jan_van_eyck,1432,northern|altarpiece|detail,宝石のような色彩と細部で神学を可視化した大作
-work_0231,世俗の快楽の園,artist_bosch,1500,northern|fantasy|triptych,奇怪な想像力で欲望と罰の世界を展開する三連画
-work_0232,干し草車,artist_bosch,1510,northern|allegory|triptych,寓意的モチーフで人間の愚かさを諷刺する
-work_0233,最後の審判 三連祭壇画,artist_bosch,1482,northern|religious|apocalypse,地獄の細部描写が圧倒的な終末図
-work_0234,死の勝利,artist_bruegel_elder,1562,renaissance|northern|allegory,死が支配する世界を群像で描き社会の不安を映す
-work_0237,冬の狩人,artist_bruegel_elder,1565,renaissance|northern|landscape,季節の空気と生活を広い視野で捉えた風景画
-work_0238,聖ウルスラの聖櫃,artist_hans_memling,1489,northern|religious|detail,小さな空間に物語を凝縮した細密な宗教画
-work_0239,黙示録の四騎士,artist_durer,1498,northern|print|apocalypse,木版画の精密さで終末の恐怖を鋭く描いた
-work_0240,自画像 1500年,artist_durer,1500,northern|portrait|self,キリスト像を思わせる正面性で芸術家の自意識を示す
-work_0241,野兎,artist_durer,1502,northern|study|watercolor,観察と技巧の極点として自然描写の金字塔となる
-work_0242,メランコリア I,artist_durer,1514,northern|print|allegory,創造の苦悩を象徴で積み上げた銅版画
-work_0243,羊飼いの礼拝,artist_georges_de_la_tour,1644,baroque|religious|candle,蝋燭光が沈黙の祈りを彫刻的に照らす
-work_0244,マグダラの悔悛,artist_georges_de_la_tour,1640,baroque|religious|candle,闇と炎で内省の時間を静かに描く
-work_0245,占い師,artist_georges_de_la_tour,1630,baroque|genre|drama,日常の詐欺を冷徹な視線で描く風俗画
-work_0246,キリストの誕生,artist_georges_de_la_tour,1645,baroque|religious|candle,幼子を光源に見立てた神秘的な夜景
-work_0247,アポロンとダフネ,artist_bernini,1625,baroque|sculpture|marble,変身の瞬間を石に封じ込めた躍動的彫刻
-work_0249,ダヴィデ像 ベルニーニ,artist_bernini,1624,baroque|sculpture|action,投石直前の身体で運動の時間を表した
-work_0250,四大河の噴水,artist_bernini,1651,baroque|fountain|rome,都市空間を劇場に変える動的な噴水彫刻
-work_0251,アルカディアの牧人,artist_poussin,1637,baroque|classic|allegory,死の記憶を静かな構図で哲学化した古典主義絵画
-work_0252,サビニの女たちの略奪,artist_poussin,1633,baroque|history|classic,秩序立つ構成で暴力の物語を古典化する
-work_0253,オルフェウスとエウリュディケ,artist_poussin,1650,baroque|mythology|classic,神話の悲劇を冷静な画面設計で示す
-work_0254,時間の舞踏,artist_poussin,1634,baroque|allegory|classic,循環する時間を寓意で整然と表す
-work_0255,ラス・イラストレル,artist_goya,1799,romantic|print|satire,理性の眠りが怪物を生むという警句を刻む版画
-work_0257,裸のマハ,artist_goya,1797,romantic|nude|portrait,直視する裸婦像が近代の官能表現を象徴する
-work_0258,着衣のマハ,artist_goya,1800,romantic|portrait|pair,裸婦像と対をなす装いの肖像で視線の政治を孕む
-work_0260,サルダナパールの死,artist_delacroix,1827,romantic|orientalism|drama,激しい色と動勢で退廃の悲劇を爆発させる
-work_0261,アルジェの女たち,artist_delacroix,1834,romantic|orientalism|interior,異国趣味と室内の静けさが共存する
-work_0262,キオス島の虐殺,artist_delacroix,1824,romantic|history|tragedy,苦痛の群像で暴力の現実を告発する
-work_0264,泉,artist_ingres,1856,neoclassical|nude|line,清冽な線描で官能を抑制しつつ強調した
-work_0265,トルコ風呂,artist_ingres,1862,neoclassical|orientalism|circle,円環構図に裸婦の反復を配置した幻想的空間
-work_0266,ナポレオン一世の戴冠式,artist_jacques_louis_david,1807,neoclassical|history|empire,政治的儀礼を巨大画面で演出した帝政の視覚記録
-work_0269,サンベルナール峠を越えるボナパルト,artist_jacques_louis_david,1801,neoclassical|portrait|propaganda,英雄像を誇張し権力のイメージを作り上げた
-work_0270,放浪者,artist_caspar_david_friedrich,1818,romantic|landscape|sublime,背中の人物が無限の自然を前に沈黙する象徴的風景
-work_0271,氷海,artist_caspar_david_friedrich,1824,romantic|landscape|sublime,氷の崩壊で人間の無力さを示す厳しい自然観
-work_0272,修道院の墓地,artist_caspar_david_friedrich,1810,romantic|landscape|ruin,廃墟と夕光が祈りと孤独を強める
-work_0273,海辺の僧侶,artist_caspar_david_friedrich,1810,romantic|landscape|minimal,広い空と海に小さな人影を置き存在の不安を描く
-work_0276,画家のアトリエ,artist_courbet,1855,realism|allegory|studio,自身の立場を寓意化した巨大な制作宣言
-work_0277,世界の起源,artist_courbet,1866,realism|nude|controversy,露骨な裸婦表現で視線と禁忌を突く
-work_0278,オフィーリア,artist_millais,1852,pre_raphaelite|literature|detail,自然の細密描写と悲劇の詩情が融合する
-work_0279,シャロットの女,artist_waterhouse,1888,pre_raphaelite|literature|myth,物語的情景を豊かな色彩で描いた
-work_0280,ベアトリーチェの祝福された死,artist_rossetti,1870,pre_raphaelite|symbolism|portrait,理想化された女性像に宗教的陶酔を重ねる
-work_0281,目覚めの良心,artist_hunt,1853,pre_raphaelite|moral|interior,室内の小道具で道徳的転回を語る
-work_0282,印象 日の出,artist_monet,1872,impressionism|seascape|iconic,大気と光の印象を最小限の筆致で捉えた
-work_0283,睡蓮 1916年頃,artist_monet,1916,impressionism|water|series,水面の反射に没入し視覚体験そのものを描く
-work_0284,ルーアン大聖堂 連作より,artist_monet,1894,impressionism|architecture|series,同一対象を光の変化で描き分けた連作の代表
-work_0285,干し草の山 連作より,artist_monet,1891,impressionism|landscape|series,時間帯と季節で色が変わる現象を追い続けた
-work_0288,踊り子,artist_degas,1874,impressionism|figure|pastel,リハーサルの瞬間を切り取る構図が新しい
-work_0289,浴後の女,artist_degas,1890,impressionism|figure|intimate,身体の動きを観察し日常の姿を掘り下げる
-work_0290,バーのフォリー＝ベルジェール,artist_manet,1882,modern|bar|mirror,鏡像のずれが都市の孤独と欲望を語る
-work_0293,笛を吹く少年,artist_manet,1866,modern|portrait|flat,平坦な背景と輪郭で人物像を明快に立てる
-work_0296,夜のカフェテラス,artist_van_gogh,1888,post_impressionism|night|color,人工光の色彩で夜の街を鮮やかに描く
-work_0297,麦畑と糸杉,artist_van_gogh,1889,post_impressionism|landscape|motion,自然のうねりを筆致のリズムに変換した
-work_0300,日曜日の午後 ジャット島,artist_seurat,1886,pointillism|landscape|iconic,点描の秩序で現代の余暇を静止させた
-work_0301,サーカス,artist_seurat,1891,pointillism|circus|modern,規則的な点と線で大衆芸能の緊張を描く
-work_0302,モンマルトルの舞踏会,artist_toulouse_lautrec,1889,post_impressionism|nightlife|poster,都市の夜を鋭い観察と線で切り取る
-work_0303,ムーラン・ルージュのラ・グーリュ,artist_toulouse_lautrec,1891,poster|nightlife|print,広告ポスターで大衆文化の美学を確立した
-work_0304,ベッド,artist_toulouse_lautrec,1892,post_impressionism|intimate|figure,親密な場面を簡潔な線と色で捉える
-work_0306,病室の死,artist_munch,1895,symbolism|memory|grief,喪失の記憶を歪んだ空間で再現する
-work_0307,接吻,artist_munch,1897,symbolism|love|shadow,溶け合う二人の輪郭が愛と消滅を示す
-work_0308,アビニョンの娘たち,artist_picasso,1907,cubism|modern|iconic,形態の分解で視覚のルールを刷新した
-work_0311,アルルカン,artist_picasso,1901,modern|blue_period|figure,孤独な人物像に青の憂鬱が染み込む
-work_0313,赤いアトリエ,artist_matisse,1911,modern|interior|color,赤一色の空間に物と絵画が浮かぶ
-work_0314,帽子の女,artist_matisse,1905,modern|fauvism|portrait,大胆な補色で肖像の常識を破る
-work_0315,開かれた窓,artist_matisse,1905,modern|fauvism|light,室内と港の光を色面で軽やかに表す
-work_0316,コンポジション VII,artist_kandinsky,1913,abstract|expression|color,抽象形態の洪水で精神的高揚を描く
-work_0317,黄 赤 青,artist_kandinsky,1925,abstract|bauhaus|geometry,幾何学と色の関係で音楽的構成を作る
-work_0318,黒い正方形,artist_malevich,1915,suprematism|abstract|iconic,ゼロ地点の絵画として純粋形態を宣言した
-work_0320,コンポジション with Red Blue Yellow,artist_mondrian,1930,abstract|de_stijl|geometry,直線と原色で宇宙的秩序を表した
-work_0322,ナンバー1A,artist_pollock,1948,abstract_expressionism|drip|action,滴下の軌跡が身体の時間をそのまま残す
-work_0323,オータム・リズム,artist_pollock,1950,abstract_expressionism|drip|iconic,全面的な線の網で没入感を生む
-work_0324,ウーマン I,artist_de_kooning,1952,abstract_expressionism|figure|gesture,具象と抽象の闘争が荒々しい筆致に現れる
-work_0325,ナンバー31,artist_pollock,1950,abstract_expressionism|drip|large,巨大画面に身体の動きを編み込んだ
-work_0326,シャンの婚礼,artist_chagall,1918,modern|fantasy|folk,浮遊する人物と色彩で記憶と祝祭を描く
-work_0328,眠るジプシー,artist_rousseau,1897,naive|dream|moon,静けさと不穏が同居する夢の砂漠風景
-work_0329,戦争,artist_rousseau,1894,naive|allegory|horse,幼い描写で暴力の寓意を逆に強める
-work_0331,白鳥が象を映す,artist_dali,1937,surrealism|doubleimage|dream,二重像の仕掛けで現実認識を揺さぶる
-work_0332,ナルシスの変貌,artist_dali,1937,surrealism|myth|double,神話を心理劇として二重イメージ化する
-work_0333,内乱の予感,artist_dali,1936,surrealism|war|body,歪む肉体で戦争前夜の不安を表す
-work_0336,光の帝国,artist_magritte,1954,surrealism|daynight|paradox,昼と夜が同居する風景で認識を反転させる
-work_0337,恋人たち,artist_magritte,1928,surrealism|love|veil,布で覆われた顔が親密さの隔たりを示す
-work_0338,鳥の誕生,artist_brancusi,1923,modern|sculpture|abstract,飛翔の本質を滑らかな形に還元した彫刻
-work_0339,接吻,artist_brancusi,1907,modern|sculpture|primitive,原初的な形態で結合の力を表す
-work_0343,カレーの市民,artist_rodin,1889,modern|sculpture|history,犠牲の瞬間を行進する群像で表した
-work_0344,歩く男,artist_rodin,1907,modern|sculpture|fragment,断片的身体で運動そのものを提示する
-work_0345,歩く人 I,artist_giacometti,1960,modern|sculpture|existential,細長い人体が孤独な存在を象徴する
-work_0346,鼻,artist_giacometti,1947,modern|sculpture|surreal,檻の中の顔が不安と拘束を示す
-work_0347,大きな頭,artist_giacometti,1954,modern|sculpture|portrait,彫り込みの粗さが視線の強度を生む
-work_0348,リクライニング・フィギュア,artist_henry_moore,1938,modern|sculpture|organic,空洞と曲線で身体と風景の連続を作る
-work_0349,バード・イン・スペース,artist_brancusi,1928,modern|sculpture|abstract,磨かれた形が速度と光を含む
-work_0350,黒の正方形 余白の構成,artist_el_lissitzky,1923,constructivism|design|abstract,構成主義の視覚言語で社会と芸術を結ぶ
-work_0351,タタール人の墓,artist_el_greco,1597,mannerism|religious|elongated,伸びる身体と光で霊的緊張を高める
-work_0353,受胎告知,artist_el_greco,1600,mannerism|religious|color,強い色と渦巻く形で神秘を表現する
-work_0354,ウェリントン公の肖像,artist_goya,1812,romantic|portrait|military,英雄像に皮肉と現実感が同居する
-work_0355,セーヌ河の朝,artist_turner,1840,romantic|landscape|light,霧と光が形を溶かし近代抽象への道を開く
-work_0356,雨 蒸気 速度,artist_turner,1844,romantic|industrial|motion,蒸気機関車の速度感を光の渦で描いた
-work_0358,大波 参考用を除外,artist_turner,1840,romantic|sea|study,海の力を渦巻く光で描く作品として参照される
-work_0359,キューピッドの教育,artist_fragonard,1775,rococo|mythology|light,軽やかな筆致で恋の戯れを描く
-work_0361,オダリスク,artist_boucher,1742,rococo|nude|decorative,装飾的肌色と布の質感で官能を描く
-work_0362,ポンパドゥール夫人の肖像,artist_boucher,1756,rococo|portrait|court,知性と優雅さを小道具で語る宮廷肖像
-work_0363,キテラ島への巡礼,artist_watteau,1717,rococo|fete_galante|poetic,夢のような社交場面が郷愁を誘う
-work_0364,ジャックルイダヴィッドのサンベルナール以前の習作,artist_jacques_louis_david,1799,neoclassical|study|portrait,英雄像の制作過程を示す習作
-work_0365,聖ゲオルギウスと竜,artist_rubens,1606,baroque|myth|action,奔放な動勢と肉体で英雄譚を描く
-work_0366,三美神,artist_rubens,1635,baroque|nude|myth,豊満な身体表現がバロックの官能を象徴する
-work_0367,ライオン狩り,artist_rubens,1621,baroque|hunt|action,野性と暴力を渦巻く構図で描写する
-work_0368,ガーデンの午後,artist_gainsborough,1785,portrait|landscape|british,風景と人物を溶け合わせた英国肖像の名品
-work_0369,青衣の少年,artist_gainsborough,1770,portrait|british|iconic,艶やかな青が人物の気品を際立たせる
-work_0370,ヘイ・ウェイン,artist_constable,1821,romantic|landscape|british,雲と光の観察で英国風景の写実を高めた
-work_0372,アメリカン・ゴシック,artist_grant_wood,1930,regionalism|portrait|iconic,禁欲的な表情が米国の地方性を象徴する
-work_0374,エドワード・ホッパー 朝の太陽,artist_hopper,1952,modern|interior|light,窓光が人物を隔離し沈黙を強める
-work_0375,クリスティーナの世界,artist_andrew_wyeth,1948,realism|american|field,遠景の家へ向かう視線が孤独と意志を描く
-work_0376,三つの習作 ルシアン・フロイドのための,artist_bacon,1969,modern|portrait|triptych,肉体の歪みで存在の不安を露わにする
-work_0377,叫ぶ教皇,artist_bacon,1953,modern|portrait|existential,権力者の像を恐怖の檻に閉じ込める
-work_0378,より大きな跳水,artist_hockney,1967,modern|pop|pool,一瞬の水しぶきを平面構成で鮮やかに示す
-work_0381,ワームスの箱,artist_warhol,1964,pop|installation|replica,複製の美学でオリジナルの概念を問い直す
-work_0382,ワム,artist_lichtenstein,1963,pop|comic|ben_day,漫画的図像を巨大化し感情を記号化する
-work_0383,溺れる少女,artist_lichtenstein,1963,pop|comic|melodrama,恋愛の悲劇を機械的点で表し距離を作る
-work_0384,ワン ナンバー 31,artist_rothko,1950,abstract|colorfield|spiritual,色の層が沈黙と瞑想を誘う
-work_0385,ブラック ペインティング,artist_ad_reinhardt,1960,abstract|minimal|monochrome,ほとんど黒の画面が見る行為を極限に追い込む
-work_0386,コンセプト アートの一例 ワン アンド スリー チェア,artist_joseph_kosuth,1965,conceptual|language|object,物と写真と定義で意味の構造を示す
-work_0387,スプラッシュ,artist_jasper_johns,1962,modern|neo_dada|symbol,記号と筆致が物の意味を更新する
-work_0388,旗,artist_jasper_johns,1954,modern|neo_dada|iconic,国旗という既知の像を絵画として再提示する
-work_0389,ヌードの階段を降りるNo2,artist_duchamp,1912,modern|futurism|iconic,運動の分解で時間表現を挑発した
-work_0391,大ガラス,artist_duchamp,1923,dada|concept|glass,装置的構成で欲望と機械の寓意を組む
-work_0392,カーテンポール,artist_calder,1931,modern|mobile|kinetic,空中彫刻が動きとバランスを作品化する
-work_0393,赤のバルーン・ドッグ,artist_jeff_koons,1994,contemporary|sculpture|pop,玩具の輝きで欲望と消費を映す巨大彫刻
-work_0394,現代美術の象徴的作品 レディメイドの継承,artist_damien_hirst,1991,contemporary|concept|shock,死と展示の関係を直截に提示する
-work_0395,カンパベルのスープ以後の反復の一例,artist_warhol,1970,pop|repetition|silkscreen,反復が意味を薄め同時に強めることを示す
-work_0396,ゲルニカのための習作,artist_picasso,1937,modern|study|war,最終作に向けた構図の模索が見える
-work_0397,星の王子さまのような人物像,artist_basquiat,1982,neo_expressionism|text|street,文字と図像の衝突で都市の声を刻む
-work_0398,キャンピングカーのある風景,artist_andrew_wyeth,1963,realism|american|quiet,静かな画面に時間の堆積が漂う
-work_0399,大理石のピエタ,artist_michelangelo,1499,renaissance|sculpture|religious,悲しみと静けさが同居する彫刻表現の頂点
-work_a_sunday_afternoon,グランド・ジャット島の日曜日,artist_seurat,1884-1886,点描|新印象派|公園,点の集積で光と群衆を組み立てた
-work_absinthe,アブサン,artist_degas,1876,都市|印象派|孤独,カフェの沈黙で都市の孤立を描いた
-work_angelus,晩鐘,artist_millet,1857-1859,農民|バルビゾン派|祈り,農民の祈りを静かな敬虔で描いた
-work_anxiety_munch,不安,artist_munch,1894,表現主義|群像|心理,顔の列で社会的緊張を描いた
-work_armen_sunflowers,ひまわり,artist_van_gogh,1888,静物|ポスト印象派|色彩|post_impressionism|stilllife|color,黄色の変奏で生命力と不安が同居する静物画
-work_artemisia_judith,ユディトとホロフェルネス,artist_artemisia_gentileschi,1612-1613,バロック|女性像|物語,力強い女性像で暴力の緊張を描いた
-work_at_moulin_rouge,ムーラン・ルージュにて,artist_toulouse_lautrec,1892-1895,夜の街|人物|毒気,人工光の下の顔色で都市の毒を描いた
-work_bacon_study_pope,教皇インノケンティウスの習作,artist_bacon,1953,具象|歪み|恐怖,叫ぶ顔で権力の不安を暴いた
-work_bacon_three_studies,磔刑のための3つの習作,artist_bacon,1944,具象|恐怖|三連画,怪物的形で戦後の不安を凝縮した
-work_bal_du_moulin,ムーラン・ド・ラ・ギャレット,artist_renoir,1876,印象派|都市|人物|impressionism|crowd|leisure,木漏れ日と群衆の動きで祝祭の午後を描く
-work_balcony,バルコニー,artist_manet,1868-1869,近代|人物|対比,色の対比で人物の距離感を描いた
-work_ballet_rehearsal,バレエの稽古,artist_degas,1874,印象派|踊り子|構図,切り取る視点で動作の連続を捉えた
-work_basquiat_hollywood_africans,ハリウッド・アフリカンズ,artist_basquiat,1983,人種|メディア|文字,表象の偏りを文字と顔で告発した
-work_basquiat_riding,ライディング・ウィズ・デス,artist_basquiat,1988,寓意|死|象徴,死と並走する姿で寓意を作った
-work_basquiat_untitled_skull,無題（頭蓋骨）,artist_basquiat,1981,新表現主義|文字|身体,骸骨と文字で歴史の痛みを叩いた
-work_bernini_apollo_daphne,アポロとダフネ,artist_bernini,1622-1625,彫刻|変身|バロック,変身の瞬間を触感で固定した
-work_bernini_ecstasy,聖テレジアの法悦,artist_bernini,1652,彫刻|バロック|劇場性|baroque|sculpture|theatre,彫刻と建築で宗教体験を舞台装置化した
-work_bicycle_wheel,自転車の車輪,artist_duchamp,1913,レディメイド|概念|ダダ,回転する既製品で鑑賞態度をずらした
-work_birth_of_venus,ヴィーナスの誕生,artist_botticelli,c.1485,神話画|ルネサンス|線描|renaissance|mythology|iconic,古代神話を大画面に蘇らせたルネサンスの象徴的作品
-work_black_paintings_saturn,我が子を食らうサトゥルヌス,artist_goya,1819-1823,暗黒|神話|恐怖,恐怖の神話を内面の闇として描いた
-work_black_square,黒の正方形,artist_malevich,1915,無対象|前衛|幾何学,絵画をゼロ地点へ押し戻した
-work_blake_ancient_of_days,古の時（エウロパ）,artist_william_blake,1794,幻視|宗教|版画,神話的創造者像で宇宙を測った
-work_blake_newton,ニュートン,artist_william_blake,1795,寓意|理性批判|版画,理性の閉塞を象徴像で批判した
-work_bosch_garden,快楽の園,artist_bosch,1490-1510,幻想|寓意|宗教,欲望と罰の世界を怪奇な細部で構築した
-work_boucher_diana,ディアナの水浴,artist_boucher,1742,ロココ|神話|官能,神話を官能的装飾へ寄せた
-work_boulevard_montmartre,モンマルトル大通り,artist_pissarro,1897,印象派|都市|俯瞰,俯瞰視点で都市の流れを描いた
-work_bourgeois_cells,セル（抜粋）,artist_louise_bourgeois,1991,インスタレーション|記憶|空間,閉じた部屋で記憶の痛みを置いた
-work_bourgeois_spider,ママン（蜘蛛）,artist_louise_bourgeois,1999,彫刻|記憶|母性,蜘蛛の体積で母性と不安を示した
-work_brancusi_bird,空間の鳥,artist_brancusi,1923,彫刻|抽象|簡素化,飛翔の本質を滑らかな形に還元した
-work_brancusi_endless_column,無限柱,artist_brancusi,1938,彫刻|モジュール|象徴|modern|sculpture|monument,反復形態が無限への上昇を示す記念碑
-work_braque_compote,果物皿とグラス,artist_braque,1912,キュビスム|コラージュ|素材,紙片の導入で現実素材を絵に入れた
-work_braque_violin,ヴァイオリンとパレット,artist_braque,1909,キュビスム|静物|形,静物を分解し空間を再定義した
-work_bridge_narni,ナルニの橋,artist_corot,1826,風景|トーン|静けさ,柔らかな調子で空気の層を作った
-work_bruegel_babel,バベルの塔,artist_bruegel_elder,1563,寓意|建築|宗教|renaissance|northern|biblical,巨大建築の崩壊に傲慢への警告を込める
-work_bruegel_hunters,雪中の狩人,artist_bruegel_elder,1565,風景|季節|風俗,季節の労働と景観を高い視点で描いた
-work_bruegel_peasant_wedding,農民の婚礼,artist_bruegel_elder,1567,風俗画|祝祭|観察|renaissance|northern|genre,祝宴のざわめきを群像のリズムで描写する
-work_burial_ornans,オルナンの埋葬,artist_courbet,1849-1850,写実主義|群像|社会|realism|history|crowd,地方の葬儀を大画面に描き近代絵画の題材を変えた
-work_campbell_soup,キャンベルスープ缶,artist_warhol,1962,ポップアート|反復|消費|pop|commodity|iconic,日用品を図像化し芸術の境界を揺らす
-work_caravaggio_bacchus,バッカス,artist_caravaggio,1596,バロック|写実|神話,神話を生々しい現実の若者にした
-work_caravaggio_matthew,聖マタイの召命,artist_caravaggio,1599-1600,バロック|明暗|宗教画|baroque|religious|tenebrism,光の一筋で運命の瞬間を劇的に示す
-work_card_players,カード遊びをする人々,artist_cezanne,1890-1892,人物|構造|静けさ,沈黙の対面を重量感で固定した
-work_cassatt_boating,ボート遊び,artist_mary_cassatt,1893-1894,印象派|女性|屋外,女性の自立的視線を屋外に置いた
-work_cassatt_child_bath,子供の浴室,artist_mary_cassatt,1893,印象派|母子|日常,日常のケアを構図で静かに強調した
-work_chagall_birthday,誕生日,artist_chagall,1915,恋愛|浮遊|色彩,浮遊する身体で幸福感を描いた
-work_chagall_i_and_village,私と村,artist_chagall,1911,詩的|民俗|色彩|modern|fantasy|symbol,素朴な象徴が個人史と共同体をつなぐ
-work_city_train,三等車,artist_daumier,1862-1864,社会|風刺|写実,市民の疲れを鋭い観察で捉えた
-work_claude_embarkation,シバの女王の乗船,artist_claude_lorrain,1648,風景|古典主義|光,理想風景に光の劇を与えた
-work_composition_viii,コンポジションVIII,artist_kandinsky,1923,抽象|構成|幾何学,幾何学と色で視覚の音楽を作った
-work_creation_of_adam,アダムの創造,artist_michelangelo,1512,フレスコ|ルネサンス|人体|renaissance|fresco|iconic,指先が触れ合う瞬間に生命の起源を象徴化した天井画
-work_dali_met_metamorphosis,ナルキッソスの変貌,artist_dali,1937,夢|象徴|シュルレアリスム,神話を二重像で幻視化した
-work_dance_at_le_moulin,ムーラン・ド・ラ・ギャレット（ルノワール別）,artist_renoir,1876,印象派|舞踏|光,群衆の揺れを光の粒で包んだ
-work_dance_matisse,ダンス,artist_matisse,1910,近代|色面|リズム|modern|fauvism|rhythm,単純な形と色で身体の循環するリズムを示す
-work_dancers_blue,青い踊り子たち,artist_degas,1897,踊り子|色|構図,回転の瞬間を色面でまとめた
-work_david_marats_death,マラーの死,artist_jacques_louis_david,1793,新古典主義|革命|肖像|neoclassical|history|martyr,革命の殉教者を静謐な造形で神格化した
-work_david_oath_horatii,ホラティウス兄弟の誓い,artist_jacques_louis_david,1784,新古典主義|歴史画|革命|neoclassical|history|virtue,古代ローマの物語で徳と犠牲を劇的に示す
-work_death_and_life,死と生,artist_klimt,1910-1915,象徴|対比|寓意,死と生を模様の塊として対置した
-work_death_of_sardanapalus,サルダナパロスの死,artist_delacroix,1827,ロマン主義|混沌|色彩,混沌の色で破滅の豪奢を描いた
-work_dejeuner,草上の昼食,artist_manet,1863,近代|都市|引用|modern|scandal|figure,古典引用と現代性が衝突し近代の始点となった
-work_dekooning_excavation,発掘,artist_de_kooning,1950,抽象|筆触|層,筆触の層で都市のノイズを描いた
-work_dekooning_woman_i,ウーマンI,artist_de_kooning,1950-1952,抽象表現主義|人物|筆触,人物と抽象の衝突を筆触で維持した
-work_donatello_david,ダヴィデ,artist_donatello,1440,彫刻|古典復興|裸体,古代的裸体を近代的自信として復活させた
-work_donatello_gattamelata,ガッタメラータ騎馬像,artist_donatello,1453,彫刻|騎馬|古典,古代の権威を近代都市に復活させた
-work_durer_hare,野うさぎ,artist_durer,1502,細密|自然|水彩,毛並みと光を執拗に観察した
-work_durer_melencolia,メランコリアI,artist_durer,1514,版画|寓意|象徴,創造の憂鬱を寓意で詰め込んだ
-work_durer_selfportrait,自画像,artist_durer,1500,肖像|北方ルネサンス|象徴,自己を厳格な正面像として定義した
-work_el_greco_burial_orgaz,オルガス伯の埋葬,artist_el_greco,1586-1588,宗教画|霊性|伸長|mannerism|religious|iconic,天上と地上を重ねた構図が劇的な宗教体験を生む
-work_el_greco_view_toledo,トレドの眺め,artist_el_greco,1596-1600,風景|霊性|暗雲,暗い空で都市を幻視化した
-work_embrace_schiele,抱擁,artist_schiele,1917,表現主義|身体|親密,身体の絡まりで親密さを緊張化した
-work_fighting_temer,戦艦テメレール号,artist_turner,1839,ロマン主義|海景|光|romantic|sea|nostalgia,旧時代の終わりを夕光の詩情で描く
-work_flood_port_marly,マルリー港の洪水,artist_sisley,1876,印象派|水|風景,水面の反射で街を揺らがせた
-work_fountain,泉,artist_duchamp,1917,レディメイド|概念|ダダ|dada|readymade|iconic,既製品を作品とする発想が芸術の定義を変えた
-work_fra_angelico_annunciation,受胎告知,artist_fra_angelico,1437-1446,宗教画|初期ルネサンス|清澄,透明な色で敬虔な沈黙を作った
-work_fra_angelico_noli_me,ノリ・メ・タンゲレ,artist_fra_angelico,1440,宗教画|庭|静けさ,庭の静けさで復活の距離を示した
-work_fragonard_swing,ぶらんこ,artist_fragonard,1767,ロココ|遊戯|恋愛|rococo|leisure|iconic,遊戯的場面に欲望と視線の演出が潜む
-work_frans_hals_laughing,笑う騎士,artist_frans_hals,1624,肖像|筆致|バロック,速い筆致で生きた表情を刻んだ
-work_galettes,ガレット,artist_renoir,1881,人物|印象派|室内,室内の温度を柔らかな肌色で描いた
-work_gare_saint_lazare,サン＝ラザール駅,artist_manet,1873,都市|蒸気|近代,蒸気の白で都市の呼吸を描いた
-work_gates_of_hell,地獄の門,artist_rodin,1880-1917,彫刻|群像|文学|modern|sculpture|monument,群像が蠢く巨大扉で欲望と苦悩を刻む
-work_giacometti_city_square,広場,artist_giacometti,1948,彫刻|空間|距離,人物同士の距離を空間の重さにした
-work_giacometti_walking_man,歩く人,artist_giacometti,1960,彫刻|実存|細長い,細い体で存在の距離を示した
-work_girl_with_pearl,真珠の耳飾りの少女,artist_vermeer,1665,肖像|室内|光|baroque|portrait|light,静かな光と青いターバンが一瞬の気配を固定する
-work_gleaners,落穂拾い,artist_millet,1857,農民|写実|社会,小さな所作に生活の厳しさを刻んだ
-work_guernica,ゲルニカ,artist_picasso,1937,反戦|キュビスム|白黒|modern|war|monochrome,暴力の悲劇を象徴的形態で叫ぶ反戦の壁画
-work_haring_crack_is_whack,クラックは最悪,artist_haring,1986,ストリート|社会|メッセージ,公共壁で薬物問題を叫んだ
-work_haring_radiant_baby,ラディアント・ベイビー,artist_haring,1982,ストリート|記号|ポップ,単純な記号で祝祭と警告を両立した
-work_harvest,収穫,artist_pissarro,1882,田園|印象派|労働,農村のリズムを穏やかに描いた
-work_hay_wain,干し草の車,artist_constable,1821,風景|ロマン主義|田園,空と湿度で田園の現実を描いた
-work_hiroshige_plum_garden,亀戸梅屋舗,artist_hiroshige,1857,浮世絵|花|構図,極端な前景で空間の奥行きを作った
-work_hiroshige_shono,庄野 白雨,artist_hiroshige,1833-1834,浮世絵|雨|旅,突然の雨を斜線でリズム化した
-work_hiroshige_sudden_shower,大はしあたけの夕立,artist_hiroshige,1857,浮世絵|雨|都市,雨の斜線で都市の瞬間を作った
-work_hockney_joiners,フォト・コラージュ（ジョイナーズ）抜粋,artist_hockney,1982,写真|複数視点|現代,複数視点で時間を一枚に繋いだ
-work_hockney_pool,より大きな水しぶき,artist_hockney,1967,現代|プール|光,水しぶきの瞬間を平明な形で固定した
-work_hogarth_marriage,モードな結婚（抜粋）,artist_hogarth,1743-1745,風刺|連作|社会,連作で上流社会の偽善を暴いた
-work_hokusai_great_wave,神奈川沖浪裏,artist_hokusai,1831,浮世絵|波|風景,巨大な波で自然の力を象徴化した
-work_hokusai_red_fuji,凱風快晴（赤富士）,artist_hokusai,1831,浮世絵|富士|風景,単純な色面で富士の存在感を固定した
-work_holbein_ambassadors,大使たち,artist_holbein,1533,肖像|寓意|アナモルフォーズ,寓意と歪像で知と死を同居させた
-work_holbein_christ_tomb,墓の中のキリスト,artist_holbein,1521,宗教画|写実|衝撃,死体の写実で信仰の衝撃を作った
-work_hopper_automat,オートマット,artist_hopper,1927,都市|孤独|室内,一人の時間を冷たい光で固定した
-work_hopper_house_by_railroad,線路脇の家,artist_hopper,1925,都市|孤独|建築,建物の沈黙で疎外感を描いた
-work_hopper_nighthawks,ナイトホークス,artist_hopper,1942,都市|孤独|夜|modern|urban|lonely,夜のカウンターで沈黙の距離を描いた
-work_houses_parliament,国会議事堂（連作）,artist_monet,1900-1904,印象派|霧|連作,霧と夕光を重ねて都市を溶かした
-work_impression_sunrise,印象・日の出,artist_monet,1872,印象派|港|光,瞬間の光で新しい絵画名を生んだ
-work_ingres_apotheosis_homer,ホメロス礼讃,artist_ingres,1827,新古典主義|群像|構成,芸術の系譜を整列で可視化した
-work_ingres_grande_odalisque,グランド・オダリスク,artist_ingres,1814,新古典主義|裸婦|歪み|neoclassical|orientalism|nude,伸びた背中の線で理想化と逸脱が同居する裸婦像
-work_jakuchu_rooster,群鶏図（抜粋）,artist_jakuchu,1765-1770,江戸絵画|動物|細密,羽毛の密度で生命の気配を描いた
-work_jakuchu_vegetable,野菜涅槃図,artist_jakuchu,1795,江戸絵画|寓意|ユーモア,野菜を涅槃図に見立て遊んだ
-work_jan_van_eyck_arnolfini,アルノルフィーニ夫妻像,artist_jan_van_eyck,1434,油彩|細密|肖像,細密な質感で生活と儀礼を閉じ込めた
-work_joy_of_life,生きる歓び,artist_matisse,1905-1906,フォーヴィスム|色彩|楽園,強い色で楽園の感覚を直接描いた
-work_judgement,最後の審判,artist_michelangelo,1536-1541,フレスコ|ルネサンス|群像|renaissance|fresco|apocalypse,渦巻く肉体で救済と恐怖を同時に描いた
-work_kahlo_selfportrait_monkey,自画像と猿,artist_kahlo,1945,自画像|象徴|動物,動物記号で自己像を密にした
-work_kahlo_thorn_necklace,とげの首飾りとハチドリ,artist_kahlo,1940,自画像|象徴|自然,痛みと自然記号で自己を編んだ
-work_kahlo_two_fridas,二人のフリーダ,artist_kahlo,1939,自画像|象徴|身体,分裂した自己を二重の身体で示した
-work_kandinsky_improvisation,即興,artist_kandinsky,1913,抽象|前衛|色,感情の爆発を色の衝突にした
-work_kiss,接吻,artist_klimt,1907-1908,象徴主義|金|官能,金箔と模様で愛を装飾の渦に包んだ
-work_klee_park_near_lu,ルーの近くの公園,artist_klee,1938,抽象|色面|抒情,色の層で不安と詩を両立した
-work_klee_senecio,セネシオ,artist_klee,1922,抽象|顔|色,記号的な顔で感情を最小化した
-work_klee_twittering_machine,さえずり機械,artist_klee,1922,寓意|線|ユーモア,機械と生物の曖昧さを描いた
-work_korin_irises,燕子花図屏風,artist_korin,1709,琳派|屏風|装飾,反復する花でリズムを作った
-work_korin_red_white_plum,紅白梅図屏風,artist_korin,1714-1715,琳派|屏風|装飾,金地と流れで自然をデザイン化した
-work_la_gare,サン＝ラザール駅（モネ）,artist_monet,1877,印象派|都市|蒸気,蒸気と光で工業都市を絵画化した
-work_last_supper,最後の晩餐,artist_leonardo,1495-1498,宗教画|ルネサンス|壁画|renaissance|religious|wallpainting,構図と視線の連鎖で物語を一瞬に凝縮した壁画
-work_lempicka_adam_eve,アダムとイヴ,artist_lempicka,1932,アールデコ|神話|人体,硬質な肌で古典をモダン化した
-work_lempicka_green_bugatti,緑のブガッティの自画像,artist_lempicka,1929,アールデコ|肖像|モダン,硬質な光でモダンな自己像を作った
-work_les_demoiselles,アヴィニョンの娘たち,artist_picasso,1907,近代|キュビスム|人物,視点の破壊で身体を再構成した
-work_lhqo,L.H.O.O.Q.,artist_duchamp,1919,ダダ|改変|アイロニー,名画改変で権威を笑い飛ばした
-work_liberty_leading,民衆を導く自由の女神,artist_delacroix,1830,ロマン主義|革命|群像|romantic|history|revolution,象徴的人物が群衆を率いる革命のイメージを決定づけた
-work_little_dancer,14歳の小さな踊り子,artist_degas,1881,彫刻|踊り子|近代,実在の素材で舞台裏の現実を出した
-work_luncheon_boating,舟遊びの昼食,artist_renoir,1881,印象派|社交|人物|impressionism|portrait|leisure,親密な集団像に光と会話の気配を封じ込める
-work_madonna_munch,マドンナ,artist_munch,1894-1895,象徴|愛|不安,愛と不安を渦の輪郭で包んだ
-work_malevich_suprematist,シュプレマティスム構成,artist_malevich,1916,無対象|幾何学|前衛,幾何形で速度感を作った
-work_masaccio_expulsion,楽園追放,artist_masaccio,1425,宗教画|感情|人体,嘆きの身体で感情を前面に出した
-work_masaccio_tribute_money,納税の銭,artist_masaccio,1425,遠近|宗教画|人体,統一遠近で物語を一つの空間にした
-work_matisse_snail,かたつむり,artist_matisse,1953,切り絵|色面|晩年,切り絵の色面で形の快楽を作った
-work_miro_blue,青の連作（抜粋）,artist_miro,1961,抽象|色面|詩,広い青に最小の記号を浮かべた
-work_miro_harlequin,道化師のカーニヴァル,artist_miro,1924-1925,記号|シュルレアリスム|遊び,記号の生物で室内を夢へ変えた
-work_mona_lisa,モナ・リザ,artist_leonardo,1503-1506,肖像|ルネサンス|スフマート|renaissance|portrait|sfumato,微笑と空気感のぼかしで肖像画の基準を塗り替えた
-work_mondrian_broadway,ブロードウェイ・ブギウギ,artist_mondrian,1942-1943,抽象|都市|リズム|abstract|de_stijl|city,格子に都市のリズムと音楽を重ねる
-work_mondrian_composition_red,赤・青・黄のコンポジション,artist_mondrian,1930,抽象|デ・ステイル|原色,垂直水平と原色で秩序を示した
-work_mondrian_tree,灰色の木,artist_mondrian,1912,抽象|変換|自然,木の形を抽象へ変換する途中を示した
-work_monet_japanese_bridge,日本の橋（別）,artist_monet,1899,印象派|庭|連作,水面と橋を色の帯で描いた
-work_mont_sainte_victoire,サント＝ヴィクトワール山,artist_cezanne,1902-1906,ポスト印象派|構造|風景,自然を幾何の骨格として積み上げた
-work_montmartre_poster,ムーラン・ルージュのポスター,artist_toulouse_lautrec,1891,ポスター|夜の街|線,夜の娯楽を平面と線で切った
-work_morandi_bottles_1940,静物（瓶）,artist_morandi,1940,静物|反復|静けさ,微差の配置で静けさを増幅した
-work_morandi_still_life_1956,静物,artist_morandi,1956,静物|反復|トーン,瓶の距離を微差で積み上げた
-work_morisot_cradle,ゆりかご,artist_berthe_morisot,1872,印象派|室内|母子,家庭の親密を軽い筆致で描いた
-work_morisot_summer_day,夏の日,artist_berthe_morisot,1879,印象派|ボート|光,水辺の気配を軽い色で捉えた
-work_night_watch,夜警,artist_rembrandt,1642,集団肖像|光|バロック|baroque|group|chiaroscuro,集団肖像に物語性と動きを与えた革新作
-work_okeeffe_black_iris,黒いアイリス,artist_okeeffe,1926,花|拡大|形態,形態の曲線を極端に強調した
-work_okeeffe_red_canna,赤いカンナ,artist_okeeffe,1924,花|拡大|モダニズム,花弁を拡大し抽象性を引き出した
-work_okeeffe_sky_above_clouds,雲の上の空,artist_okeeffe,1965,風景|抽象|空,地平線の反復で無限を作った
-work_olympia,オランピア,artist_manet,1863,近代|裸婦|挑発|modern|nude|scandal,直視する裸婦が制度と視線の関係を暴く
-work_painting_no_1_klint,最初の抽象シリーズ（抜粋）,artist_hilma_af_klint,1906-1907,抽象|霊性|先駆,霊的体系を色と形の図式にした
-work_persistence_memory,記憶の固執,artist_dali,1931,シュルレアリスム|夢|象徴|surrealism|dream|time,溶ける時計で時間の不確かさを可視化した
-work_picasso_bull,雄牛（リトグラフ連作抜粋）,artist_picasso,1945-1946,版画|抽象化|連作,形が抽象へ向かう過程を連作化した
-work_pollock_autumn_rhythm,秋のリズム,artist_pollock,1950,抽象表現主義|身体性|線,大画面に身体の軌跡を流した
-work_pollock_blue_poles,ブルー・ポールズ,artist_pollock,1952,抽象表現主義|線|密度,線と棒で画面のリズムを固定した
-work_pollock_no5,No.5,artist_pollock,1948,抽象表現主義|ドリッピング|絵肌,滴る線の密度で全体を網目化した
-work_portrait_adele,アデーレ・ブロッホ＝バウアーの肖像,artist_klimt,1907,象徴主義|金|肖像,装飾の金で人物をアイコン化した
-work_poussin_et_in_arcadia,アルカディアにも我あり,artist_poussin,1637-1638,古典主義|寓意|構成,死の寓意を理性的構図で示した
-work_primavera,春,artist_botticelli,1482,神話画|寓意|ルネサンス,花と身振りで季節と愛を寓意化した
-work_rain_steam_speed,雨・蒸気・速度,artist_turner,1844,ロマン主義|近代|光,機関車を霧の奔流として描いた
-work_red_room,赤い部屋,artist_matisse,1908,室内|装飾|色面,室内を赤の平面で統一した
-work_rembrandt_return_prodigal,放蕩息子の帰還,artist_rembrandt,1669,宗教画|光|慈愛,抱擁の光で慈愛を描いた
-work_rembrandt_selfportrait_1659,自画像,artist_rembrandt,1659,自画像|光|内面,老いの視線を厚い絵肌で受け止めた
-work_renoir_bathers,浴女たち,artist_renoir,1887,人物|印象派|古典回帰,柔らかな肌で古典的喜びへ回帰した
-work_rivera_detroit,デトロイト産業壁画（抜粋）,artist_diego_rivera,1932-1933,壁画|労働|社会,産業の力を公共空間へ描いた
-work_rivera_man_controller,岐路に立つ人,artist_diego_rivera,1934,壁画|政治|未来,社会の対立を大構図で対置した
-work_rothko_black_maroon,黒と栗色,artist_rothko,1958,抽象|色面|沈黙,暗い色面で圧の空間を作った
-work_rothko_orange_red_yellow,オレンジ・赤・黄,artist_rothko,1961,色面|抽象|瞑想,色面の重なりで沈黙の場を作った
-work_rothko_seagram,シーグラム壁画（抜粋）,artist_rothko,1958-1959,色面|抽象|空間,色の壁で空間の圧を生んだ
-work_rouen_cathedral,ルーアン大聖堂（連作）,artist_monet,1892-1893,印象派|連作|光,同一対象を光の差分で描き分けた
-work_rubens_cross,十字架降下,artist_rubens,1612-1614,バロック|動勢|宗教画,斜線構図で肉体の重さを感じさせた
-work_salisbury_cathedral,ソールズベリー大聖堂,artist_constable,1831,風景|雲|光|romantic|landscape|cloud,空の表情が建築と自然の関係を語る
-work_sargent_carnation,カーネーション・リリー・リリー・ローズ,artist_sargent,1885-1886,人物|夕暮れ|光,灯りの時間を柔らかく描いた
-work_sargent_madame_x,マダムX,artist_sargent,1884,肖像|近代|社交,洗練と挑発を黒の輪郭で描いた
-work_school_of_athens,アテネの学堂,artist_raphael,1509-1511,宗教画|ルネサンス|遠近,知の理想を完璧な建築空間に配置した
-work_seated_woman_schiele,座る女,artist_schiele,1917,表現主義|人物|線,痩せた線で存在の脆さを描いた
-work_selfportrait_schiele,自画像（シーレ）,artist_schiele,1910,表現主義|自画像|線,尖った線で自己の不安を露わにした
-work_sesshu_haboku,破墨山水,artist_sesshu,1495,水墨画|破墨|禅,滲みと省略で山水を立ち上げた
-work_sesshu_landscape_scroll,山水長巻（抜粋）,artist_sesshu,1486,水墨画|山水|禅,筆勢の強弱で山水の気韻を作った
-work_sistine_ceiling,システィーナ礼拝堂天井画,artist_michelangelo,1508-1512,フレスコ|ルネサンス|聖書,壮大な人体群像で聖書世界を覆い尽くした
-work_snow_louveciennes,ルーヴシエンヌの雪,artist_sisley,1874,印象派|雪|空気,冷気の透明さを色で捉えた
-work_son_of_man,人の子,artist_magritte,1964,シュルレアリスム|逆説|記号|surrealism|identity|iconic,顔を隠すリンゴが自己と社会の関係を示す
-work_sonia_delaunay_prismes,プリズム電気,artist_sonia_delaunay,1914,抽象|同時性|色,色のリズムで都市の速度を描いた
-work_sonia_delaunay_rhythm,リズム,artist_sonia_delaunay,1938,抽象|色|音楽,色の反復で音楽的リズムを作った
-work_starry_night,星月夜,artist_van_gogh,1889,風景|ポスト印象派|筆触|post_impressionism|night|iconic,うねる筆致が内面の宇宙観を夜空に投影する
-work_stone_breakers,石割り,artist_courbet,1849,写実主義|労働|社会|realism|labor|society,労働の厳しさを英雄化せず描いた社会的リアリズム
-work_tahiti_women,タヒチの女たち,artist_gauguin,1891,異国|色面|象徴|post_impressionism|tahiti|symbol,平坦な色面で異郷と理想を造形化する
-work_tatlin_monument,第三インターナショナル記念塔案,artist_tatlin,1919-1920,構成主義|建築|プロジェクト,芸術と技術を統合する塔を構想した
-work_ten_largest,10の最大作（抜粋）,artist_hilma_af_klint,1907,抽象|霊性|大画面,人生の段階を巨大な色面で表した
-work_the_dance_of_life,生命の踊り,artist_munch,1899-1900,象徴|人生|円環,人生の段階を踊りの輪で示した
-work_the_kiss_rodin,接吻（ロダン）,artist_rodin,1882,彫刻|官能|近代,官能を静かな緊張の体積にした
-work_the_milkmaid,牛乳を注ぐ女,artist_vermeer,1658-1660,室内画|日常|光|baroque|genre|light,日常の所作に崇高さを与える光の絵画
-work_the_scream,叫び,artist_munch,1893,表現主義|不安|象徴|symbolism|expression|iconic,不安の叫びを波打つ線と色で視覚化する
-work_the_treason,イメージの裏切り,artist_magritte,1929,言語|シュルレアリスム|概念|surrealism|language|concept,言葉と像のずれを一文で突きつけた
-work_the_tree_of_life,生命の樹,artist_klimt,1909,象徴|装飾|金,渦巻く枝で生命の循環を表した
-work_the_weeping_woman,泣く女,artist_picasso,1937,反戦|肖像|断片|modern|portrait|war,歪んだ顔面が戦争の痛みを凝縮する
-work_thinkert,考える人,artist_rodin,1902,彫刻|近代|身体|modern|sculpture|iconic,筋肉の緊張が思考の重さを伝える彫刻
-work_third_of_may,1808年5月3日,artist_goya,1814,ロマン主義|戦争|光|romantic|history|war,処刑の瞬間を光で切り裂く反戦の名画
-work_three_musicians,三人の音楽家,artist_picasso,1921,キュビスム|コラージュ風|音楽,仮面のような形で演奏を組み立てた
-work_tintoretto_last_supper,最後の晩餐（ティントレット）,artist_tintoretto,1592-1594,宗教画|劇的|明暗,斜めの光で場を劇場にした
-work_titian_assumption,聖母被昇天,artist_titian,1516-1518,宗教画|ヴェネツィア派|色,色の上昇で天への運動を作った
-work_titian_venus_urbino,ウルビーノのヴィーナス,artist_titian,1538,神話画|裸婦|色彩|renaissance|nude|venice,官能と視線の演出で近代裸婦像の系譜を開いた
-work_utamaro_insect_books,虫籠と虫の本（抜粋）,artist_utamaro,1788,浮世絵|女性|細部,生活の細部で女性像を豊かにした
-work_utamaro_three_beauties,当時三美人,artist_utamaro,1793,浮世絵|美人画|肖像,顔の差異を繊細な線で出した
-work_van_dyck_charles_i,チャールズ1世騎馬像,artist_van_dyck,1637-1638,肖像|宮廷|権威,姿勢と衣装で権威を演出した
-work_velazquez_las_meninas,ラス・メニーナス,artist_velazquez,1656,バロック|宮廷|視線|baroque|court|meta,視線と鏡で絵画の仕組みを問い直す宮廷画
-work_vermeer_art_of_painting,絵画芸術,artist_vermeer,1666-1668,室内|寓意|光,制作の場を静謐な寓意にした
-work_veronese_wedding_cana,カナの婚礼,artist_veronese,1563,祝祭|宗教画|大画面,祝祭の豪奢で宗教画を世俗化した
-work_vigee_le_brun_marie,マリー＝アントワネットと子供たち,artist_vigee_le_brun,1787,肖像|宮廷|母性,母性の演出で王権イメージを支えた
-work_vigee_le_brun_selfportrait,自画像（娘と）,artist_vigee_le_brun,1789,自画像|母性|肖像,母と画家の顔を同時に示した
-work_warhol_brillo,ブリロ・ボックス,artist_warhol,1964,ポップアート|オブジェ|消費,商品箱の再現で芸術の境界をずらした
-work_warhol_marilyn,マリリン・ディプティック,artist_warhol,1962,ポップアート|肖像|反復|pop|silkscreen|iconic,反復と退色でスターの消費と死を示す
-work_water_lilies_series,睡蓮（連作）,artist_monet,1899-1926,印象派|連作|水面,光と反射を時間の層として積んだ
-work_water_lily_bridge,睡蓮の池と日本の橋,artist_monet,1899,印象派|庭|水面,庭の水面を視覚の宇宙にした
-work_watteau_cythera,シテール島への巡礼,artist_watteau,1717,ロココ|雅宴画|抒情,恋の余韻を淡い空気で包んだ
-work_where_do_we_come,我々はどこから来たのか,artist_gauguin,1897,象徴|ポスト印象派|タヒチ|post_impressionism|symbolism|monumental,人生の問いを連続する人物群で語る大作
-work_white_on_white,白の上の白,artist_malevich,1918,無対象|ミニマル|前衛|suprematism|abstract|minimal,差異の最小で感覚の限界を探った
-work_yellow_red_blue,黄・赤・青,artist_kandinsky,1925,抽象|理論|色,色の力関係を画面の構造にした
+id,title,aliases,artistId,year,year_min,year_max,medium,movement,era,blurb,,
+work_little_dancer_aged_fourteen,14歳の小さな踊り子,Little Dancer Aged Fourteen,artist_edgar_degas,,1881,1881,sculpture,impressionism,modern_19c,少女の姿勢を写実的に捉え、理想化ではない身体の現実を提示した彫刻。舞台の夢と訓練の厳しさが同時に見え、鑑賞者を戸惑わせる。,,
+work_the_second_of_may_1808,1808年5月2日,The Second of May 1808,artist_francisco_goya,1814,,,oil_painting,romanticism,modern_19c,民衆蜂起の混乱を生々しく描き、歴史を英雄譚ではなく衝突の渦として示した。暴力の勢いが画面から飛び出す。,,
+work_the_third_of_may_1808,1808年5月3日,The Third of May 1808,artist_francisco_goya,1814,,,oil_painting,romanticism,modern_19c,処刑の瞬間を強烈な光で照らし、無名の恐怖と怒りを歴史画の中心に据えた。英雄ではなく犠牲者の視点が、近代の証言として突き刺さる。,,
+work_irises,アイリス,Irises,artist_vincent_van_gogh,1889,,,painting,post_impressionism,modern_19c,花弁のうねりが線のリズムになり、色がそのまま生命の脈として響く。一本一本が違い、群れなのに個が立つ。,,
+work_les_demoiselles_d_avignon,アヴィニョンの娘たち,Les Demoiselles d’Avignon,artist_pablo_picasso,1907,,,painting,cubism,modern_early_20c,複数の視点を同時に突きつけ、身体と空間を切り裂くように再構成した転換点。美の規範を壊すことで、近代絵画の問いを前面化させた。,,
+work_accumulation_no_1,アキュムレーション No.1,Accumulation No. 1,artist_yayoi_kusama,1962,,,sculpture,contemporary_art,contemporary,反復する形態で日用品を異物化し、執着や不安の感覚を可視化した。増殖する形が、個人的な衝動を空間の圧力へ変える。,,
+work_adam_and_eve_durer,アダムとイヴ,Adam and Eve,artist_albrecht_durer,1504,,,printmaking,,renaissance,理想化された裸体と動物寓意で、堕罪前の均衡を描いた。緻密な線が世界の秩序を支え、破綻の予感を含む。,,
+work_creation_of_adam,アダムの創造,The Creation of Adam,artist_michelangelo_buonarroti,1512,,,painting,,renaissance,指先が触れそうで触れない瞬間に、生命の火花を凝縮した場面。最小の距離が最大の緊張となり、神話が即物的な実在感を得ている。,,
+work_school_of_athens,アテナイの学堂,The School of Athens|Scuola di Atene,artist_raphael,,1509,1511,painting,,renaissance,古代哲学者たちを理想建築の空間に配置し、知の系譜を一枚にまとめた壁画。視線が交差し、議論の熱が構図そのものとして流れる。,,
+work_bathers_at_asnieres,アニエールの水浴,Bathers at Asnières,artist_georges_seurat,1884,,,painting,neo_impressionism,modern_19c,川辺の若者たちを落ち着いた色面で捉え、近代の余暇を記念碑のように描いた。静けさの中に、都市の階層と空気が滲む。,,
+work_l_absinthe,アブサン,L’Absinthe|The Absinthe Drinker,artist_edgar_degas,1876,,,painting,impressionism,modern_19c,酒場の沈黙を、離れた視線とくすんだ色で凝縮した。都会の孤独が人物の間の距離として表れ、近代生活の影が画面に沈む。,,
+work_abraham_and_isaac_rembrandt,アブラハムとイサク,Abraham and Isaac,artist_rembrandt,1634,,,oil_painting,,baroque,刃が止まる瞬間に恐怖と赦しを重ね、信仰の試練を身体の接触で語った。闇の中の手が、運命を握る。,,
+work_calumny_of_apelles,アペレスの誹謗,Calumny of Apelles,artist_sandro_botticelli,1495,,,painting,,renaissance,寓意的人物群で中傷と権力の構造を可視化した。装飾的な美しさの中に、倫理の鋭さが刺さる。,,
+work_self_portrait_with_dr_arrieta,アリエタ医師と自画像,Self-Portrait with Dr. Arrieta,artist_francisco_goya,1820,,,oil_painting,romanticism,modern_19c,病の淵で支えられる自分を描き、生の危うさと感謝を生々しく示した。筆致が荒く、呼吸の苦しさが画面に残る。,,
+work_duchess_of_alba,アルバ公爵夫人の肖像,The Duchess of Alba,artist_francisco_goya,1797,,,oil_painting,romanticism,modern_19c,堂々とした姿勢と指差しで、個性と権威を同時に示した。黒衣の強さが、視線の圧を増幅する。,,
+work_hannibal_crossing_the_alps,アルプスを越えるハンニバル,Hannibal Crossing the Alps,artist_jmw_turner,1812,,,painting,romanticism,modern_19c,雪嵐の巨大な渦に人間の営みを呑み込ませ、歴史の野心を自然の力へ対峙させた。風景が英雄を圧倒する。,,
+work_bedroom_in_arles,アルルの寝室,Bedroom in Arles|The Bedroom,artist_vincent_van_gogh,1888,,,painting,post_impressionism,modern_19c,簡略化された遠近と強い輪郭で、私的な空間を心象として固定した。安らぎを求めるほど、色の緊張が際立つ。,,
+work_the_cardsharps,いかさま師,The Cardsharps,artist_caravaggio,1594,,,oil_painting,,baroque,賭博の瞬間を近距離で描き、欺瞞を視線の交差として示した。日常の小さな悪が、劇的な緊張へ変わる。,,
+work_several_circles,いくつかの円,Several Circles,artist_wassily_kandinsky,1926,,,painting,abstract_art,modern_early_20c,円だけで宇宙的な奥行きと速度感を生み出した作品。単純な形が、色と配置によって多層の空間を開く。,,
+work_sacrifice_of_isaac_caravaggio,イサクの犠牲,The Sacrifice of Isaac,artist_caravaggio,1603,,,oil_painting,,baroque,叫びと制止の同時性で物語を切り裂き、信仰の恐怖を近距離で突きつけた。光が刃の冷たさを強める。,,
+work_infanta_maria_teresa_1651,インファンタ・マリア・テレサの肖像,Portrait of Infanta Maria Teresa,artist_diego_velazquez,1651,,,oil_painting,,baroque,華麗な衣装の構造が人物を包み、幼さと政治的役割が同居する。視線が固く、宮廷の空気が重い。,,
+work_portrait_of_infanta_margarita_1656,インファンタ・マルガリータの肖像,Portrait of Infanta Margarita,artist_diego_velazquez,1656,,,oil_painting,,baroque,豪奢な衣装の構造と少女の幼さが同居し、宮廷の空気が凝縮される。装飾の中で、表情だけが生身として光る。,,
+work_infinity_mirror_room_phallis_field,インフィニティ・ミラー・ルーム（ファリィズ・フィールド）,Infinity Mirror Room—Phalli’s Field,artist_yayoi_kusama,1965,,,installation,contemporary_art,contemporary,鏡と反復する突起物で、視覚が無限へ引き伸ばされる体験を作る。自己と空間の境界が薄れ、没入が不安と快楽を同時に呼ぶ。,,
+work_aftermath_of_obliteration_of_eternity,インフィニティ・ミラー・ルーム（永遠の無限の光の残照）,Infinity Mirror Room—Aftermath of Obliteration of Eternity,artist_yayoi_kusama,2009,,,installation,contemporary_art,contemporary,暗闇に浮かぶ無数の光が鏡で増殖し、時間感覚が溶ける体験を作る。孤独と祝祭が同居し、身体が宇宙の一部になる。,,
+work_infinity_mirror_room_souls_of_millions,インフィニティ・ミラー・ルーム（幾百万光年の彼方へ）,Infinity Mirror Room—The Souls of Millions of Light Years Away,artist_yayoi_kusama,2013,,,installation,contemporary_art,contemporary,鏡と光点が無限の宇宙感覚を生み、身体の輪郭が溶けていく。孤独と多幸感が同居し、時間感覚が静かに崩れる。,,
+work_venus_and_adonis_rubens,ヴィーナスとアドニス,Venus and Adonis,artist_peter_paul_rubens,,1635,1640,oil_painting,,baroque,別れの瞬間に官能と死の予感を重ね、物語を感情の爆発として描いた。肌の光が甘く、影が冷たい。,,
+work_venus_and_mars_botticelli,ヴィーナスとマルス,Venus and Mars,artist_sandro_botticelli,,1483,1485,painting,,renaissance,眠るマルスと醒めたヴィーナスの対比で、欲望と理性の温度差を描いた。軽い寓意の裏に、関係の力学が透ける。,,
+work_birth_of_venus,ヴィーナスの誕生,The Birth of Venus|Nascita di Venere,artist_sandro_botticelli,,1485,1486,painting,,renaissance,神話の瞬間を、輪郭線のリズムと淡い色彩で詩のように描いた。肉体は現実よりも理念に近く、見る者の想像力を誘う。,,
+work_vitruvian_man,ウィトルウィウス的人体図,Vitruvian Man|L’Uomo vitruviano,artist_leonardo_da_vinci,,1487,1490,drawing,,renaissance,人体を円と正方形に重ね、自然の比例と理性の秩序を可視化した素描。芸術と科学が同じ線の上で結びつく象徴として語り継がれる。,,
+work_portrait_duke_of_wellington,ウェリントン公爵の肖像,Portrait of the Duke of Wellington,artist_francisco_goya,1812,,,oil_painting,romanticism,modern_19c,軍装の記号の中に人物の現実味を残し、英雄像を過度に飾らない。筆致が速く、視線が生身として立ち上がる。,,
+work_the_forge_of_vulcan,ウルカヌスの鍛冶場,The Forge of Vulcan|La Fragua de Vulcano,artist_diego_velazquez,1630,,,oil_painting,,baroque,神話の知らせに驚く職人たちの表情を、筋肉と光で説得力ある劇にした。神々の物語が工房の現実味を帯びる。,,
+work_the_forge_of_vulcan,ウルカヌスの鍛冶場,The Forge of Vulcan,artist_diego_velazquez,1630,,,oil_painting,,baroque,告げ口の瞬間に空気が変わり、筋肉の量感が物語の衝撃を支える。神話が、工房の現実として鳴る。,,
+work_rest_on_the_flight_into_egypt,エジプト逃避途上の休息,Rest on the Flight into Egypt,artist_caravaggio,1597,,,oil_painting,,baroque,聖家族の疲れを静かな詩として描き、天使の音楽が場を支える。宗教画が家庭の温度へ滑り込み、物語が親密になる。,,
+work_the_eiffel_tower_seurat,エッフェル塔,The Eiffel Tower|La Tour Eiffel,artist_georges_seurat,1889,,,painting,neo_impressionism,modern_19c,新しい鉄の建造物を点描の秩序で描き、近代の象徴を風景として定着させた。構造物が空気の中で軽く立つ。,,
+work_cliffs_at_etretat,エトルタの断崖,Cliffs at Étretat,artist_claude_monet,1885,,,painting,impressionism,modern_19c,波と岩の対比を光でほどき、風景を爽快な呼吸として描いた。海の音が聞こえるように、筆致が細かく震える。,,
+work_supper_at_emmaus,エマオの晩餐,Supper at Emmaus,artist_caravaggio,1601,,,oil_painting,,baroque,正体が明かされる瞬間を、テーブルの飛び出すような構図で劇化した。手の動きと果物の静物が、現実と啓示の境目を曖昧にする。,,
+work_eight_elvises,エルヴィス8人,Eight Elvises,artist_andy_warhol,1963,,,printmaking,pop_art,modern_mid_20c,同一イメージの連続で、映画スターを機械的な影として増殖させた。反復がカリスマを強めつつ、人物を記号へ押し潰す。,,
+work_church_at_auvers,オーヴェールの教会,The Church at Auvers,artist_vincent_van_gogh,1890,,,painting,post_impressionism,modern_19c,建物が揺れるように歪み、信仰の場が不安の象徴にも見える。空と道の色が強く、心の動揺が風景になる。,,
+work_autumn_rhythm_number_30,オータム・リズム（ナンバー30）,Autumn Rhythm (Number 30),artist_jackson_pollock,1950,,,painting,abstract_expressionism,modern_mid_20c,巨大画面に連続する線の網を築き、身体の動きがそのまま構図となった。偶然と制御が拮抗し、絵が時間のリズムを帯びる。,,
+work_obliteration_room,オブリタレーション・ルーム,The Obliteration Room,artist_yayoi_kusama,2002,,,installation,contemporary_art,contemporary,白い部屋が観客のシールで埋まり、空間が共同制作で変質していく。消去と付加が同時に進み、鑑賞が行為へ置き換わる。,,
+work_the_orchestra_of_the_opera,オペラ座のオーケストラ,The Orchestra of the Opera,artist_edgar_degas,1870,,,painting,impressionism,modern_19c,楽団を前景に置き、舞台を部分的にしか見せない構成で鑑賞の位置をずらした。見えないものが多いほど、場の臨場感が増す。,,
+work_olivares_on_horseback,オリバーレス公爵騎馬像,The Count-Duke of Olivares on Horseback,artist_diego_velazquez,1634,,,oil_painting,,baroque,権力の誇示を騎馬の動勢で描きつつ、空の広がりが孤独を匂わせる。勝利の像がどこか冷たい。,,
+work_orange_red_yellow_rothko,オレンジ、赤、黄,"Orange, Red, Yellow",artist_mark_rothko,1961,,,painting,abstract_expressionism,modern_mid_20c,三つの色面が互いに発光し、温度の違いが感情の層として立ち上がる。近づくほど境界が溶け、空間が呼吸する。,,
+work_orange_and_yellow,オレンジとイエロー,Orange and Yellow,artist_mark_rothko,1956,,,painting,abstract_expressionism,modern_mid_20c,温かい色面が柔らかく発光し、見る者の感覚を包み込む。単純な構成が、逆に強い没入感を生む。,,
+work_the_card_players_cezanne,カード遊び,The Card Players,artist_paul_cezanne,,1890,1892,painting,post_impressionism,modern_19c,沈黙の対戦を色面と形の重さで構築し、人物と空間を同じ密度で支えた。静かな場面が、石のように強い。```,,
+work_the_card_players_cezanne,カード遊びをする人々,The Card Players|Les Joueurs de cartes,artist_paul_cezanne,,1892,1893,painting,post_impressionism,modern_19c,人物と机を堅い形の積み重ねとして捉え、沈黙の重さを構築した。日常が、静かな建築のように画面へ立ち上がる。,,
+work_portrait_of_dr_gachet,ガシェ医師の肖像,Portrait of Dr. Gachet,artist_vincent_van_gogh,1890,,,painting,post_impressionism,modern_19c,肘をつく姿勢に疲労と共感を重ね、肖像を心の風景にした。青のうねりが人物を包み、憂いが色になる。,,
+work_the_snail,カタツムリ,The Snail,artist_henri_matisse,1953,,,painting,,modern_mid_20c,切り紙の色面を渦状に配置し、カタツムリの運動感を抽象化した。単純な形が強いリズムを生み、晩年の自由さが凝縮される。,,
+work_pumpkin_kusama,かぼちゃ,Pumpkin,artist_yayoi_kusama,,1990,1999,sculpture,contemporary_art,contemporary,反復する水玉と有機的な形で、可愛らしさと不気味さを同時に呼び起こすモチーフ。単純な形が強い記憶装置となり、空間の重心になる。,,
+work_wheatfield_with_crows,からすのいる麦畑,Wheatfield with Crows,artist_vincent_van_gogh,1890,,,painting,post_impressionism,modern_19c,道の分岐と荒い筆触が、不安と高揚を同時に伝える晩年作。空の重さと黒い鳥が、風景を心の告白へ変える。,,
+work_the_storm_on_the_sea_of_galilee,ガリラヤ湖の嵐,The Storm on the Sea of Galilee,artist_rembrandt,1633,,,oil_painting,,baroque,荒波に揺れる舟を劇的な明暗で照らし、恐怖と祈りを同時に噴き上げさせた。画面がそのまま嵐の音になる。,,
+work_dido_building_carthage,カルタゴを建設するディド,Dido Building Carthage,artist_jmw_turner,1815,,,painting,romanticism,modern_19c,古代都市の港を黄金の光で満たし、栄光と没落の予感を同時に描いた。歴史が風景に溶け込み、時間が広がる。,,
+work_family_of_charles_iv,カルロス4世の家族,The Family of Charles IV,artist_francisco_goya,1800,,,oil_painting,romanticism,modern_19c,王族の集団肖像を豪奢に描きつつ、微妙な違和感で権力の脆さを露出させた。輝きの中に皮肉が沈む。,,
+work_calais_pier,カレーの桟橋,Calais Pier,artist_jmw_turner,1803,,,painting,romanticism,modern_19c,港の風と波を色のうねりで描き、旅立ちの不安と高揚を同時に立ち上げた。空と海が混ざり、視線が揺れる。,,
+work_le_chahut,カンカン（ル・シャユ）,Le Chahut,artist_georges_seurat,1890,,,painting,neo_impressionism,modern_19c,踊りの高揚を曲線の反復で整理し、歓楽を図式として見せた。熱狂がどこか機械的で、都市の夜の冷たさが残る。,,
+work_the_bolt_fragonard,かんぬき,The Bolt|Le Verrou,artist_jean_honore_fragonard,1777,,,oil_painting,,rococo,扉を閉める動作に緊張を集中させ、甘いロココを一気に危うい場へ変えた。布の乱れが感情の速度を示す。,,
+work_the_guitar_player,ギターを弾く女,The Guitar Player,artist_johannes_vermeer,1672,,,oil_painting,,baroque,音楽の軽さを明るい色と反射で描き、室内の空気が弾む。親密な喜びが、視線の近さとして伝わる。,,
+work_campbells_soup_cans,キャンベル・スープ缶,Campbell’s Soup Cans,artist_andy_warhol,1962,,,printmaking,pop_art,modern_mid_20c,大量消費の記号を反復し、日常の商品を芸術の主役にした。個性より複製が前に出て、近代の欲望がそのまま展示物になる。,,
+work_taking_of_christ,キリストの捕縛,The Taking of Christ,artist_caravaggio,1602,,,oil_painting,,baroque,闇の中で起きる逮捕を、鎧の反射と表情の近さで圧縮した。緊張が息を詰め、瞬間が永遠に固定される。,,
+work_entombment_raphael,キリストの埋葬,The Entombment,artist_raphael,1507,,,painting,,renaissance,運ばれる身体の重みを群像の連鎖で表し、悲しみを運動として構成した。静止画なのに時間が流れ、視線が追いすがる。,,
+work_the_conspiracy_of_claudius_civilis,クラウディウス・キウィリスの謀議,The Conspiracy of Claudius Civilis,artist_rembrandt,,1661,1662,oil_painting,,baroque,円卓の周囲に光を集中させ、誓約の瞬間を不穏な儀式として描いた。英雄譚よりも、人間の影が画面を支配する。,,
+work_channel_at_gravelines,グラヴリーヌの海峡,The Channel at Gravelines,artist_georges_seurat,1890,,,painting,neo_impressionism,modern_19c,水平線と水面が点で整理され、海が静かな構造物のように見える。風景が冷静で、時間が止まる。,,
+work_channel_of_gravelines,グラヴリーヌの水路,The Channel of Gravelines,artist_georges_seurat,1890,,,painting,neo_impressionism,modern_19c,海辺の水平線と水路を幾何学的にまとめ、風景を秩序として描いた。色の点が空気を作り、静かな場所が抽象へ近づく。,,
+work_sunday_afternoon_grande_jatte,グランド・ジャット島の日曜日の午後,A Sunday Afternoon on the Island of La Grande Jatte|Un dimanche après-midi à l’Île de la Grande Jatte,artist_georges_seurat,,1884,1886,painting,neo_impressionism|pointillism,modern_19c,点描の集積で光と色を構成し、休日の群像を静かな記号のように整えた。近代都市の秩序と距離感が、画面の硬質さとして現れる。,,
+work_guernica,ゲルニカ,Guernica,artist_pablo_picasso,1937,,,painting,cubism,modern_mid_20c,戦争の暴力を白黒の群像で叫びとしてまとめ上げた反戦の象徴。断片化された形が痛みを増幅し、個の悲劇が普遍の告発へ変わる。,,
+work_madonna_of_the_goldfinch,ゴールドフィンチの聖母,Madonna of the Goldfinch,artist_raphael,1506,,,painting,,renaissance,幼子たちの遊びに受難の予兆を織り込み、優しさの中に陰影を残した。穏やかな構図が、静かな不安を包み隠す。,,
+work_madonna_of_the_goldfinch,ゴシキヒワの聖母,Madonna of the Goldfinch,artist_raphael,1506,,,painting,,renaissance,幼子たちの触れ合いが自然で、宗教画が日常の温度へ近づく。柔らかい光の中に、受難の予兆が小さく混ざる。,,
+work_punishment_of_korah,コラの罰,The Punishment of Korah,artist_sandro_botticelli,,1481,1482,painting,,renaissance,旧約の物語を建築空間に配置し、秩序の破綻を群像の動きで描いた。歴史画が、政治的緊張を帯びる。,,
+work_david_with_head_of_goliath,ゴリアテの首を持つダヴィデ,David with the Head of Goliath,artist_caravaggio,,1609,1610,oil_painting,,baroque,勝利ではなく哀しみが漂う表情で、暴力の後味を残した。暗闇が深く、若者の手の重さが心理として伝わる。,,
+work_open_window_collioure,コリウールの窓,"Open Window, Collioure",artist_henri_matisse,,1905,,painting,fauvism,modern_early_20c,窓辺の光と港の色を大胆に並置し、風景を色の祝祭として捉えた。現実の正確さより、見る喜びが先に立つ。,,
+work_convergence_pollock,コンヴァージェンス,Convergence,artist_jackson_pollock,1952,,,painting,abstract_expressionism,modern_mid_20c,色の飛沫と線が交差し、画面全体が震えるようなエネルギーを持つ。意味を拒む密度が、純粋に視覚と身体へ訴えかける。,,
+work_place_de_la_concorde,コンコルド広場,Place de la Concorde,artist_edgar_degas,1875,,,painting,impressionism,modern_19c,人物が画面から切れていく構図で、都市の通過感を強めた。中心が空くほど、現代の孤立が浮かぶ。,,
+work_composition_vii,コンポジションVII,Composition VII,artist_wassily_kandinsky,1913,,,painting,expressionism|abstract_art,modern_early_20c,色と線が衝突しながら流れ込み、物語より先に感覚が爆発する抽象絵画。音楽的な構造で、内面の激しさを画面に変換した。,,
+work_composition_viii,コンポジションVIII,Composition VIII,artist_wassily_kandinsky,1923,,,painting,abstract_art,modern_early_20c,幾何学形態を秩序立てて配置し、抽象を理性の設計図として示した。円や直線が響き合い、静かな緊張が持続する。,,
+work_the_circus_seurat,サーカス,The Circus|Le Cirque,artist_georges_seurat,1891,,,painting,neo_impressionism|pointillism,modern_19c,曲芸の旋回を円弧のリズムとして整理し、動きを構図の法則に変えた。完成を待たずに残った断片性が、逆に緊張を生む。,,
+work_parade_de_cirque,サーカスのパレード,Parade de Cirque|Circus Sideshow,artist_georges_seurat,,1887,1888,painting,neo_impressionism,modern_19c,夜の興行を人工光の中で描き、見世物の魅力と寂しさを同時に示した。点描の光が人物を平面化し、都市の娯楽を冷静に観察する。,,
+work_rhinoceros_durer,サイ,Rhinoceros,artist_albrecht_durer,1515,,,printmaking,,renaissance,実物を見ずに想像で構造を描き、図像を世界へ流通させた版画。誤りさえも、強烈な記憶として定着する。,,
+work_madonna_of_the_pomegranate,ザクロの聖母,Madonna of the Pomegranate,artist_sandro_botticelli,1487,,,painting,,renaissance,ザクロを手にした母子を中心に、象徴と優美さを重ねた。穏やかな表情の奥に、未来の痛みが静かに予告される。,,
+work_salvator_mundi,サルバトール・ムンディ,Salvator Mundi,artist_leonardo_da_vinci,,1499,1510,oil_painting,,renaissance,水晶球を手にした救世主像を、静かな眼差しと繊細な陰影で描いた。聖性が現実の肌理へ降りてきて、近さが不思議な緊張を生む。,,
+work_gare_saint_lazare,サン＝ラザール駅,Gare Saint-Lazare series,artist_claude_monet,,1877,1877,painting,impressionism,modern_19c,蒸気と鉄骨の空間を光の粒として捉え、近代の駅を新しい風景にした。煙が形を溶かし、都市の呼吸が見える。,,
+work_mont_sainte_victoire_cezanne,サント＝ヴィクトワール山,Mont Sainte-Victoire,artist_paul_cezanne,,1902,1904,painting,post_impressionism,modern_early_20c,同じ山を繰り返し描き、色面と筆触で空間を組み立てた連作の核。風景が、見る行為の構造そのものへ変わっていく。,,
+work_sistine_madonna,システィーナの聖母,Sistine Madonna,artist_raphael,,1512,1513,painting,,renaissance,雲間から現れる聖母子を、静かな威厳と親密さの両方で描いた。下部の天使像も含め、崇高さが日常の感情へと滑り込む。,,
+work_sistine_chapel_ceiling,システィーナ礼拝堂天井画,Sistine Chapel ceiling|Volta della Cappella Sistina,artist_michelangelo_buonarroti,,1508,1512,painting,,renaissance,天井全体に創世記の物語と膨大な人物群を展開した壮大な計画。彫刻的な人体表現が空間を支配し、見る者の身体感覚を揺さぶる。,,
+work_ginevra_de_benci,ジネヴラ・デ・ベンチの肖像,Ginevra de' Benci,artist_leonardo_da_vinci,1474,,,oil_painting,,renaissance,沈黙の表情と背景の植物が、人物の気配を詩のように支える肖像。控えめな光が、内面の輪郭をゆっくり浮かび上がらせる。,,
+work_the_potato_eaters,ジャガイモを食べる人々,The Potato Eaters,artist_vincent_van_gogh,1885,,,painting,post_impressionism,modern_19c,労働の手と粗末な食事を暗い色調で描き、生活の重さを正面から示した。理想化を拒み、人間の現実が灯りの下に浮かぶ。,,
+work_jackie_warhol,ジャッキー,Jackie,artist_andy_warhol,1964,,,printmaking,pop_art,modern_mid_20c,悲劇の映像を反復し、個人の痛みがメディアの図像へ変わる瞬間を示した。顔のズレが記憶の揺れとして残る。,,
+work_madame_charpentier_and_children,シャルパンティエ夫人と子どもたち,Madame Charpentier and Her Children,artist_pierre_auguste_renoir,1878,,,painting,impressionism,modern_19c,社交界の肖像に家庭の親密さを重ね、人物関係を柔らかな光でまとめた。華やぎの中に、子どもの生身が残る。,,
+work_portrait_jeanne_samary,ジャンヌ・サマリーの肖像,Portrait of Jeanne Samary,artist_pierre_auguste_renoir,1877,,,painting,impressionism,modern_19c,笑みの気配を柔らかな色で包み、人物を光の中へ溶かした。肌と背景が響き合い、親密さが前に出る。,,
+work_girl_with_a_watering_can,じょうろを持つ少女,Girl with a Watering Can,artist_pierre_auguste_renoir,1876,,,painting,impressionism,modern_19c,子どもの姿を明るい色で包み、無垢さを外光の中に置いた。動き出しそうな足元が、時間の軽さを作る。,,
+work_shot_sage_blue_marilyn,ショット・セージ・ブルー・マリリン,Shot Sage Blue Marilyn,artist_andy_warhol,1964,,,painting,pop_art,modern_mid_20c,スターの顔を鮮烈な色で固定し、偶像の強度を極端に高めた。美しさが強いほど、消費と暴力の影が濃い。,,
+work_silver_car_crash_double_disaster,シルバー・カー・クラッシュ（ダブル・ディザスター）,Silver Car Crash (Double Disaster),artist_andy_warhol,1963,,,printmaking,pop_art,modern_mid_20c,事故写真の反復で、惨事がメディアによって消費される構造を露出させた。反復が麻痺を生み、空白が不気味な沈黙になる。,,
+work_portrait_susanna_fourment,スザンナ・フールマンの肖像,Portrait of Susanna Fourment,artist_peter_paul_rubens,1620,,,oil_painting,,baroque,黒衣の光沢と肌の明るさで、人物の存在感を端正に立ち上げた。華美ではなく、視線の強さが残る。,,
+work_staffa_fingals_cave,スタッファ島 フィンガルの洞窟,"Staffa, Fingal's Cave",artist_jmw_turner,1832,,,painting,romanticism,modern_19c,洞窟と海の反響を光の層で描き、自然の巨大さを聴覚的に感じさせる。風景が音になり、身体が吸い込まれる。,,
+work_the_water_seller_of_seville,セビーリャの水売り,The Water Seller of Seville,artist_diego_velazquez,,1618,1622,oil_painting,,baroque,水の透明感と陶器の質感で、庶民の生活を堂々と描いた。静かなやり取りの中に、尊厳が光る。,,
+work_david_michelangelo,ダヴィデ像,David,artist_michelangelo_buonarroti,,1501,1504,sculpture,,renaissance,巨大な大理石に、緊張の直前の肉体と精神を刻んだ彫刻。静止しているのに脈が打つような存在感で、理想的人体の基準となった。,,
+work_danae_rembrandt,ダナエ,Danaë,artist_rembrandt,,1636,1643,oil_painting,,baroque,迎え入れる仕草に期待と不安が混ざり、光が身体へ吸い込まれるように広がる。神話が感情のドラマとして現前する。,,
+work_conversion_on_the_way_to_damascus,ダマスコ途上の回心,The Conversion on the Way to Damascus,artist_caravaggio,1601,,,oil_painting,,baroque,倒れた身体と巨大な馬の質量で、啓示を圧倒的な出来事として描いた。光は説明ではなく衝撃として降り注ぐ。,,
+work_the_tub_degas,たらい,The Tub,artist_edgar_degas,1886,,,painting,impressionism,modern_19c,上から覗く視点で私的な動作を捉え、身体を日常のリズムとして描いた。親密さと距離が同居し、見る側の立場が問われる。,,
+work_dance_matisse,ダンス,Dance|La Danse,artist_henri_matisse,1910,,,painting,,modern_early_20c,単純化した人体と輪の運動で、生命のエネルギーを象徴化した。最小限の要素が最大の躍動を生み、構図が身体感覚へ直結する。,,
+work_anatomy_lesson_of_dr_nicolaes_tulp,テュルプ博士の解剖学講義,The Anatomy Lesson of Dr. Nicolaes Tulp,artist_rembrandt,1632,,,oil_painting,,baroque,学問の場を光で劇化し、視線の集中を画面に固定した。死体の冷たさと知の熱が、同じ空気を共有する。,,
+work_delphic_sibyl,デルフォイの巫女,Delphic Sibyl,artist_michelangelo_buonarroti,1511,,,painting,,renaissance,厚い量感の身体で予言者を描き、精神を肉体の重さとして示した。振り返る動作が、時間の切れ目を作る。,,
+work_view_of_delft,デルフトの眺望,View of Delft,artist_johannes_vermeer,1660,,,oil_painting,,baroque,都市の輪郭を光と空気で磨き、沈黙の風景として描いた。雲間の明るさが一瞬の気象を記憶に変える。,,
+work_view_of_delft,デルフト眺望,View of Delft,artist_johannes_vermeer,,1660,1661,oil_painting,,baroque,都市の空気と光を、建物の輪郭よりも大気として描いた風景画。雲間の明るさが一瞬の天候を伝え、時間が止まったように感じられる。,,
+work_doni_tondo,ドーニ・トンド,Doni Tondo|The Holy Family,artist_michelangelo_buonarroti,1506,,,painting,,renaissance,円形画面に家族の肉体的な結びつきを強く刻み、宗教画を彫刻的迫力へ近づけた。背景の人物群が、時間の層を曖昧にする。,,
+work_doni_tondo,ドーニの聖家族,Doni Tondo,artist_michelangelo_buonarroti,1506,,,painting,,renaissance,彫刻のような肉体の量感で聖家族を描き、円形の中に緊張を閉じ込めた。色が強く、人物が前へ押し出してくる。,,
+work_boy_bitten_by_lizard,トカゲに噛まれる少年,Boy Bitten by a Lizard,artist_caravaggio,1596,,,oil_painting,,baroque,驚きの表情を一瞬で凍らせ、感覚の鋭さを絵にした。果物と花の美が、痛みで裏返る。,,
+work_narcissus_caravaggio,ナルキッソス,Narcissus,artist_caravaggio,,1597,1599,oil_painting,,baroque,水面の像に取り憑かれる青年を、闇の中の輪で閉じ込めた。自己愛の物語が心理劇として研ぎ澄まされ、静けさが不穏さへ転じる。,,
+work_metamorphosis_of_narcissus_dali,ナルキッソスの変貌,Metamorphosis of Narcissus,artist_salvador_dali,1937,,,painting,surrealism,modern_mid_20c,神話を二重像の構造で描き、自己愛の心理を視覚のトリックへ翻訳した。像が手へ変わる瞬間が、変身の感覚を生々しく伝える。,,
+work_narcissus_garden_kusama,ナルシスの庭,Narcissus Garden,artist_yayoi_kusama,1966,,,installation,contemporary_art,contemporary,無数の反射球が周囲の世界を断片として映し返し、鑑賞者自身も作品に巻き込む。見ることが増殖し、会場全体が揺らぐ。,,
+work_no_14_1960,ナンバー14（1960年）,"No. 14, 1960",artist_mark_rothko,1960,,,painting,abstract_expressionism,modern_mid_20c,明暗の色面がせめぎ合い、画面が静かな緊張で満ちる。境界の滲みが時間を作り、感情がゆっくり変化していく。,,
+work_number_1a_1948,ナンバー1A（1948年）,"Number 1A, 1948",artist_jackson_pollock,1948,,,painting,abstract_expressionism,modern_mid_20c,ドリッピングの線が全体に張り巡らされ、中心のない空間が生まれる。密度の中に呼吸の間があり、視線が迷うこと自体が鑑賞になる。,,
+work_no_61_rust_and_blue,ナンバー61（錆と青）,No. 61 (Rust and Blue),artist_mark_rothko,1953,,,painting,abstract_expressionism,modern_mid_20c,濃い色面の重なりが沈黙を作り、画面が壁ではなく空間として感じられる。わずかな揺らぎが、感情の層を静かに動かす。,,
+work_nevermore_gauguin,ネヴァーモア,Nevermore,artist_paul_gauguin,1897,,,painting,post_impressionism,modern_19c,横たわる女性と黒い鳥で、不安と欲望の影を濃くした。物語が解けないまま、気配だけが画面に沈殿する。,,
+work_norham_castle_sunrise,ノーラム城 日の出,Norham Castle Sunrise,artist_jmw_turner,1845,,,watercolor,romanticism,modern_19c,城の形を光の中へ溶かし、輪郭より大気を主題にした。朝の一瞬が、記憶のように柔らかく残る。,,
+work_fall_of_phaeton_rubens,パエトーンの墜落,The Fall of Phaeton,artist_peter_paul_rubens,,1604,1605,oil_painting,,baroque,天上の制御が崩れる瞬間を落下の群像で描き、恐怖が速度として迫る。光が暴れ、空が割れる。,,
+work_fall_of_phaeton,パエトンの墜落,The Fall of Phaeton,artist_peter_paul_rubens,,1604,1605,oil_painting,,baroque,天空の崩壊を渦巻く群像で描き、混乱を構図の力学へ変えた。光と影が衝突し、神話が災厄の瞬間になる。,,
+work_bacchus_caravaggio,バッカス,Bacchus,artist_caravaggio,,1596,1597,oil_painting,,baroque,神話の神を、現実の若者の肌と汚れた爪のまま描いた挑発的作品。誘惑の甘さの奥に、腐敗の予感が混ざり込む。,,
+work_bacchus_michelangelo,バッカス,Bacchus,artist_michelangelo_buonarroti,,1496,1497,sculpture,,renaissance,酩酊の不安定さを身体の重心で表し、神像を人間の脆さへ近づけた。崇高さより生々しさが前に出る。,,
+work_the_triumph_of_bacchus,バッカスの勝利,The Triumph of Bacchus|Los Borrachos,artist_diego_velazquez,,1628,1629,oil_painting,,baroque,神話の神を庶民の宴席に招き、崇高さを日常へ引き寄せた。笑いの中に、現実の湿度が残る。,,
+work_pablo_de_valladolid,パブロ・デ・バリャドリード,Pablo de Valladolid,artist_diego_velazquez,,1635,1636,oil_painting,,baroque,背景をほぼ消し、人物を空気の中に立たせて存在感だけを際立たせた。舞台のような空間が、肖像の現実味を増す。,,
+work_judgment_of_paris_rubens,パリスの審判,The Judgment of Paris,artist_peter_paul_rubens,,1632,1636,oil_painting,,baroque,神話の選択を肉体の輝きで描き、欲望と権力が同じ光をまとう。豪奢さが、判断の軽さを皮肉る。,,
+work_prince_baltasar_carlos_on_horseback,バルタサール・カルロス王子騎馬像,Prince Baltasar Carlos on Horseback,artist_diego_velazquez,1635,,,oil_painting,,baroque,幼い王子を堂々と描き、権威を演出しながらも不安定さが滲む。馬と空の広がりが、宮廷の舞台性を強める。,,
+work_portrait_castiglione,バルダッサーレ・カスティリオーネの肖像,Portrait of Baldassare Castiglione,artist_raphael,,1514,1515,painting,,renaissance,柔らかな視線と控えめな身振りで、知性と品位を凝縮した肖像。華美を避けた色調が、人物の内面の厚みを際立たせる。,,
+work_ballet_rehearsal_degas,バレエの稽古,Ballet Rehearsal|The Rehearsal,artist_edgar_degas,,1874,1876,painting,impressionism,modern_19c,稽古場の断片を切り取り、舞台の華やかさの裏の疲労を見せた。視線がずれ、偶然のような構図が臨場感を生む。,,
+work_the_ballet_class_degas,バレエ教室,The Ballet Class,artist_edgar_degas,,1873,1876,painting,impressionism,modern_19c,稽古場の疲れと緊張を、斜めの構図と切り取る視線で描いた。舞台の華やかさの裏側が現れ、身体が労働として立ち上がる。,,
+work_young_girls_at_the_piano,ピアノを弾く少女たち,Young Girls at the Piano,artist_pierre_auguste_renoir,1892,,,painting,impressionism,modern_19c,柔らかな光の中で指先が重なり、家庭の時間が甘く伸びる。音が見えないのに、室内が静かに鳴る。,,
+work_pieta_michelangelo,ピエタ,Pietà|Pieta,artist_michelangelo_buonarroti,,1498,1499,sculpture,,renaissance,嘆きの場面を、滑らかな石の質感と折り重なる布で包み込んだ作品。悲しみを過剰に叫ばず、沈黙の重さとして彫り込んでいる。,,
+work_poppies_monet,ひなげし,Poppies|Coquelicots,artist_claude_monet,1873,,,painting,impressionism,modern_19c,草地に散る赤い花を、家族の散歩の気配とともに描いた。点在する色が風景を呼吸させ、季節が肌に触れる。,,
+work_sunflowers_van_gogh,ひまわり,Sunflowers,artist_vincent_van_gogh,1888,,,painting,post_impressionism,modern_19c,黄色の濃淡だけで花の生命と枯れの気配を描き分けた連作の代表。色そのものが主題となり、絵具の厚みが光を抱える。,,
+work_portrait_of_juan_de_pareja,フアン・デ・パレハの肖像,Portrait of Juan de Pareja,artist_diego_velazquez,1650,,,oil_painting,,baroque,深い眼差しと気品で、人物の人格を正面から立ち上げた肖像。社会的立場を越えて、人間の存在感が前に出る。,,
+work_portrait_philip_iv_velazquez,フェリペ4世の肖像,Portrait of Philip IV,artist_diego_velazquez,,1623,1624,oil_painting,,baroque,王の威厳を抑制された筆致で描き、権力の重さを静けさに置いた。装飾よりも表情が強く、距離感が冷たい。,,
+work_dance_at_bougival,ブジヴァルのダンス,Dance at Bougival,artist_pierre_auguste_renoir,1883,,,painting,impressionism,modern_19c,抱き合う二人の回転を、色の揺れで祝祭へ変えた。背景が溶け、身体の熱だけが画面の中心に残る。,,
+work_flowers_warhol,フラワーズ,Flowers,artist_andy_warhol,1964,,,printmaking,pop_art,modern_mid_20c,花の図像を反復し、装飾性と複製の論理を重ねた。明るさの裏で、イメージが消費される速度が見える。,,
+work_the_swing_fragonard,ぶらんこ,The Swing|Les Hasards heureux de l’escarpolette,artist_jean_honore_fragonard,1767,,,oil_painting,,rococo,木陰の戯れを、軽やかな筆致と光の粉で甘美に描いたロココの代表作。快楽の瞬間が舞い、秘密の視線が物語を生む。,,
+work_la_balançoire_renoir,ぶらんこ,The Swing|La Balançoire,artist_pierre_auguste_renoir,1876,,,painting,impressionism,modern_19c,木漏れ日の斑点が人物に落ち、空気がそのまま揺れる。社交の甘さと瞬間の光が重なり、時間が軽い。,,
+work_primavera,プリマヴェーラ,Primavera|Spring,artist_sandro_botticelli,,1477,1482,painting,,renaissance,花咲く森に複数の神々を配し、愛と季節の寓意を編み上げた作品。動きの連鎖が画面を巡り、物語が音楽のように響く。,,
+work_brillo_boxes,ブリロ・ボックス,Brillo Boxes,artist_andy_warhol,1964,,,sculpture,pop_art,modern_mid_20c,商品パッケージを箱として再現し、展示空間を流通の棚へ変えた。芸術と商品の境界が崩れ、価値の決まり方が問い直される。,,
+work_full_fathom_five,フル・ファゾム・ファイブ,Full Fathom Five,artist_jackson_pollock,1947,,,painting,abstract_expressionism,modern_mid_20c,滴り落ちる絵具と異物の貼り込みで、制作の痕跡をそのまま作品にした。画面が行為の記録となり、見る者は動作のリズムを追体験する。,,
+work_blue_poles,ブルー・ポールズ,Blue Poles,artist_jackson_pollock,1952,,,painting,abstract_expressionism,modern_mid_20c,縦の青い要素が混沌に骨格を与え、暴れ回る線を画面の構造へまとめた。衝突の痕跡が残り、制作の熱が冷めない。,,
+work_bruges_madonna,ブルージュの聖母,Bruges Madonna,artist_michelangelo_buonarroti,1504,,,sculpture,,renaissance,母子の距離感を微妙に保ち、静かな緊張を石に宿した。視線の向きがわずかにずれ、親密さが一層深く感じられる。,,
+work_young_woman_with_a_flute,フルートを持つ若い女,Young Woman with a Flute,artist_johannes_vermeer,,1665,1670,oil_painting,,baroque,柔らかな表情と衣装のきらめきで、親密な距離感を作った。断定しない視線が、人物の謎を残す。,,
+work_surrender_of_breda,ブレダの開城,The Surrender of Breda|Las Lanzas,artist_diego_velazquez,,1634,1635,oil_painting,,baroque,勝者と敗者の出会いを、礼節の身振りとして描いた歴史画。槍の林立が緊張を示しつつ、暴力よりも人間の関係が前面に出る。,,
+work_prometheus_bound_rubens,プロメテウスの縛め,Prometheus Bound,artist_peter_paul_rubens,,1611,1612,oil_painting,,baroque,鷲に肝を啄まれる苦痛を、筋肉の張りと闇の深さで直撃させた。神話が残酷な肉体の現実として迫る。,,
+work_belshazzars_feast,ベルシャザルの饗宴,Belshazzar’s Feast,artist_rembrandt,1635,,,oil_painting,,baroque,神秘の文字が現れる瞬間を、眩い光と驚愕の表情で爆発させた。黄金の質感が欲望の匂いを強め、破滅の予感が走る。,,
+work_the_bellelli_family,ベレッリ家,The Bellelli Family,artist_edgar_degas,,1858,1867,painting,,modern_19c,家庭内の緊張を姿勢と距離で描き、肖像画を心理劇へ変えた。沈黙が重く、視線が交わらないことが物語になる。,,
+work_the_polish_rider,ポーランドの騎手,The Polish Rider,artist_rembrandt,,1655,1657,oil_painting,,baroque,若い騎手を曖昧な背景に置き、物語を断定しないまま気配だけを濃く残した。孤独な移動の感覚が、視線の遠さに宿る。,,
+work_port_en_bessin_seurat,ポール＝アン＝ベッサンの港,Port-en-Bessin,artist_georges_seurat,,1888,1888,painting,neo_impressionism,modern_19c,港の防波堤と海の色を点で組み、静かな秩序として風景を描いた。波の気配が粒として残り、時間が止まる。,,
+work_poplars_series,ポプラ並木（連作）,Poplars series,artist_claude_monet,,1891,1891,painting,impressionism,modern_19c,同じ木立を光の違いで描き分け、時間を色の差分として見せる。対象が単純なほど、変化が鋭い。,,
+work_ulysses_deriding_polyphemus,ポリュペモスを嘲るユリシーズ,Ulysses Deriding Polyphemus,artist_jmw_turner,1829,,,painting,romanticism,modern_19c,眩い朝焼けの中で神話を展開し、海と空を色の奔流として描いた。物語は口実となり、光そのものが主役になる。,,
+work_judith_beheading_holofernes,ホロフェルネスの首を斬るユディト,Judith Beheading Holofernes,artist_caravaggio,,1598,1599,oil_painting,,baroque,暴力の瞬間を正面から捉え、恐怖と決意を同時に浮かび上がらせた。血の赤と闇の黒の対比が、感情の温度を極限まで高める。,,
+work_white_center,ホワイト・センター,"White Center (Yellow, Pink and Lavender on Rose)",artist_mark_rothko,1950,,,painting,abstract_expressionism,modern_mid_20c,色の矩形が重なり、境界が溶けることで光のような奥行きを生む。静かな面が感情を引き寄せ、見るほどに呼吸が変わる。,,
+work_madonna_of_the_magnificat,マニフィカトの聖母,Madonna of the Magnificat,artist_sandro_botticelli,1481,,,painting,,renaissance,円形画面に書き記す仕草を置き、聖なる言葉を絵画の行為として示した。天使の輪が視線を導き、金の光が甘く響く。,,
+work_arrival_of_marie_de_medici,マリー・ド・メディシスのマルセイユ到着,The Arrival of Marie de' Medici at Marseilles,artist_peter_paul_rubens,,1622,1625,oil_painting,,baroque,政治的出来事を神話的祝祭に変え、権力の物語を壮麗に演出した。現実と寓意が溶け、歴史が劇になる。,,
+work_coronation_of_marie_de_medici,マリー・ド・メディシスの戴冠,The Coronation of Marie de' Medici,artist_peter_paul_rubens,1625,,,oil_painting,,baroque,戴冠の儀式を光と群像で膨らませ、権威を視覚の洪水として描いた。荘厳さが過剰なほど、政治の匂いが濃い。,,
+work_marilyn_diptych,マリリン・ディプティク,Marilyn Diptych,artist_andy_warhol,1962,,,printmaking,pop_art,modern_mid_20c,鮮やかな反復と褪せた反復を並べ、スター像の輝きと消耗を同時に示した。偶像が複製されるほど、死の影が濃くなる。,,
+work_mars_and_venus,マルスとヴィーナス,Mars and Venus,artist_sandro_botticelli,1483,,,painting,,renaissance,眠る軍神と目覚める愛の女神を対比し、欲望と無防備さを寓意化した。軽やかな幻想の中に、どこか不穏な気配が漂う。,,
+work_christ_in_house_martha_mary_velazquez,マルタとマリアの家のキリスト,Christ in the House of Martha and Mary,artist_diego_velazquez,1618,,,oil_painting,,baroque,台所の手仕事を前景に置き、信仰を生活の内部へ接続した。現実と聖なる場面が重なり、見る者の視線が揺れる。,,
+work_mural_pollock,ミューラル,Mural,artist_jackson_pollock,1943,,,painting,abstract_expressionism,modern_mid_20c,大画面にうねる線と形で、身体の運動を壁一面のエネルギーへ変えた。視線が走り続け、止まる場所がない。,,
+work_bal_du_moulin_de_la_galette,ムーラン・ド・ラ・ギャレットの舞踏会,Bal du moulin de la Galette,artist_pierre_auguste_renoir,1876,,,painting,impressionism,modern_19c,木漏れ日が人物を細かく切り、雑踏の喜びを光の粒で描いた。動きが止まらず、視線が踊る。,,
+work_medusa_caravaggio,メドゥーサ,Medusa,artist_caravaggio,1597,,,painting,,baroque,首を斬られた瞬間の叫びを盾の形に閉じ込め、恐怖を直撃させる。血と視線が飛び出し、見る者の身体が反応する。,,
+work_melencolia_i,メランコリアI,Melencolia I,artist_albrecht_durer,1514,,,printmaking,,renaissance,沈思する翼ある人物と道具群で、創造の苦悩と知の限界を象徴化した銅版画。寓意が重層し、読むように鑑賞が進む。,,
+work_moses_michelangelo,モーセ像,Moses,artist_michelangelo_buonarroti,,1513,1515,sculpture,,renaissance,ねじれた姿勢と鋭い眼差しで、内なる怒りと理性のせめぎ合いを表した像。石が皮膚になる瞬間を感じさせる彫りの深さが圧倒的。,,
+work_the_models_seurat,モデルたち,The Models|Les Poseuses,artist_georges_seurat,1888,,,painting,neo_impressionism|pointillism,modern_19c,制作の場面を点描で描き、裸体と絵画の関係を内側から問うた。見ることと作ることが一枚で衝突する。,,
+work_mona_lisa,モナ・リザ,Mona Lisa|La Gioconda|La Joconde,artist_leonardo_da_vinci,,1503,1506,oil_painting,,renaissance,人物の微笑と遠景の空気感が一体化した肖像画の金字塔。繊細な陰影の重なりが表情を揺らし、見る者の視線を静かに捕まえ続ける。,,
+work_rue_montorgueil,モントルグイユ街,Rue Montorgueil,artist_claude_monet,1878,,,painting,impressionism,modern_19c,旗と群衆のざわめきを色の振動で捉え、祝祭を視覚の波にした。まとまりのないはずの街が、一つの熱になる。,,
+work_portrait_of_jan_six,ヤン・シックスの肖像,Portrait of Jan Six,artist_rembrandt,1654,,,oil_painting,,baroque,外出の一瞬を切り取り、動作の途中に人格が立ち上がる肖像。筆触の省略が、逆に生々しさを増す。,,
+work_the_jewish_bride,ユダヤの花嫁,The Jewish Bride,artist_rembrandt,,1665,1667,oil_painting,,baroque,厚い絵具の層が光を抱え、触れる仕草に親密さを宿す作品。人物の物語は断定されず、感情だけが確かな手触りで残る。,,
+work_soft_construction_with_boiled_beans,ゆでた豆のある柔らかな構造（内乱の予感）,Soft Construction with Boiled Beans,artist_salvador_dali,1936,,,painting,surrealism,modern_mid_20c,引き裂かれる肉体のような形で内戦の不安を象徴化した。暴力が抽象化されても痛みは消えず、画面が不穏に脈打つ。,,
+work_la_grenouillere_monet,ラ・グルヌイエール,La Grenouillère,artist_claude_monet,1869,,,painting,impressionism,modern_19c,水面の反射と人々の動きを短い筆致で描き、夏の余暇の瞬間を固定した。光が割れ、視線が水に吸い込まれる。,,
+work_la_fornarina,ラ・フォルナリーナ,La Fornarina,artist_raphael,1520,,,painting,,renaissance,視線の近さと肌の柔らかさで、理想と官能がせめぎ合う肖像。愛情の気配が濃く、画家の私的な感情が滲む。,,
+work_lion_hunt_rubens,ライオン狩り,The Lion Hunt,artist_peter_paul_rubens,1616,,,oil_painting,,baroque,狩りの混乱を塊として組み上げ、暴力のエネルギーを圧縮した。人体と獣が絡み、画面が衝撃の連続になる。,,
+work_las_meninas,ラス・メニーナス,Las Meninas|The Ladies-in-waiting,artist_diego_velazquez,1656,,,oil_painting,,baroque,王女と侍女たちの室内に、鏡像と視線の罠を仕掛けた問題作。描く者と見られる者の立場が入れ替わり、絵画空間が哲学になる。,,
+work_lavender_mist,ラベンダー・ミスト,Lavender Mist (Number 1),artist_jackson_pollock,1950,,,painting,abstract_expressionism,modern_mid_20c,霧のような層が重なり、線が空間の奥へ沈んでいく作品。色の名が示す通り、形よりも気配が先に届く。,,
+work_libyan_sibyl,リビアの巫女,Libyan Sibyl,artist_michelangelo_buonarroti,,1511,1512,painting,,renaissance,ねじれた姿勢の美しさで、知の負荷を身体の運動へ変えた。筋肉が言葉の代わりに語る。,,
+work_woman_with_a_lute,リュートを持つ女,Woman with a Lute,artist_johannes_vermeer,1662,,,oil_painting,,baroque,調弦の合間の静けさを描き、音の気配を光で表現した。行為が止まる瞬間に、心の動きだけが残る。,,
+work_still_life_apples_and_oranges,リンゴとオレンジの静物,Still Life with Apples and Oranges,artist_paul_cezanne,,1899,1900,painting,post_impressionism,modern_19c,果物と布の折れが空間を組み立て、静物が構造の問題になる。傾きが意図的で、見るほどに頭が働く。,,
+work_still_life_with_apples_cezanne,リンゴの静物,Still Life with Apples,artist_paul_cezanne,,1878,1879,painting,post_impressionism,modern_19c,果物と皿の配置で、重さとバランスを視覚化した静物。色の調整が空間を生み、写実以上に確かな存在感を作る。,,
+work_basket_of_apples,リンゴの籠,The Basket of Apples,artist_paul_cezanne,1893,,,painting,post_impressionism,modern_19c,静物をわずかに歪ませ、安定と不安定の間で空間を再構成した。テーブルの傾きが、絵画が現実を作り直す力を示す。,,
+work_le_chahut,ル・シャユ,Le Chahut,artist_georges_seurat,1890,,,painting,neo_impressionism|pointillism,modern_19c,踊りの反復を色と線の規則で組み立て、興奮が設計された感覚になる。楽しいのにどこか硬い。,,
+work_rouen_cathedral_monet,ルーアン大聖堂（連作）,Rouen Cathedral series|Cathédrale de Rouen,artist_claude_monet,,1892,1894,painting,impressionism,modern_19c,同じファサードを光と天候で描き分け、石が色の変化として揺れる連作。対象の不変性が、むしろ視覚の不確かさを照らす。,,
+work_rape_of_the_daughters_of_leucippus,レウキッポスの娘たちの略奪,The Rape of the Daughters of Leucippus,artist_peter_paul_rubens,1617,,,oil_painting,,baroque,ねじれる身体と馬の力学で、暴力と官能を同時に押し出した。動きが止まらず、画面全体が引き裂かれるように回転する。,,
+work_the_lacemaker,レースを編む女,The Lacemaker,artist_johannes_vermeer,1670,,,oil_painting,,baroque,指先の集中を極限まで凝縮し、静かな労働を宝石のような光で描いた。小さな世界に、時間の密度が詰まっている。,,
+work_rokeby_venus,ロークビーのヴィーナス,Rokeby Venus|The Toilet of Venus,artist_diego_velazquez,,1647,1651,oil_painting,,baroque,背を向けた裸婦と鏡像で、見る行為そのものを主題化した。柔らかな肌の描写が官能を生みながら、視線の距離感がどこか冷たい。,,
+work_los_caprichos,ロス・カプリーチョス,Los Caprichos,artist_francisco_goya,1799,,,printmaking,romanticism,modern_19c,迷信や愚かさを風刺した版画連作で、社会批評を鋭利なイメージに結晶させた。幻想と現実が交錯し、人間の闇が笑いの形で暴かれる。,,
+work_madonna_di_loreto,ロレートの聖母,Madonna of Loreto|Pilgrim's Madonna,artist_caravaggio,1604,,,oil_painting,,baroque,泥だらけの巡礼者を前面に置き、聖性を日常の土の匂いへ引き寄せた。光が奇跡ではなく現実の重さとして差し込む。,,
+work_rondanini_pieta,ロンダニーニのピエタ,Rondanini Pietà,artist_michelangelo_buonarroti,,1552,1564,sculpture,,renaissance,削り残しのような形が、哀悼を言葉以前の感触として残す晩年作。完成よりも祈りの過程が前面に出る。,,
+work_girl_with_wine_glass,ワイングラスを持つ娘,Girl with a Wine Glass,artist_johannes_vermeer,1659,,,oil_painting,,baroque,誘いとためらいが同居する場面を、光と距離で繊細に示した。会話の温度が、反射や視線の角度として現れる。,,
+work_the_glass_of_wine,ワインの杯,The Glass of Wine,artist_johannes_vermeer,1659,,,oil_painting,,baroque,会話の駆け引きを光と距離で表し、甘さの裏に緊張を残した。ガラスの輝きが、沈黙を鋭くする。,,
+work_one_number_31_1950,ワン：ナンバー31（1950年）,"One: Number 31, 1950",artist_jackson_pollock,1950,,,painting,abstract_expressionism,modern_mid_20c,線の網が巨大画面を覆い、中心のない空間が視線をさまよわせる。制作の運動がそのまま地図になり、時間が沈殿する。,,
+work_garden_of_love,愛の園,The Garden of Love,artist_peter_paul_rubens,1633,,,oil_painting,,baroque,祝祭的な庭園で、愛と豊穣を豪奢な色彩で讃えた。群像の渦が視線を運び、神話と現実の社交が溶け合う。,,
+work_progress_of_love_fragonard,愛の成り行き,The Progress of Love,artist_jean_honore_fragonard,1773,,,painting,,rococo,恋の駆け引きを連作として描き、庭園の舞台で感情の変化を追った。軽妙な物語の裏に、視線と身振りの心理劇が仕込まれている。,,
+work_garden_of_love_rubens,愛の庭,The Garden of Love,artist_peter_paul_rubens,1633,,,oil_painting,,baroque,庭園の祝祭を豊かな肉体と光で描き、愛を社会的な舞台として見せた。甘さが濃いほど、享楽の時間が加速する。,,
+work_madonna_della_seggiola,椅子の聖母,Madonna della Seggiola,artist_raphael,1514,,,painting,,renaissance,円形の中に母子の抱擁を密に収め、親密さを極限まで濃くした。柔らかな色調が、崇高さを日常の温度へ近づける。,,
+work_impression_sunrise,印象・日の出,"Impression, Sunrise|Impression, soleil levant",artist_claude_monet,1872,,,painting,impressionism,modern_19c,港の霧と朝日を、輪郭ではなく色の震えで捉えた作品。短い筆触が視覚体験を優先し、印象派という呼称の起点となった。,,
+work_rain_steam_and_speed,雨、蒸気、速度,"Rain, Steam and Speed",artist_jmw_turner,1844,,,painting,romanticism,modern_19c,鉄道橋を突き進む列車を、雨と蒸気の渦の中に溶かし込んだ。輪郭が崩れるほど速度が増し、近代の感覚が絵の物質になる。,,
+work_the_umbrellas_renoir,雨傘,The Umbrellas,artist_pierre_auguste_renoir,,1881,1886,painting,impressionism,modern_19c,群衆の動きと布の質感を、印象派の光と描線の確かさで両立させた。瞬間の雑踏が、構築された秩序として見える。,,
+work_yellow_red_blue,黄・赤・青,Yellow-Red-Blue,artist_wassily_kandinsky,1925,,,painting,abstract_art,modern_early_20c,色と形の対比で、画面を複数の領域に分節したバウハウス期の代表作。構成の明快さが、抽象の言語を洗練させる。,,
+work_san_giorgio_maggiore_at_dusk,黄昏のサン・ジョルジョ・マッジョーレ,San Giorgio Maggiore at Dusk,artist_claude_monet,1908,,,painting,impressionism,modern_early_20c,水面と空が溶ける夕景で、建物を光の残像として扱った。輪郭が消えるほど、色が時間の最後を語る。,,
+work_the_yellow_christ,黄色いキリスト,The Yellow Christ|Le Christ jaune,artist_paul_gauguin,1889,,,painting,post_impressionism,modern_19c,キリスト像を強い黄色で描き、宗教を土地の風土と結びつけた。現実の信仰と内面の象徴が重なり、色が精神の記号となる。,,
+work_music_matisse,音楽,Music|La Musique,artist_henri_matisse,1910,,,painting,,modern_early_20c,人物を記号のように置き、音を聴く行為を静止した形で表した。色面の配置が調和と緊張を作り、絵画が抽象へ橋を架ける。,,
+work_portrait_of_a_musician,音楽家の肖像,Portrait of a Musician,artist_leonardo_da_vinci,,1485,1490,painting,,renaissance,視線と口元に緊張を残し、知性と気配を短い距離で突きつける肖像。未完に近い部分が、逆に生身の瞬間を感じさせる。,,
+work_musicians_caravaggio,音楽隊,The Musicians,artist_caravaggio,1595,,,oil_painting,,baroque,若者たちの肌と楽器の質感で、官能と憂いを同時に漂わせた。音楽が甘くなるほど、現実の匂いが濃くなる。,,
+work_young_woman_powdering_herself,化粧する若い女性,Young Woman Powdering Herself|Jeune femme se poudrant,artist_georges_seurat,,1889,1890,painting,neo_impressionism|pointillism,modern_19c,室内の女性像を点描で描き、肌や布の質感を科学的な色の粒で構成した。親密な場面がどこか冷たく、近代的な視線が露わになる。,,
+work_boy_with_a_basket_of_fruit,果物籠を持つ少年,Boy with a Basket of Fruit,artist_caravaggio,,1593,1594,oil_painting,,baroque,瑞々しい果物の誘惑と、傷みかけた部分の気配を同時に描いた。美と腐敗が隣り合い、若さの不安定さが滲む。,,
+work_almond_blossom,花咲くアーモンドの枝,Almond Blossom,artist_vincent_van_gogh,1890,,,painting,post_impressionism,modern_19c,明るい空に枝を切り取り、生命の始まりを軽やかに示した。日本美術の構図を思わせ、希望が線として伸びる。,,
+work_where_do_we_come_from,我々は何処から来たのか 我々は何者か 我々は何処へ行くのか,Where Do We Come From? What Are We? Where Are We Going?,artist_paul_gauguin,,1897,1898,painting,post_impressionism,modern_19c,人生の循環を横長の画面に展開し、タヒチの風景に哲学的問いを埋め込んだ。象徴的な人物配置が、物語を寓意として読む誘いになる。,,
+work_saturn_devouring_his_son,我が子を喰らうサトゥルヌス,Saturn Devouring His Son,artist_francisco_goya,,1819,1823,painting,romanticism,modern_19c,狂気の神話を、壁に直接描くような荒い筆触で露出させた。闇の中の眼光が、理性の崩壊と暴力の根を生々しく示す。,,
+work_the_fighting_temeraire,解体される戦艦テメレール号,The Fighting Temeraire,artist_jmw_turner,1839,,,painting,romanticism,modern_19c,栄光の帆船が蒸気船に曳かれてゆく夕景で、時代の転換を詩として描いた。沈む光と淡い色調が、郷愁と終わりの気配を滲ませる。,,
+work_peace_burial_at_sea,海に葬られる平和,Peace Burial at Sea,artist_jmw_turner,1842,,,painting,romanticism,modern_19c,夜の海に浮かぶ船の光で、追悼を静かな炎として示した。暗闇の深さが、喪失の重さを増幅させる。,,
+work_sunrise_with_sea_monsters,海の怪物と日の出,Sunrise with Sea Monsters,artist_jmw_turner,1845,,,watercolor,romanticism,modern_19c,海と空の境界が溶ける光の中に、想像上の怪物を漂わせた水彩。自然観察と幻想が混ざり合い、見る者の心象が風景へ投影される。,,
+work_the_art_of_painting,絵画芸術,The Art of Painting|The Allegory of Painting,artist_johannes_vermeer,,1666,1668,oil_painting,,baroque,画家とモデルの室内を舞台に、描く行為そのものを主題化した作品。カーテン越しの視線が、鑑賞者を制作の現場へ引き込む。,,
+work_red_fuji,凱風快晴,"South Wind, Clear Sky|Red Fuji|Gaifū kaisei",artist_katsushika_hokusai,,1830,1832,printmaking,ukiyo_e,modern_19c,朝日の赤に染まる富士を大胆な面で捉え、簡潔さの中に季節と気象を封じた。輪郭の強さと色の対比が、静かな崇高さを生む。,,
+work_pyramid_of_skulls,骸骨のピラミッド,Pyramid of Skulls,artist_paul_cezanne,,1901,1901,painting,post_impressionism,modern_early_20c,頭蓋骨の重なりで死の静けさを描き、静物を哲学へ変えた。明るい色でも空気は重く、視線が逃げない。,,
+work_kanbara_evening_snow,蒲原 夜之雪,Kanbara: Evening Snow,artist_utagawa_hiroshige,,1833,1834,printmaking,ukiyo_e,modern_19c,雪に沈む宿場の静けさを、限られた色で描き切った。寒さの手触りが画面に漂い、音が消える瞬間の感覚が残る。,,
+work_the_hay_wain_rubens,干し草の荷車,The Hay Wain,artist_peter_paul_rubens,1638,,,oil_painting,,baroque,田園の営みを豊穣の光で包み、自然を生命力として賛美した。動物と人の動きが絡み、風景が呼吸する。,,
+work_virgin_of_the_rocks,岩窟の聖母,Virgin of the Rocks|Madonna of the Rocks,artist_leonardo_da_vinci,,1483,1486,painting,,renaissance,洞窟の闇と柔らかな光の中で聖母子を配置し、自然と神秘を一体化させた。空気の湿り気まで感じる遠近が、物語を現実へ引き寄せる。,,
+work_praying_hands,祈る手,Praying Hands,artist_albrecht_durer,1508,,,drawing,,renaissance,手だけで祈りの集中と疲労を表し、身体の一部を精神の象徴にした。静かな線が、強い敬虔さを生む。,,
+work_persistence_of_memory,記憶の固執,The Persistence of Memory,artist_salvador_dali,1931,,,painting,surrealism,modern_mid_20c,溶ける時計で時間の確かさを崩し、夢の論理を現実へ侵入させた。静かな風景が不気味に澄み、思考の足場が揺らぐ。,,
+work_knight_death_and_devil,騎士と死と悪魔,"Knight, Death and the Devil",artist_albrecht_durer,1513,,,printmaking,,renaissance,不穏な道を進む騎士を、細密な線で圧倒的に刻んだ銅版画。恐怖の象徴に囲まれても進む姿が、意志の寓意として読まれる。,,
+work_plum_estate_kameido,亀戸梅屋敷,Kameido Plum Estate|Kameido Umeyashiki,artist_utagawa_hiroshige,1857,,,printmaking,ukiyo_e,modern_19c,太い梅の幹を大胆に前景化し、奥の景色を覗き込む構図で季節感を強調した。近景と遠景の飛躍が、視線の遊びを生む。,,
+work_weeping_woman,泣く女,Weeping Woman,artist_pablo_picasso,1937,,,painting,cubism,modern_mid_20c,悲嘆を破片の顔として描き、感情を鋭利な形へ変換した。涙が結晶のように硬く、痛みが止まらない。,,
+work_galatea_of_the_spheres,球体のガラテア,Galatea of the Spheres,artist_salvador_dali,1952,,,painting,surrealism,modern_mid_20c,顔を球体の集合として分解し、科学的想像力で肖像を再構成した。崩れているのに保たれ、現実が粒子へ変わる。,,
+work_the_milkmaid,牛乳を注ぐ女,The Milkmaid,artist_johannes_vermeer,,1658,1660,oil_painting,,baroque,家事の動作を、宝石のような光で満たした室内画。パン屑や陶器の質感まで丁寧に描き、日常が静かな崇高さへ変わる。,,
+work_the_colossus_goya,巨人,The Colossus,artist_francisco_goya,,1808,1812,painting,romanticism,modern_19c,遠景の巨人と逃げ惑う群衆で、時代の恐怖を象徴化した。正体が曖昧なほど不安が増し、歴史が悪夢の輪郭を持つ。,,
+work_kiyomizu_temple_kyoto,京都 清水寺,Kiyomizu Temple in Kyoto,artist_utagawa_hiroshige,1858,,,printmaking,ukiyo_e,modern_19c,高台からの眺望と建築の張り出しで、場所のスケール感を鮮やかに示した。空と町の広がりが、巡礼の高揚と結びつく。,,
+work_portrait_of_pope_innocent_x,教皇インノケンティウス10世の肖像,Portrait of Pope Innocent X,artist_diego_velazquez,1650,,,oil_painting,,baroque,鋭い眼差しと赤の衣装で権力の緊張を露出させた。威厳の中に疑念があり、人物が生身として怖い。,,
+work_portrait_of_pope_julius_ii,教皇ユリウス2世の肖像,Portrait of Pope Julius II,artist_raphael,,1511,1512,painting,,renaissance,権威の衣装よりも沈思の表情を強く描き、統治者の孤独を滲ませた。近い距離が、重い沈黙を生む。,,
+work_the_madhouse_goya,狂人の家,The Madhouse,artist_francisco_goya,1812,,,painting,romanticism,modern_19c,閉ざされた空間の異様さを描き、理性の外側にある人間の姿を突きつけた。笑いとも叫びともつかない気配が残る。,,
+work_girl_before_a_mirror,鏡の前の少女,Girl Before a Mirror,artist_pablo_picasso,1932,,,painting,,modern_mid_20c,鏡像を別の姿として描き、自己認識の裂け目を可視化した。色の対比が甘さと不穏さを同時に運ぶ。,,
+work_venus_at_her_mirror_velazquez,鏡を見るヴィーナス,Venus at her Mirror|Rokeby Venus,artist_diego_velazquez,,1647,1651,oil_painting,,baroque,鏡像を介して視線の関係をねじり、鑑賞者を作品の内側へ巻き込む。肌の柔らかさが、逆に距離の冷たさを残す。,,
+work_modern_rome_turner,近代ローマ,Modern Rome – Campo Vaccino,artist_jmw_turner,1839,,,painting,romanticism,modern_19c,古代遺跡と日常の生活を同じ光で包み、歴史の堆積を一枚にした。時間が重なり、都市が記憶の器になる。,,
+work_keelmen_heaving_in_coals_by_moonlight,月明かりの石炭運び,Keelmen Heaving in Coals by Moonlight,artist_jmw_turner,1835,,,painting,romanticism,modern_19c,労働の夜景を月光と煙で包み、都市の息づかいを描いた。光が冷たく、産業の気配が風景に沈む。,,
+work_the_dog_black_painting,犬,The Dog|El Perro,artist_francisco_goya,,1819,1823,painting,romanticism,modern_19c,広大な空白の中に小さな頭部だけを残し、孤独を極限まで薄めて濃くした。ほとんど何もないのに、感情だけが重く沈む。,,
+work_the_hunt_of_the_tiger,虎狩り,The Tiger Hunt,artist_peter_paul_rubens,,1615,1616,oil_painting,,baroque,獣と人間の衝突を密度で押し切り、闘争を視覚の渦へ変えた。毛皮と筋肉の質感が、恐怖の現実味を強める。,,
+work_separation_of_light_from_darkness,光と闇の分離,The Separation of Light from Darkness,artist_michelangelo_buonarroti,1512,,,painting,,renaissance,最小限の要素で創造の瞬間を示し、光そのものを主題にした。身体の迫力が、宇宙的な出来事を現実へ引き寄せる。,,
+work_kajikazawa_in_kai_province,甲州石班沢,Kajikazawa in Kai Province,artist_katsushika_hokusai,,1830,1832,printmaking,ukiyo_e,modern_19c,波と富士を対置しつつ、漁師の身体感覚を前面に出した。自然の力が日常の仕事と直結し、緊張が静かに続く。,,
+work_fortitude_botticelli,剛毅（フォルテッツァ）,Fortitude|Fortezza,artist_sandro_botticelli,,1470,1475,painting,,renaissance,徳の擬人像を静かな威厳で描き、内面の強さを姿勢で語る。豪華さより、沈黙の説得力が残る。,,
+work_the_concert_vermeer,合奏,The Concert,artist_johannes_vermeer,1664,,,oil_painting,,baroque,室内楽の場面を、親密さと距離感の両方で捉えた。音が聞こえないはずなのに、人物の配置が旋律のように感じられる。,,
+work_houses_of_parliament_series,国会議事堂（連作）,Houses of Parliament series,artist_claude_monet,,1899,1904,painting,impressionism,modern_early_20c,霧と夕光の中で建物を輪郭ではなく色の気配として描いた。都市が溶け、空気が主役になる。,,
+work_burning_of_houses_of_lords_and_commons,国会議事堂の火災,The Burning of the Houses of Lords and Commons,artist_jmw_turner,1835,,,painting,romanticism,modern_19c,炎と煙の光が水面に揺れ、都市の災禍が壮観として迫る。美しさが恐ろしく、歴史が火の色で刻まれる。,,
+work_black_on_gray_rothko,黒とグレー,Black on Gray,artist_mark_rothko,1969,,,painting,abstract_expressionism,modern_mid_20c,沈んだ色面で視線を受け止め、静けさを極限まで深くした晩年作。光はほとんどなく、残るのは重い呼吸だけだ。,,
+work_black_on_maroon,黒とマルーン,Black on Maroon,artist_mark_rothko,1958,,,painting,abstract_expressionism,modern_mid_20c,暗い色の重さが前面に出て、光よりも沈み込みが支配する作品。静けさが深く、視線が吸い込まれるように留まる。,,
+work_last_judgment_michelangelo,最後の審判,The Last Judgment,artist_michelangelo_buonarroti,1541,,,painting,,renaissance,壁面に渦巻く人体群像で、救済と恐怖を一気に噴出させた。肉体のうねりが感情の波となり、見る者の足場を揺らす。,,
+work_the_last_supper,最後の晩餐,The Last Supper|Il Cenacolo,artist_leonardo_da_vinci,,1495,1498,painting,,renaissance,一瞬の心理の連鎖を、長い卓を舞台に編み上げた壁画。視線と身振りが波のように伝播し、物語が絵画の空間で劇として立ち上がる。,,
+work_sacrament_of_the_last_supper_dali,最後の晩餐の秘蹟,The Sacrament of the Last Supper,artist_salvador_dali,1955,,,painting,surrealism,modern_mid_20c,透明な建築空間に晩餐を置き、宗教を数学的な静けさで描いた。神秘が過剰な光として満ち、現実が薄くなる。,,
+work_first_abstract_watercolor,最初の抽象水彩,First Abstract Watercolor,artist_wassily_kandinsky,1910,,,watercolor,abstract_art,modern_early_20c,形が確定する前の色と線で、音楽のような感情の流れを描いた。意味は後から追いかけてきて、先に響きだけが残る。,,
+work_rhinoceros_durer,犀（さい）,Rhinoceros,artist_albrecht_durer,1515,,,printmaking,,renaissance,実物を見ずに情報から構成したにもかかわらず、強烈な説得力で広まった木版画。イメージが現実を形づくる力を示す歴史的例となった。,,
+work_massacre_of_the_innocents_rubens,罪なき幼子の虐殺,Massacre of the Innocents,artist_peter_paul_rubens,,1611,1612,oil_painting,,baroque,肉体が絡み合う混沌で暴力の瞬間を圧縮し、感情を力学として噴出させた。躍動が強いほど、惨劇が重く響く。,,
+work_the_three_crosses,三つの十字架,The Three Crosses,artist_rembrandt,1653,,,printmaking,,baroque,光と闇の衝突を版の中で極端化し、受難の場面を嵐のように描いた。線の密度が感情の暴風となり、視線を逃がさない。,,
+work_three_musicians,三人の音楽家,Three Musicians,artist_pablo_picasso,1921,,,painting,cubism,modern_early_20c,切り紙のような形で人物を組み立て、音楽の陽気さを構成として示した。平面の重なりがリズムを生み、絵が演奏のように鳴る。,,
+work_the_three_graces_rubens,三美神,The Three Graces,artist_peter_paul_rubens,1635,,,oil_painting,,baroque,豊かな肉体を光で包み、生命の肯定として神話を描いた作品。肌の反射が柔らかく連続し、見る者の感覚を温める。,,
+work_miho_no_matsubara_hiroshige,三保の松原,Miho no Matsubara,artist_utagawa_hiroshige,,1858,1858,printmaking,ukiyo_e,modern_19c,松並木と海の広がりで、名所の空気を簡潔に掴んだ。余白が風となり、景色が記憶の奥で鳴る。,,
+work_woman_with_a_parasol,散歩 日傘をさす女性,Woman with a Parasol|Madame Monet and Her Son,artist_claude_monet,1875,,,painting,impressionism,modern_19c,風を孕む衣装と空の明るさで、一瞬の外光の快さを描いた。視線が上向きに抜け、時間が軽く跳ねる。,,
+work_woman_with_a_parasol,散歩、日傘をさす女,Woman with a Parasol|Madame Monet and Her Son,artist_claude_monet,1875,,,painting,impressionism,modern_19c,風に揺れる布と草の匂いが筆致に混ざり、瞬間の外光がそのまま残る。見上げる視点が、空の広さを運ぶ。,,
+work_la_loge_renoir,桟敷席,La Loge|The Theatre Box,artist_pierre_auguste_renoir,1874,,,painting,impressionism,modern_19c,観劇の場を舞台に、見られることと見ることの駆け引きを描いた。黒い服と肌の対比が、都会の華やぎと緊張を引き締める。,,
+work_four_apostles_durer,四人の使徒,The Four Apostles,artist_albrecht_durer,1526,,,painting,,renaissance,人物の迫力で信仰と理性の緊張を示し、宗教改革期の空気を背負う。視線が強く、沈黙が説得力になる。,,
+work_officer_and_laughing_girl,士官と笑う娘,Officer and Laughing Girl,artist_johannes_vermeer,1657,,,oil_painting,,baroque,前景の黒い人物が視界を遮り、密やかな会話の甘さを強める。窓光が画面を支配し、視線のドラマが生まれる。,,
+work_spirit_of_the_dead_watching,死霊が見守っている,Spirit of the Dead Watching|Manao tupapau,artist_paul_gauguin,1892,,,painting,post_impressionism,modern_19c,横たわる少女の背後に不安の影を置き、異文化の神話と心理を交差させた。色の対比が恐れを増幅し、視線の緊張が解けない。,,
+work_the_spinners,糸紡ぎ（アラクネの寓意）,The Spinners|Las Hilanderas,artist_diego_velazquez,,1657,1660,oil_painting,,baroque,工房の現実と神話の場面を奥で重ね、見る層を二重にした。動きの速さが残り、空気がざわつく。,,
+work_the_spinners_velazquez,糸紡ぎ女たち,The Spinners|Las Hilanderas,artist_diego_velazquez,,1657,1658,oil_painting,,baroque,工房の日常風景に神話の層を重ね、現実と寓意を往復させた。前景の動きと奥のタペストリーが、時間の深さを生む。,,
+work_the_she_wolf_pollock,雌狼,The She-Wolf,artist_jackson_pollock,1943,,,painting,abstract_expressionism,modern_mid_20c,神話的な獣の気配を抽象化し、原始的な力を画面に封じた。形が揺れ、意味が生まれる手前でざわめく。,,
+work_seven_works_of_mercy,慈悲の七つの行い,The Seven Works of Mercy,artist_caravaggio,1607,,,oil_painting,,baroque,都市の夜に慈悲の行為を折り重ね、救済を混沌の中で描いた。複数の物語が同時進行し、光が場を束ねる。,,
+work_self_portrait_1500_durer,自画像（1500年）,Self-Portrait 1500,artist_albrecht_durer,1500,,,painting,,renaissance,正面からの視線で自らを聖像のように提示し、芸術家の自意識を更新した。緻密な筆致が髪や肌の質感を彫刻のように際立たせる。,,
+work_self_portrait_1630_rembrandt,自画像（1630年）,Self-Portrait (1630),artist_rembrandt,1630,,,oil_painting,,baroque,若い自分の表情を試すように描き、役者のような気配が漂う。自己観察が、光の実験として見える。,,
+work_self_portrait_1640_rembrandt,自画像（1640年）,Self-Portrait 1640,artist_rembrandt,1640,,,oil_painting,,baroque,堂々とした姿勢で自らを提示し、画家という存在の自信と計算を示した。衣装の光沢の奥で、眼差しだけが真実味を帯びる。,,
+work_self_portrait_1659,自画像（1659年）,Self-Portrait 1659,artist_rembrandt,1659,,,oil_painting,,baroque,老いと誇りが同居する表情を、厚い絵具と影で刻んだ。技巧より存在の重さが前面に出て、視線が長く留まる。,,
+work_self_portrait_1669_rembrandt,自画像（1669年）,Self-Portrait (1669),artist_rembrandt,1669,,,oil_painting,,baroque,晩年の眼差しが静かにこちらを受け止め、技巧より存在の重さが前に出る。沈黙が長く続き、絵の前で時間が遅くなる。,,
+work_self_portrait_rubens,自画像（ルーベンス）,Self-Portrait,artist_peter_paul_rubens,1623,,,oil_painting,,baroque,威厳と落ち着きを備えた姿で、宮廷画家としての自意識を示した。装いは控えめでも、眼差しが強い統率力を持つ。,,
+work_self_portrait_two_circles,自画像（円弧のある背景）,Self-Portrait with Two Circles,artist_rembrandt,,1665,1669,oil_painting,,baroque,老境の自らを、粗い筆触と深い影で描き切った自画像。技巧の誇示ではなく、存在そのものの重さが画面に沈殿する。,,
+work_portrait_of_a_young_man_botticelli,若い男の肖像,Portrait of a Young Man,artist_sandro_botticelli,,1483,1485,painting,,renaissance,端正な横顔に近い静けさで、個人の気配を透明に示した。線の美しさが、人格の輪郭として残る。,,
+work_woman_writing_a_letter_vermeer,手紙を書く女,Woman Writing a Letter,artist_johannes_vermeer,1665,,,oil_painting,,baroque,筆を止めて見返す視線で、物語の入口だけを示した。机上の物と窓光が、秘密の重さを支える。,,
+work_singer_with_a_glove,手袋の歌手,Singer with a Glove,artist_edgar_degas,1878,,,painting,impressionism,modern_19c,舞台の歌手を斜めから捉え、華やかさの裏の疲れを混ぜ込んだ。視線の切り取りが、都市の娯楽を現実へ戻す。,,
+work_the_sower_van_gogh,種をまく人,The Sower,artist_vincent_van_gogh,1888,,,painting,post_impressionism,modern_19c,夕陽の大きさと歩幅で労働を神話のように描き、生活の循環を祝福した。色が熱く、時間が進む音がする。,,
+work_house_of_the_hanged_man,首吊りの家,The House of the Hanged Man|La Maison du pendu,artist_paul_cezanne,1873,,,painting,post_impressionism,modern_19c,田舎の家並みを、粗い筆触と色の面で組み上げた初期の代表作。風景が感覚の写しではなく、構造物として見えてくる。,,
+work_annunciation_leonardo,受胎告知,Annunciation,artist_leonardo_da_vinci,,1472,1475,painting,,renaissance,静謐な庭園に降りる知らせを、遠近法と細密な自然描写で支えた初期作。宗教的主題を現実の空気に接続しようとする意志が見える。,,
+work_luncheon_of_the_boating_party,舟遊びの昼食,Luncheon of the Boating Party|Le Déjeuner des canotiers,artist_pierre_auguste_renoir,1881,,,painting,impressionism,modern_19c,テラスに集う仲間たちの会話や視線を、柔らかな色で束ねた群像画。陽気さの裏に親密な関係の温度が漂う。,,
+work_elevation_of_the_cross,十字架の架上げ,The Elevation of the Cross,artist_peter_paul_rubens,,1610,1611,oil_painting,,baroque,斜めに持ち上がる十字架の力学で、肉体の重量と信仰の劇を同時に描いた。筋肉の連鎖が画面全体を駆動し、激情が形になる。,,
+work_descent_from_the_cross_rubens,十字架降下,The Descent from the Cross,artist_peter_paul_rubens,,1612,1614,oil_painting,,baroque,白い布の滑りと身体の重さで、哀悼の場面を触覚的に構成した。光が人物の連帯を結び、悲しみが共同体の行為として示される。,,
+work_primavera_botticelli,春（プリマヴェーラ）,Primavera,artist_sandro_botticelli,1482,,,painting,,renaissance,人物群を庭園に並べ、愛と季節の寓意を舞踏のように展開した。意味が多層で、見るほどに物語が増殖する。,,
+work_st_jerome_in_his_study,書斎の聖ヒエロニムス,Saint Jerome in His Study,artist_albrecht_durer,1514,,,printmaking,,renaissance,静かな室内に光を流し込み、学問と祈りの集中を描いた。小道具の緻密さが、時間の厚みを作る。,,
+work_the_fortune_teller,女占い師,The Fortune Teller,artist_caravaggio,1594,,,oil_painting,,baroque,手相を見る仕草に盗みを潜ませ、甘さと危うさを同時に描いた。光が肌を撫で、騙しの気配を際立たせる。,,
+work_the_procuress_vermeer,女衒（ぜげん）,The Procuress,artist_johannes_vermeer,1656,,,oil_painting,,baroque,取引の場を露骨な視線と金銭で描き、室内画の甘さを断ち切った。光の美しさが、逆に場の生々しさを強める。,,
+work_amor_vincit_omnia,勝利の愛,Amor Vincit Omnia|Love Conquers All,artist_caravaggio,1602,,,oil_painting,,baroque,悪戯っぽい愛の神が象徴物を踏みつけ、権威を軽やかに転倒させる。肉体の光が挑発となり、寓意が生々しい。,,
+work_the_evening_star_turner,宵の明星,The Evening Star,artist_jmw_turner,1830,,,painting,romanticism,modern_19c,静かな川面と薄明の空で、光が消える直前の気配を捉えた。輪郭が柔らかく、沈黙が広がる。,,
+work_small_cowper_madonna,小さなカウパーの聖母,Small Cowper Madonna,artist_raphael,1505,,,painting,,renaissance,親密な抱擁を端正な空間に置き、日常の温度で聖性を描いた。柔らかな輪郭が、視線を静かに留める。,,
+work_the_little_street,小路,The Little Street,artist_johannes_vermeer,1658,,,oil_painting,,baroque,家並みの質感と生活の気配を、驚くほど静かに描いた。大きな事件のない風景が、時間そのものの記憶になる。,,
+work_the_elephants_dali,象,The Elephants,artist_salvador_dali,1948,,,painting,surrealism,modern_mid_20c,細長い脚で巨大な象を支え、重さと軽さの矛盾を夢の記号にした。砂漠の静けさが不条理を際立たせ、世界が幻の舞台になる。,,
+work_snow_storm_steam_boat,蒸気船の吹雪,Snow Storm: Steam-Boat off a Harbour’s Mouth,artist_jmw_turner,1842,,,painting,romanticism,modern_19c,渦巻く嵐の中心に船を置き、視界が崩壊する体験をそのまま画面化した。自然の圧倒が抽象へ近づき、感情が風景を飲み込む。,,
+work_snow_storm_steam_boat,蒸気船の雪嵐,Snow Storm: Steam-Boat off a Harbour’s Mouth,artist_jmw_turner,1842,,,painting,romanticism,modern_19c,渦巻く嵐の中心に船を飲み込ませ、自然の暴力を絵具の回転として示した。視界が乱れ、体感として恐怖が来る。,,
+work_the_syndics,織物商組合の見本検査官たち,The Syndics|The Sampling Officials,artist_rembrandt,1662,,,oil_painting,,baroque,集団肖像を「今こちらを見た」瞬間として描き、視線が画面外へ突き刺さる。権威が静かに立ち上がる。,,
+work_the_syndics,織物組合の幹部たち,The Syndics of the Drapers’ Guild,artist_rembrandt,1662,,,oil_painting,,baroque,こちらを見返す視線の連鎖で、集団肖像を生きた会議の瞬間に変えた。沈黙が破られる直前の緊張が、光の中に定着する。,,
+work_allegory_of_faith,信仰の寓意,Allegory of Faith,artist_johannes_vermeer,1670,,,oil_painting,,baroque,象徴的な小道具で信仰を構成し、室内画の語彙を寓意へ広げた。日常の光が、観念の舞台を照らす。,,
+work_girl_with_a_pearl_earring,真珠の耳飾りの少女,Girl with a Pearl Earring,artist_johannes_vermeer,,1665,1667,oil_painting,,baroque,振り向く一瞬を、柔らかな光と暗闇の対比で永遠に固定した。瞳の潤いと真珠の反射が、呼吸の気配まで連れてくる。,,
+work_woman_with_a_pearl_necklace,真珠の首飾りの女,Woman with a Pearl Necklace,artist_johannes_vermeer,1664,,,oil_painting,,baroque,身支度の私的な時間を、鏡と光で静かに閉じ込めた。装飾品の輝きが、内面の揺れを逆に際立てる。,,
+work_day_of_the_god,神の日,Day of the God,artist_paul_gauguin,1894,,,painting,post_impressionism,modern_19c,海辺の場面に神話的象徴を重ね、現実が寓意へ滑り込む。色が濃く、時間が夢の方向へ曲がる。,,
+work_great_wave_off_kanagawa,神奈川沖浪裏,The Great Wave off Kanagawa|Great Wave|Kanagawa oki nami ura,artist_katsushika_hokusai,,1831,1833,printmaking,ukiyo_e,modern_19c,巨大な波のうねりに富士を対置し、自然の力と人の小ささを一瞬に凝縮した。鋭い曲線と遠近の妙が、世界的な視覚アイコンとして定着した。,,
+work_mystic_nativity,神秘の降誕,Mystic Nativity,artist_sandro_botticelli,1500,,,painting,,renaissance,終末観と救済の歓喜を同時に描き、甘美さだけではない宗教感情を示した。踊る天使たちの輪が、祈りの渦として画面を締める。,,
+work_woman_with_a_water_jug,水差しを持つ女,Woman with a Water Jug,artist_johannes_vermeer,1662,,,oil_painting,,baroque,窓の光の中で水差しを扱う動作が、浄化のような静けさを生む。何気ない手つきが、時間を澄ませる。,,
+work_fireflies_on_the_water_kusama,水上の蛍,Fireflies on the Water,artist_yayoi_kusama,2002,,,installation,contemporary_art,contemporary,暗い空間に光点が浮かび、鏡で増殖して感覚が無限へ伸びる。足元の水と光が揺れ、身体の輪郭が曖昧になる。,,
+work_the_bathers_fragonard,水浴,The Bathers,artist_jean_honore_fragonard,,1765,1765,oil_painting,,rococo,水辺の身体を柔らかな筆致で包み、官能が空気のように広がる。輪郭が溶け、時間が緩む。,,
+work_tahitian_women_bathing,水浴するタヒチ女,Tahitian Women Bathing,artist_paul_gauguin,1892,,,painting,post_impressionism,modern_19c,日常の水浴が神話のような静けさを帯び、身体が風景に溶ける。楽園の明るさに、少し影が混ざる。,,
+work_bathsheba_at_her_bath,水浴するバテシバ,Bathsheba at Her Bath,artist_rembrandt,1654,,,oil_painting,,baroque,神話や物語よりも、ためらいの表情に焦点を当てた人物画。肌の質感が生々しく、倫理の葛藤が手紙の重さとして伝わる。,,
+work_bathsheba_at_her_bath,水浴するバトシェバ,Bathsheba at Her Bath,artist_rembrandt,1654,,,oil_painting,,baroque,肌の重さと表情の迷いで物語を内面へ引き込み、判断の苦さが残る。光が優しいほど、心が痛い。,,
+work_the_bathing_girl_fragonard,水浴する女,The Bathing Girl|La Baigneuse,artist_jean_honore_fragonard,1765,,,oil_painting,,rococo,肌と水のきらめきを軽い筆致で描き、官能を空気のように漂わせた。即興性が生々しく、視線が触覚になる。,,
+work_the_bathers_renoir,水浴する女たち,The Bathers|Les Baigneuses,artist_pierre_auguste_renoir,,1918,1919,painting,,modern_early_20c,晩年の滑らかな筆致で肉体を明るく描き、古典的主題を快楽として復活させた。形が丸く、空気が甘い。,,
+work_water_lilies_monet,睡蓮,Water Lilies|Nymphéas|Les Nymphéas,artist_claude_monet,,1914,1926,painting,impressionism,modern_early_20c,池の水面をモチーフに、空と水と光の境界を溶かし込んだ連作。視点が漂い、風景がほとんど抽象として迫ってくる。,,
+work_the_star_degas,星,The Star|L’Étoile,artist_edgar_degas,1878,,,painting,impressionism,modern_19c,スポットライトの中の踊り子を、舞台裏の気配ごと切り取った。華やかさの陰に緊張が残り、観客の視線が作品の主題として浮かぶ。,,
+work_the_starry_night,星月夜,The Starry Night,artist_vincent_van_gogh,1889,,,painting,post_impressionism,modern_19c,渦巻く夜空を強い筆致で描き、風景を感情の運動へ変えた。静かな村の灯りと天体の奔流が同居し、内面が景色になる。,,
+work_joy_of_life,生きる歓び,Le Bonheur de Vivre|The Joy of Life,artist_henri_matisse,,1905,1906,painting,fauvism,modern_early_20c,色の強さで楽園を作り、身体が踊りとして配置される。理屈より先に快感が来て、空気が甘くなる。,,
+work_joy_of_life,生きる喜び,Le Bonheur de vivre|The Joy of Life,artist_henri_matisse,,1905,1906,painting,fauvism,modern_early_20c,裸体群像と風景を装飾的な色で統合し、楽園の感覚を平面として提示した。形よりもリズムが先に立ち、絵が音楽のように響く。,,
+work_temptation_of_st_anthony_dali,聖アントニウスの誘惑,The Temptation of Saint Anthony,artist_salvador_dali,1946,,,painting,surrealism,modern_mid_20c,細い脚の怪物たちが誘惑として迫り、信仰の脆さを異様な構図で示した。重い欲望が軽々と宙を歩く。,,
+work_virgin_and_child_with_st_anne,聖アンナと聖母子,The Virgin and Child with Saint Anne,artist_leonardo_da_vinci,,1503,1519,painting,,renaissance,世代の連なりを柔らかな陰影で包み、触れ合いの中に静かな重力を与えた。輪郭が溶けるほど、関係性の温度が濃くなる。,,
+work_st_george_and_the_dragon_raphael,聖ゲオルギウスと竜,St. George and the Dragon,artist_raphael,1506,,,painting,,renaissance,決定的瞬間を小さな画面に凝縮し、躍動と秩序を両立させた。英雄譚が、優雅な運動として見える。,,
+work_the_stoning_of_st_stephen,聖ステファヌスの石打ち,The Stoning of Saint Stephen,artist_rembrandt,1625,,,oil_painting,,baroque,群衆の暴力と聖性の対比を、若き日の勢いで描いた初期作。感情の渦の中に、すでに光の劇が芽生える。,,
+work_incredulity_of_st_thomas,聖トマスの不信,The Incredulity of Saint Thomas,artist_caravaggio,,1601,1602,oil_painting,,baroque,指先が傷口へ触れる瞬間を生々しく描き、信仰を身体感覚へ引き下ろした。闇の中の光が、真実の残酷さを際立たせる。,,
+work_incredulity_of_st_thomas,聖トマスの不信,The Incredulity of Saint Thomas,artist_caravaggio,,1601,1602,oil_painting,,baroque,傷口へ指が入る近さで信仰を物理に落とし、確かめる欲望がむき出しになる。光が肉体の現実を刺す。,,
+work_conversion_of_st_paul,聖パウロの回心,The Conversion on the Way to Damascus,artist_caravaggio,,1600,1601,oil_painting,,baroque,倒れた身体と馬の重さで、劇的転回を地面の出来事として描いた。奇跡が天からではなく、接地面から来る。,,
+work_crucifixion_of_st_peter,聖ペテロの磔刑,Crucifixion of Saint Peter,artist_caravaggio,1601,,,oil_painting,,baroque,逆さの十字架を持ち上げる肉体の重労働で、殉教を現実の重量へ変えた。英雄的ではなく、人間の苦しみが中心にある。,,
+work_martyrdom_of_st_matthew,聖マタイの殉教,The Martyrdom of Saint Matthew,artist_caravaggio,1600,,,oil_painting,,baroque,暴力が発生する瞬間を群像で押し込み、恐怖と混乱を同じ光で照らした。視線が散らされ、場の息が荒くなる。,,
+work_calling_of_st_matthew,聖マタイの召命,The Calling of Saint Matthew|Vocazione di San Matteo,artist_caravaggio,,1599,1600,oil_painting,,baroque,暗闇を切り裂く光で、召命の瞬間を日常の場に引き寄せた。指差しと視線だけで物語が動き、宗教画のリアリティを刷新した。,,
+work_christ_of_saint_john_of_the_cross,聖ヨハネの十字架のキリスト,Christ of Saint John of the Cross,artist_salvador_dali,1951,,,painting,surrealism,modern_mid_20c,俯瞰の視点で十字架を捉え、宗教画を異様に冷静な空間へ置いた。劇的な血の表現を避け、形の絶対性で崇高さを立ち上げる。,,
+work_the_marriage_of_the_virgin_raphael,聖母の結婚,The Marriage of the Virgin|Lo Sposalizio,artist_raphael,1504,,,painting,,renaissance,中央建築へ人々の動きを収束させ、儀式を空間の秩序として描いた。遠近法が祝祭の静けさを支え、物語が端正に立ち上がる。,,
+work_death_of_the_virgin,聖母の死,The Death of the Virgin,artist_caravaggio,1606,,,oil_painting,,baroque,理想化を拒み、死の現実を室内の重い空気として描いた。嘆きの群像が日常の悲しみに近づき、宗教画の規範を揺らす。,,
+work_madonna_of_the_chair,聖母子（椅子の聖母）,Madonna of the Chair|Madonna della Seggiola,artist_raphael,1514,,,painting,,renaissance,抱きしめる輪郭が円の中で閉じ、親密さが強く凝縮される。視線の近さが、祈りを身体感覚にする。,,
+work_the_blue_rigi,青いリギ山,The Blue Rigi,artist_jmw_turner,1842,,,watercolor,romanticism,modern_19c,山の輪郭を溶かす光で、風景を気配の層として描いた。透明な色が重なり、静けさがそのまま発光する。,,
+work_dancers_in_blue,青い踊り子たち,Dancers in Blue,artist_edgar_degas,,1897,1897,painting,,modern_19c,同じ動作が反復され、舞台の華やぎが労働のリズムとして見えてくる。青の濃淡が、呼吸の速度になる。,,
+work_woman_in_blue_reading_letter,青衣の女（手紙を読む）,Woman in Blue Reading a Letter,artist_johannes_vermeer,1663,,,oil_painting,,baroque,手紙を読む姿を、静かな呼吸として描いた室内画。地図や光の反射が、感情を言葉なしに膨らませる。,,
+work_blue_rider_kandinsky,青騎士,Der Blaue Reiter|The Blue Rider,artist_wassily_kandinsky,1903,,,painting,expressionism,modern_early_20c,疾走する騎士像を曖昧に描き、形より感情の速度を優先した。風景が震え、象徴が直感として刺さる。,,
+work_landscape_with_stone_bridge,石橋のある風景,Landscape with the Stone Bridge,artist_rembrandt,1638,,,oil_painting,,baroque,雲間の光が地表へ落ちる瞬間を捉え、風景を心の劇として描いた。静かな自然が、どこか宗教的な気配を帯びる。,,
+work_haystacks_monet,積みわら,Haystacks|Meules,artist_claude_monet,,1890,1891,painting,impressionism,modern_19c,同じモチーフを季節と時間で描き分け、光が対象を変形させる過程を示した。見慣れた農村が、色彩実験の舞台へ変わる。,,
+work_haystacks_series,積みわら（連作）,Haystacks series|Meules,artist_claude_monet,,1890,1891,painting,impressionism,modern_19c,同じモチーフを季節と光で描き分け、時間を絵画の単位にした。対象が変わらないほど、変化の鮮烈さが立つ。,,
+work_the_red_studio,赤いアトリエ,The Red Studio,artist_henri_matisse,1911,,,painting,,modern_early_20c,室内を赤一色で包み、作品と家具を線で浮かせて空間を再定義した。奥行きが溶け、制作の場が思考の平面になる。,,
+work_boy_in_a_red_vest,赤いチョッキの少年,Boy in a Red Vest,artist_paul_cezanne,,1888,1890,painting,post_impressionism,modern_19c,少年の姿を塊として捉え、色面の重さで身体を構築した。静止の中に緊張があり、空間が固く締まる。,,
+work_harmony_in_red,赤のハーモニー,The Red Room|Harmony in Red,artist_henri_matisse,1908,,,painting,,modern_early_20c,室内を赤で満たし、模様と静物を一枚の布のように織り上げた。空間の奥行きが溶け、装飾が世界の秩序として立ち上がる。,,
+work_four_darks_in_red,赤の中の四つの暗色,Four Darks in Red,artist_mark_rothko,1958,,,painting,abstract_expressionism,modern_mid_20c,赤い場の上に暗色が沈み、色の関係が心理の圧力として働く。単純な面が、長く見るほど重層的な感情を立ち上げる。,,
+work_vision_after_the_sermon,説教の後の幻影,Vision After the Sermon|La Vision après le sermon,artist_paul_gauguin,1888,,,painting,post_impressionism,modern_19c,赤い地面と大胆な輪郭で、信仰の幻視を現実から切り離して示した。日本美術的な平面性を取り込み、象徴へ向かう絵画の道を開く。,,
+work_the_fortune_teller_caravaggio,占い師,The Fortune Teller,artist_caravaggio,,1594,1595,oil_painting,,baroque,甘い距離の中で指輪が抜かれ、騙される瞬間が静かに進む。明るい場面なのに、背中が冷える。,,
+work_hendrickje_bathing,川で水浴するヘンドリッキエ,Hendrickje Bathing in a River,artist_rembrandt,1654,,,oil_painting,,baroque,水辺の冷たさと肌の温度を同居させ、親密さをそっと差し出した。視線が控えめで、沈黙が優しい。,,
+work_the_disasters_of_war,戦争の惨禍,The Disasters of War|Los Desastres de la Guerra,artist_francisco_goya,,1810,1820,printmaking,romanticism,modern_19c,戦争の暴力と飢餓を連作で記録し、英雄譚を徹底的に拒んだ。繰り返し見るほど、痛みが乾いた事実として残る。,,
+work_st_john_the_baptist_leonardo,洗礼者ヨハネ,Saint John the Baptist,artist_leonardo_da_vinci,,1513,1516,oil_painting,,renaissance,闇から浮かぶ微笑と指差しで、神秘を挑発的に示した晩年作。輪郭が溶け、視線だけが鋭く残る。,,
+work_beheading_of_st_john_the_baptist,洗礼者ヨハネの斬首,The Beheading of Saint John the Baptist,artist_caravaggio,1608,,,oil_painting,,baroque,広い暗闇に行為を置き、死の静けさを残酷に強調した。血の痕跡が、時間の重さとして画面に残る。,,
+work_girl_reading_letter_open_window,窓辺で手紙を読む娘,Girl Reading a Letter at an Open Window,artist_johannes_vermeer,1657,,,oil_painting,,baroque,手紙の内容を明かさず、光と室内の気配だけで感情の揺れを示した。日常の片隅が、秘密の舞台へ変わる。,,
+work_madonna_of_the_meadow,草地の聖母,Madonna of the Meadow,artist_raphael,,1505,1506,painting,,renaissance,三角構図に穏やかな関係性を収め、優しさの中に受難の予兆を織り込んだ。均衡の美が、そのまま祈りの形になる。,,
+work_improvisation_28,即興28（第2版）,Improvisation 28 (second version),artist_wassily_kandinsky,1912,,,painting,expressionism|abstract_art,modern_early_20c,即興的な線の奔流で、感情の発火を直接画面へ流し込んだ。形は揺れ、意味が確定しないまま、見る者の内側で物語が生まれる。,,
+work_the_angel_standing_in_the_sun,太陽の中に立つ天使,The Angel Standing in the Sun,artist_jmw_turner,1846,,,painting,romanticism,modern_19c,眩い光に天使の象徴を重ね、歴史と終末の感覚を光そのもので表した。輪郭が溶け、意味が眩しさへ変換される。,,
+work_great_piece_of_turf,大きな芝の塊,Great Piece of Turf,artist_albrecht_durer,1503,,,watercolor,,renaissance,雑草の集合を主役にし、自然観察を絵の価値へ引き上げた。些細な生命が、驚くほど堂々と存在する。,,
+work_great_piece_of_turf,大きな草むら,Great Piece of Turf,artist_albrecht_durer,1503,,,watercolor,,renaissance,草の束がそのまま宇宙のように複雑で、観察が驚異へ変わる。小さな自然が、圧倒的な密度で迫る。,,
+work_sudden_shower_shin_ohashi_atake,大はしあたけの夕立,Sudden Shower over Shin-Ōhashi bridge and Atake|Ōhashi Atake no yūdachi,artist_utagawa_hiroshige,1857,,,printmaking,ukiyo_e,modern_19c,斜めの雨線が視界を切り、橋を渡る人々の気配が一瞬で伝わる。天候の変化がドラマとなり、江戸の生活が生きた風景になる。,,
+work_the_large_bathers_renoir,大水浴,The Large Bathers|Les Grandes Baigneuses,artist_pierre_auguste_renoir,1887,,,painting,impressionism,modern_19c,古典的構図に近づきつつ、肌の光を印象派の筆致で保った晩期の試み。感覚の絵画と伝統の理想がせめぎ合う。,,
+work_large_bathers_cezanne,大水浴図,The Large Bathers,artist_paul_cezanne,1906,,,painting,post_impressionism,modern_early_20c,人体と樹木が同じ構造で組まれ、自然と身体が一つの骨格になる。物語より構築が前に出て、風景が固い。,,
+work_union_of_earth_and_water,大地と水の合一,The Union of Earth and Water,artist_peter_paul_rubens,1618,,,oil_painting,,baroque,寓意的人物で豊穣と政治的秩序を重ね、壮麗な象徴画にした。肉体の量感が、概念に説得力を与える。,,
+work_jeremiah_lamenting,嘆く預言者エレミヤ,Jeremiah Lamenting the Destruction of Jerusalem,artist_rembrandt,1630,,,oil_painting,,baroque,沈思する顔に歴史の喪失を集約し、悲しみを静かな重量として描いた。光が弱いほど、内面が深く見える。,,
+work_the_geographer,地理学者,The Geographer|De Geograaf,artist_johannes_vermeer,1669,,,oil_painting,,baroque,窓光の中で地図を扱う青年を描き、知の緊張を静けさとして定着させた。世界を測る行為が、室内の空気まで張りつめさせる。,,
+work_the_clothed_maja,着衣のマハ,The Clothed Maja|La maja vestida,artist_francisco_goya,,1800,1805,oil_painting,romanticism,modern_19c,同じ構図で衣服を纏わせ、裸像との対比で見る側の倫理と欲望を浮き彫りにした。布の質感の艶が、隠すことの誘惑を逆に強める。,,
+work_women_in_the_garden,庭の女たち,Women in the Garden,artist_claude_monet,1866,,,painting,impressionism,modern_19c,屋外光のきらめきをドレスの白に受け止め、空気そのものを描いた初期の挑戦作。影が色になり、夏の温度が漂う。,,
+work_woman_holding_a_balance,天秤を持つ女,Woman Holding a Balance,artist_johannes_vermeer,,1662,1664,oil_painting,,baroque,静止した手元に、価値の測定と心の均衡を重ねた寓意的室内画。窓光の穏やかさが、判断の瞬間の緊張を柔らげる。,,
+work_the_astronomer,天文学者,The Astronomer|De Astronoom,artist_johannes_vermeer,1668,,,oil_painting,,baroque,天体観測の一瞬を、柔らかな光と沈黙で包み込んだ。理性の探究が、手の動きと視線の集中として伝わる。,,
+work_dance_in_the_country,田舎のダンス,Dance in the Country,artist_pierre_auguste_renoir,1883,,,painting,impressionism,modern_19c,明るい屋外での踊りを軽やかに描き、幸福の感覚を色で押し出した。身振りの大きさが、余暇の解放感を伝える。,,
+work_electric_chair_warhol,電気椅子,Electric Chair,artist_andy_warhol,1967,,,printmaking,pop_art,modern_mid_20c,処刑装置の写真を反復し、死がメディアの図像になる怖さを示した。空白の多さが、逆に恐怖を増幅させる。,,
+work_the_slaughtered_ox,屠られた牛,The Slaughtered Ox,artist_rembrandt,1655,,,oil_painting,,baroque,肉の重さを直視し、静物を生と死の境界へ押し広げた。日常の素材が、宗教的な沈黙を帯びて迫ってくる。,,
+work_dance_in_the_city,都会のダンス,Dance in the City,artist_pierre_auguste_renoir,1883,,,painting,impressionism,modern_19c,黒い衣装の端正さが社交の緊張を作り、動きが上品に抑えられる。華やかさより、距離の感覚が漂う。,,
+work_the_slave_ship,奴隷船,The Slave Ship,artist_jmw_turner,1840,,,painting,romanticism,modern_19c,海の怒りと残虐の記憶を、燃えるような色彩で渦巻かせた作品。自然の美が倫理の痛みと衝突し、見る者の感情を引き裂く。,,
+work_adoration_of_the_magi_botticelli,東方三博士の礼拝,Adoration of the Magi,artist_sandro_botticelli,1475,,,painting,,renaissance,聖なる場面に同時代の人物像を重ね、信仰と社会の現実を接続した。群像の視線が中心へ収束し、祝祭と緊張が同居する。,,
+work_adoration_of_the_magi_rubens,東方三博士の礼拝（ルーベンス）,Adoration of the Magi,artist_peter_paul_rubens,1624,,,oil_painting,,baroque,光の中心へ群像を押し寄せさせ、崇拝の場を壮麗な劇として組み立てた。豪奢さの中に、人間の動きが生きている。,,
+work_adoration_of_the_magi,東方三博士の礼拝（レオナルド）,Adoration of the Magi,artist_leonardo_da_vinci,,1481,1482,painting,,renaissance,渦巻く群像の中に崇拝の中心を探らせ、未完のまま構想の熱を露わにした。動きの設計が、そのままドラマとして立ち上がる。,,
+work_the_stolen_kiss_fragonard,盗まれたキス,The Stolen Kiss,artist_jean_honore_fragonard,1787,,,oil_painting,,rococo,扉の隙間に緊張を残し、秘密の一瞬を甘さと危うさで描いた。軽い筆致が、心拍の速さに変わる。,,
+work_the_stolen_kiss_fragonard,盗まれた接吻,The Stolen Kiss|Le Baiser volé,artist_jean_honore_fragonard,,1786,1788,oil_painting,,rococo,背後の気配を恐れつつ交わされる一瞬の接吻を描き、物語の入口だけを示した。衣装の輝きが、秘密の甘さを増幅させる。,,
+work_la_tauromaquia,闘牛技,La Tauromaquia,artist_francisco_goya,1816,,,printmaking,romanticism,modern_19c,闘牛の危うさを版画で切り取り、祝祭と死の距離を露わにした。動きが鋭く、恐怖の一瞬が固定される。,,
+work_squares_with_concentric_circles,同心円のある正方形,Squares with Concentric Circles,artist_wassily_kandinsky,1913,,,painting,abstract_art,modern_early_20c,色の正方形に同心円を置き、色彩の響きを実験として提示した。形が単純なほど、色の振動が耳に届くように感じられる。,,
+work_buffoon_calabacillas,道化師カラバシーリャス,The Buffoon Calabacillas,artist_diego_velazquez,,1637,1639,oil_painting,,baroque,宮廷の周縁に生きる人物を丁寧に描き、表情に複雑な尊厳を残した。笑いの仮面が、むしろ痛い。,,
+work_the_reader_fragonard,読書する少女,The Reader|Jeune fille lisant,artist_jean_honore_fragonard,,1768,1770,oil_painting,,rococo,静かな読書の姿を、素早い筆致で瑞々しく捉えた。内面へ沈む時間が、装飾的な世界の中でふっと止まり、親密さが際立つ。,,
+work_the_swineherd_gauguin,豚飼い,The Swineherd|Le Porcher,artist_paul_gauguin,1888,,,painting,post_impressionism,modern_19c,素朴な労働の場面を象徴的に簡略化し、現実を神話へ寄せた。輪郭線と平面色が、物語を古い伝承のように見せる。,,
+work_the_billet_doux_fragonard,内緒の手紙,The Billet Doux|The Love Note,artist_jean_honore_fragonard,,1770,1773,oil_painting,,rococo,小さな紙片に感情が凝縮される瞬間を、視線のやり取りとして描いた。秘密の軽さが、逆に緊張を生む。,,
+work_the_shipwreck_turner,難破船,The Shipwreck,artist_jmw_turner,1805,,,painting,romanticism,modern_19c,荒海の中で人間の小ささを示し、自然の暴力を絵具のうねりとして描いた。視線が定まらず、恐怖が体験になる。,,
+work_two_tahitian_women,二人のタヒチの女,Two Tahitian Women,artist_paul_gauguin,1899,,,painting,post_impressionism,modern_19c,静かな表情と装飾的な色面で、異文化を夢の距離で描いた。親密さより隔たりが強く、視線の謎が残る。,,
+work_two_sisters_renoir,二人の姉妹,Two Sisters|On the Terrace|Les Deux Sœurs,artist_pierre_auguste_renoir,1881,,,painting,impressionism,modern_19c,花と衣装の色が響き合い、人物の存在感が光の中でふくらむ。肖像と季節感が自然に結びついた、幸福な印象派の一枚。,,
+work_landscape_with_a_rainbow_rubens,虹のある風景,Landscape with a Rainbow,artist_peter_paul_rubens,,1636,1640,oil_painting,,baroque,雨上がりの光を祝福のように描き、自然を豊穣の象徴として示した。風景が呼吸し、空気の甘さが漂う。,,
+work_the_parasol_goya,日傘,The Parasol|El Quitasol,artist_francisco_goya,1777,,,oil_painting,romanticism,modern_19c,明るい戸外の場面を軽やかに描きながら、階層や視線の関係が微妙に滲む。幸福そうな空気に、わずかな緊張が混ざる。,,
+work_japanese_bridge_monet,日本の橋,Japanese Bridge|The Japanese Footbridge,artist_claude_monet,,1899,1900,painting,impressionism,modern_19c,池と橋と植物が一体化し、色の重なりで視点が漂う。自然が庭という枠を超え、光の迷宮になる。,,
+work_nihonbashi_morning_view,日本橋朝之景,Nihonbashi Morning View|Nihonbashi asa no kei,artist_utagawa_hiroshige,1856,,,printmaking,ukiyo_e,modern_19c,江戸の一日の始まりを、光と人の流れで軽やかに捉えた。橋を中心に都市のリズムが整い、生活の動線がそのまま美になる。,,
+work_the_kermesse,農民の祭り,The Kermesse,artist_peter_paul_rubens,,1635,1638,oil_painting,,baroque,踊りと酒宴の渦で、身体の歓喜を画面いっぱいに広げた。祝祭の熱が人間の生命力として噴き出す。,,
+work_on_white_ii,白の上のII,On White II,artist_wassily_kandinsky,1923,,,painting,abstract_art,modern_early_20c,白い余白を舞台に、色と線が浮遊するように配置された抽象。静けさと緊張が同居し、見る行為が空間の読み解きになる。,,
+work_swan_reflecting_elephants,白鳥の反映は象,Swans Reflecting Elephants,artist_salvador_dali,1937,,,painting,surrealism,modern_mid_20c,湖面の反射が別の像へ変形し、視覚の不確かさを遊戯として提示した。二重像が見る者の認識を揺さぶり、現実がパズルになる。,,
+work_lady_with_an_ermine,白貂を抱く貴婦人,Lady with an Ermine|Dama con l’ermellino,artist_leonardo_da_vinci,1489,,,oil_painting,,renaissance,首のひねりと視線の方向が、人物の内面を動きとして伝える肖像。光の扱いが肌と毛皮を際立たせ、気配そのものが画面に宿る。,,
+work_rebellious_slave,反抗する奴隷,Rebellious Slave,artist_michelangelo_buonarroti,,1513,1516,sculpture,,renaissance,束縛から逃れようとする力が、筋肉の突っ張りとして露わになる。止まったはずの彫刻が、いま動く寸前に見える。,,
+work_sick_bacchus_caravaggio,病めるバッカス,Sick Bacchus,artist_caravaggio,,1593,1594,oil_painting,,baroque,神話の顔に病の青さを混ぜ、快楽の脆さを露わにした。果物の傷みが、身体の不安と響き合う。,,
+work_tahitian_women_on_the_beach,浜辺のタヒチの女たち,Tahitian Women on the Beach,artist_paul_gauguin,1891,,,painting,post_impressionism,modern_19c,二人の女性を静かな輪郭でまとめ、言葉にならない時間を画面に沈めた。装飾的な色面が、夢のような距離感を作り出す。,,
+work_dying_slave,瀕死の奴隷,Dying Slave,artist_michelangelo_buonarroti,,1513,1516,sculpture,,renaissance,ねじれる身体に眠りと死の境界を刻み、抵抗の気配を静かな美として残した。緊張が解ける直前の呼吸が石に宿る。,,
+work_still_life_with_drapery_cezanne,布と静物,Still Life with Drapery,artist_paul_cezanne,,1895,1896,painting,post_impressionism,modern_19c,皿や果物と布の折れを構造として組み、静物を空間の問題へ変えた。物が重く、配置が思考になる。,,
+work_the_dance_class,舞踊教室,The Dance Class,artist_edgar_degas,1874,,,painting,impressionism,modern_19c,稽古場の疲労と集中を切り取り、舞台の裏側を現実の時間として示した。中心がずれる構図が、場の空気を生む。,,
+work_peace_burial_at_sea,平和 海上の埋葬,Peace - Burial at Sea,artist_jmw_turner,1842,,,painting,romanticism,modern_19c,黒い夜と淡い光で弔いを描き、静けさが深い痛みに変わる。海が広いほど、人の喪失が小さく鋭い。,,
+work_transfiguration_raphael,変容,The Transfiguration|Trasfigurazione,artist_raphael,,1516,1520,painting,,renaissance,光に包まれる上段と、苦悩の渦巻く下段を対比させた晩年作。救済と混乱が同居し、盛期ルネサンスの調和が揺らぐ瞬間を示す。,,
+work_self_portrait_with_bandaged_ear,包帯をした自画像,Self-Portrait with Bandaged Ear,artist_vincent_van_gogh,1889,,,painting,post_impressionism,modern_19c,事件の直後の自分を冷静に描き、揺れる精神を色と線で抑え込んだ。背景の版画や外套が、孤独を静かに強める。,,
+work_return_of_the_prodigal_son,放蕩息子の帰還,The Return of the Prodigal Son,artist_rembrandt,,1668,1669,oil_painting,,baroque,許しの場面を、最小限の光で静かに照らし出した晩年作。父の手の温度と沈黙が、劇よりも深い救済の感触を伝える。,,
+work_st_francis_in_ecstasy,法悦の聖フランチェスコ,St. Francis in Ecstasy,artist_caravaggio,1595,,,oil_painting,,baroque,天使に支えられる身体の重さが、神秘を現実の接触に変える。闇が深いほど、温度のある救済が見える。,,
+work_dream_caused_by_flight_of_a_bee,蜂の周りを飛ぶ夢が目覚めの1秒前に引き起こした夢,Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening,artist_salvador_dali,1944,,,painting,surrealism,modern_mid_20c,眠りの中の飛躍を、鋭いイメージの連鎖として可視化した。静止した裸体の周囲で現実が裂け、夢の時間が圧縮される。,,
+work_woman_with_a_hat,帽子の女,Woman with a Hat|Femme au chapeau,artist_henri_matisse,1905,,,painting,fauvism,modern_early_20c,色そのものを主役にして人物を組み立て、肖像画の常識を塗り替えた。大胆な色面が感情の速度を伝え、見ることが刺激になる。,,
+work_at_the_milliners,帽子屋にて,At the Milliner's,artist_edgar_degas,1882,,,painting,impressionism,modern_19c,装いの場面を近距離で描き、都市の消費と視線の関係を浮かび上がらせた。色と布の質感が、会話の代わりになる。,,
+work_madonna_of_the_meadow,牧場の聖母,Madonna of the Meadow|Madonna del Prato,artist_raphael,1506,,,painting,,renaissance,三角形の安定した構図に、母子の優しさと予兆を織り込んだ。自然の風景が人物の感情を支え、理想化が生身の温度を帯びる。,,
+work_witches_sabbath_goya,魔女の集会,Witches’ Sabbath|Aquelarre,artist_francisco_goya,,1820,1823,painting,romanticism,modern_19c,闇の儀式を荒い筆致で描き、迷信が人間を飲み込む怖さを露出させた。笑いと恐怖が同居し、視線の逃げ場がない。,,
+work_witches_flight_goya,魔女の飛翔,Witches' Flight|Vuelo de brujas,artist_francisco_goya,,1797,1798,painting,romanticism,modern_19c,闇夜の異様な出来事を描き、迷信と恐怖が人を支配する構図を露出させた。笑いに似た気配が、逆に寒い。,,
+work_witches_sabbath_goya,魔女の夜宴,Witches' Sabbath,artist_francisco_goya,,1797,1798,painting,romanticism,modern_19c,迷信と恐怖が共同体を飲み込む場面を、闇の寓話として描いた。滑稽さが混じるほど、怖さが増す。,,
+work_infinity_nets_kusama,無限の網,Infinity Nets,artist_yayoi_kusama,,1959,1961,painting,contemporary_art,contemporary,小さな反復の筆致で画面を覆い、視覚を終わりのない揺れへ連れていく。単調さが強度になり、見るほどに空間が崩れる。,,
+work_narumi_arimatsu_tie_dyed,鳴海 名物有松絞,Narumi: Famous Arimatsu Tie-dyed,artist_utagawa_hiroshige,,1833,1834,printmaking,ukiyo_e,modern_19c,旅の道中に名物を重ね、土地の個性を視覚の記憶として定着させた。人物の動きが軽く、街道の気配が広がる。,,
+work_mao_warhol,毛沢東,Mao,artist_andy_warhol,1972,,,printmaking,pop_art,modern_mid_20c,政治的肖像をポップな色で増殖させ、権力のイメージを商品化した。プロパガンダと広告の距離が縮み、像の力だけが残る。,,
+work_helene_fourment_in_fur_wrap,毛皮をまとうヘレーネ・フールマン,Het Pelsken|Helene Fourment in a Fur Wrap,artist_peter_paul_rubens,1636,,,oil_painting,,baroque,柔らかな肌と毛皮の対比で、親密な視線を露わにした。華美ではなく温度があり、肖像が愛情の記録になる。,,
+work_four_horsemen_of_the_apocalypse,黙示録の四騎士,Four Horsemen of the Apocalypse,artist_albrecht_durer,1498,,,printmaking,,renaissance,死と破壊が雪崩のように迫る場面を、奔流の線で刻んだ木版画。物語の恐怖が、速度と密度として視覚化されている。,,
+work_blind_mans_bluff,目隠し鬼,Blind Man's Bluff,artist_jean_honore_fragonard,,1759,1760,oil_painting,,rococo,遊戯の軽さが画面全体を跳ねさせ、笑いがそのまま構図になる。明るいのに、どこか危うい。,,
+work_the_night_cafe,夜のカフェ,The Night Café,artist_vincent_van_gogh,1888,,,painting,post_impressionism,modern_19c,赤と緑の衝突で空間を不安にし、夜の孤独を温度として描いた。眩しいのに居心地が悪く、眠れない光が残る。,,
+work_cafe_terrace_at_night,夜のカフェテラス,Café Terrace at Night,artist_vincent_van_gogh,1888,,,painting,post_impressionism,modern_19c,夜を黒で塗らず、黄色と青の対比で街の熱と空気を描いた。人工の光が星空と競り合い、夜の感覚が色として響く。,,
+work_the_night_watch,夜警,The Night Watch|De Nachtwacht,artist_rembrandt,1642,,,oil_painting,,baroque,民兵隊の行進を、光と影の演出で劇的な瞬間に変えた大作。群像が動きながら立ち上がり、肖像画の枠を超える物語性を獲得した。,,
+work_young_hare,野うさぎ,Young Hare,artist_albrecht_durer,1502,,,watercolor,,renaissance,毛並みの一本一本まで観察に基づき描いた水彩素描。自然への眼差しが科学的でありながら、生命の柔らかさがそのまま残る。,,
+work_massacre_of_the_innocents_rubens,幼児虐殺,Massacre of the Innocents,artist_peter_paul_rubens,,1611,1612,oil_painting,,baroque,暴力と抵抗が絡み合う群像で、恐怖の混沌を圧縮した。人体のねじれが感情の渦となり、画面が叫びのように迫ってくる。,,
+work_the_star_degas,踊り子,The Star|L'Étoile,artist_edgar_degas,1878,,,painting,impressionism,modern_19c,スポットライトの瞬間を鋭く切り取り、華やぎの裏の緊張を残した。舞台袖の気配が、成功の孤独を匂わせる。,,
+work_dancer_adjusting_her_slipper,踊り子（靴を直す）,Dancer Adjusting Her Slipper,artist_edgar_degas,,1885,1885,painting,,modern_19c,屈む一瞬を切り取り、見せる身体と疲れた身体が重なる。親密なのに距離があり、覗く視線が意識される。,,
+work_after_the_bath_degas,浴後,After the Bath,artist_edgar_degas,,1890,1895,painting,,modern_19c,身体を拭う動作を切り取って、私的な時間の生々しさを示した。理想化のない姿が、逆に強い親密さを生む。,,
+work_the_naked_maja,裸のマハ,The Naked Maja|La maja desnuda,artist_francisco_goya,,1797,1800,oil_painting,romanticism,modern_19c,理想化よりも現実の肉体を前面に出し、視線の挑発で鑑賞者を試す裸婦像。社会の規範と欲望の境界を、絵画の中で露わにする。,,
+work_old_woman_frying_eggs,卵を焼く老女,Old Woman Frying Eggs,artist_diego_velazquez,1618,,,oil_painting,,baroque,台所の道具と食材を精密に描き、日常を静物の緊張へ高めた。光が手元を照らし、生活の技が美になる。,,
+work_sleep_of_reason_produces_monsters,理性の眠りは怪物を生む,The Sleep of Reason Produces Monsters,artist_francisco_goya,1799,,,printmaking,romanticism,modern_19c,理性が沈むと悪夢が湧くという警句を、鋭い版の陰影で示した。社会批評が、恐怖の寓意として突き刺さる。,,
+work_sleep_of_reason_produces_monsters,理性の眠りは怪物を生む,The Sleep of Reason Produces Monsters,artist_francisco_goya,1799,,,printmaking,romanticism,modern_19c,眠りに落ちた理性の背後で怪物が湧き、恐怖が内側から生まれることを示す。寓意なのに生々しく、背中が冷える。,,
+work_fireworks_at_ryogoku_bridge,両国花火,Ryōgoku Fireworks,artist_utagawa_hiroshige,,1858,1858,printmaking,ukiyo_e,modern_19c,夜空の花火と川面の反射で、江戸の夏の熱を一瞬に凝縮した。暗闇の中の光が、群衆の気配を浮かび上がらせる。,,
+work_the_meeting_progress_of_love,恋の成就（出会い）,The Meeting|Progress of Love,artist_jean_honore_fragonard,,1771,1772,oil_painting,,rococo,庭園での再会を軽やかな身振りで描き、恋を舞台の出来事として見せた。装飾の渦が、感情を加速させる。,,
+work_the_fountain_of_love_fragonard,恋の泉,The Fountain of Love,artist_jean_honore_fragonard,,1785,1788,oil_painting,,rococo,庭園の装飾性を舞台に、恋の高揚を流れる水のように描いた。光が散り、物語が香りとして広がる。,,
+work_the_pursuit_progress_of_love,恋の追跡,The Pursuit|Progress of Love,artist_jean_honore_fragonard,,1771,1773,oil_painting,,rococo,追いかける動きが画面を走り、恋の熱が身体の距離として表れる。軽さが濃密で、視線が止まらない。,,
+work_the_lover_crowned_fragonard,恋人の戴冠,The Lover Crowned|Le Couronnement de l’amant,artist_jean_honore_fragonard,1771,,,oil_painting,,rococo,恋の勝利を祝う場面を、花と身振りの連鎖で軽やかに構成した。祝祭の裏に、演技めいた甘さが覗く。,,
+work_the_love_letter_vermeer,恋文,The Love Letter,artist_johannes_vermeer,1669,,,oil_painting,,baroque,開いた扉の奥に私的な場面を覗かせ、見る者を盗み見の位置へ置いた。小道具が物語を暗示し、静けさが濃密になる。,,
+work_love_letter_fragonard,恋文,The Love Letter,artist_jean_honore_fragonard,,1770,1772,oil_painting,,rococo,手紙がもたらす期待を、頬の赤みと身振りの軽さで表した。ロココの甘さの中に、焦りの時間が潜む。,,
+work_the_old_guitarist,老いたギター弾き,The Old Guitarist,artist_pablo_picasso,,1903,1904,painting,,modern_early_20c,青の色調に沈む痩せた身体が、貧困と孤独を静かに語る。形の歪みが痛みを強め、初期の内省が濃く刻まれている。,,
+work_duel_with_cudgels,棍棒での決闘,Duel with Cudgels|Duelo a garrotazos,artist_francisco_goya,,1819,1823,painting,romanticism,modern_19c,泥に足を取られながら殴り合う二人で、暴力の不毛さを凝縮した。勝敗より、抜け出せない状況そのものが悲劇になる。,,
+work_christ_crucified_velazquez,磔刑のキリスト,Christ Crucified,artist_diego_velazquez,1632,,,oil_painting,,baroque,装飾を抑え、静かな暗闇の中で身体の重さだけを際立たせた。悲劇が大声ではなく沈黙として迫る。,,
+work_the_bolt_fragonard,閂（かんぬき）,The Bolt|Le Verrou,artist_jean_honore_fragonard,,1777,1778,oil_painting,,rococo,扉を閉める動作に緊迫した官能を凝縮した室内画。明暗の対比が感情を煽り、甘さだけではないロココの陰影が立ち上がる。,,

@@ -1,243 +1,334 @@
-id,name,aliases,tags,blurb,era,region
-artist_giotto,ジョット,Giotto di Bondone|Giotto,フレスコ|宗教画|空間表現,写実的な人体と空間で中世絵画を転換した,前期ルネサンス,イタリア
-artist_leonardo,レオナルド・ダ・ヴィンチ,Leonardo da Vinci,盛期ルネサンス|スフマート|肖像,観察と理論で描写を刷新し肖像表現を革新した,盛期ルネサンス,イタリア
-artist_michelangelo,ミケランジェロ,Michelangelo|Michelangelo Buonarroti,盛期ルネサンス|フレスコ|彫刻,彫刻的な人体表現で信仰と肉体を壮大に描いた,盛期ルネサンス,イタリア
-artist_raphael,ラファエロ,Raphael|Raffaello Sanzio,盛期ルネサンス|調和|宗教画,均整の取れた構図と澄んだ色彩で理想美を定式化した,盛期ルネサンス,イタリア
-artist_botticelli,ボッティチェリ,Sandro Botticelli,前期ルネサンス|神話画|線描,優雅な線と寓意で神話と宗教を詩的に結びつけた,前期ルネサンス,イタリア
-artist_titian,ティツィアーノ,Titian|Tiziano Vecellio,ヴェネツィア派|色彩|肖像,厚い色層と光で官能と威厳を両立させた,ルネサンス,イタリア
-artist_veronese,ヴェロネーゼ,Paolo Veronese,ヴェネツィア派|祝祭|大画面,豪華な宴の構図で宗教画に世俗の華やかさを入れた,マニエリスム,イタリア
-artist_tintoretto,ティントレット,Tintoretto|Jacopo Tintoretto,ヴェネツィア派|劇的構図|明暗,急角度の遠近と強い明暗で物語を劇場化した,マニエリスム,イタリア
-artist_el_greco,エル・グレコ,El Greco|Domenikos Theotokopoulos,マニエリスム|霊性|伸長表現,伸びた人体と異様な光で宗教的恍惚を表した,マニエリスム,スペイン
-artist_caravaggio,カラヴァッジョ,Caravaggio|Michelangelo Merisi,バロック|明暗|写実,極端な明暗で聖なる場面を現実へ引き寄せた,バロック,イタリア
-artist_artemisia_gentileschi,アルテミジア・ジェンティレスキ,Artemisia Gentileschi,バロック|女性画家|物語画,力強い女性像と緊張構図で物語画を更新した,バロック,イタリア
-artist_rubens,ルーベンス,Peter Paul Rubens,バロック|動勢|神話画,渦巻く運動感と肉感で壮麗な神話世界を描いた,バロック,フランドル
-artist_van_dyck,ヴァン・ダイク,Anthony van Dyck,バロック|肖像|宮廷,洗練された姿勢と衣装描写で宮廷肖像の型を作った,バロック,フランドル
-artist_velazquez,ベラスケス,Diego Velázquez|Diego Velazquez,バロック|写実|宮廷,空気を含む筆致で権力と日常の距離を描いた,バロック,スペイン
-artist_rembrandt,レンブラント,Rembrandt|Rembrandt van Rijn,バロック|光|自画像,内面を照らす光と厚い絵肌で存在感を掘り下げた,バロック,オランダ
-artist_vermeer,フェルメール,Johannes Vermeer,オランダ黄金時代|室内画|光,室内に差す光で静かな時間の密度を描いた,バロック,オランダ
-artist_frans_hals,フランス・ハルス,Frans Hals,オランダ黄金時代|肖像|筆致,速い筆致で生きた表情を捉え集団肖像を活性化した,バロック,オランダ
-artist_poussin,プッサン,Nicolas Poussin,古典主義|構成|歴史画,理性的構図で物語を秩序立て古典的絵画観を確立した,バロック,フランス
-artist_claude_lorrain,クロード・ロラン,Claude Lorrain,古典主義|風景画|光,理想化された光と遠景構成で風景画の基礎を固めた,バロック,フランス
-artist_watteau,ワトー,Antoine Watteau,ロココ|雅宴画|抒情,優雅な社交の場を淡い色調で夢のように描いた,ロココ,フランス
-artist_boucher,ブーシェ,François Boucher|Francois Boucher,ロココ|官能|装飾,柔らかな肌と装飾性で宮廷文化の甘美さを象徴した,ロココ,フランス
-artist_fragonard,フラゴナール,Jean-Honoré Fragonard|Jean-Honore Fragonard,ロココ|軽快|恋愛寓意,軽やかな筆致と遊戯的主題でロココの頂点を示した,ロココ,フランス
-artist_hogarth,ホガース,William Hogarth,風刺|版画|連作,連作で社会の矛盾を物語化し批評精神を示した,18世紀,イギリス
-artist_goya,ゴヤ,Francisco Goya,ロマン主義|社会批評|暗い幻想,戦争と狂気を直視し近代の不安を露わにした,ロマン主義,スペイン
-artist_jacques_louis_david,ジャック＝ルイ・ダヴィッド,Jacques-Louis David|Jacques Louis David,新古典主義|革命|歴史画,古代の厳格さで革命の倫理と政治を造形化した,新古典主義,フランス
-artist_ingres,アングル,Jean-Auguste-Dominique Ingres|Ingres,新古典主義|線描|肖像,精密な線と理想化で古典と近代の緊張を作った,新古典主義,フランス
-artist_delacroix,ドラクロワ,Eugène Delacroix|Eugene Delacroix,ロマン主義|色彩|動勢,燃える色彩と動きで歴史と異国情緒を描いた,ロマン主義,フランス
-artist_turner,ターナー,J.M.W. Turner|Turner,ロマン主義|光|海景,霧と光の渦で自然のエネルギーを抽象化した,ロマン主義,イギリス
-artist_constable,コンスタブル,John Constable,風景画|自然観察|田園,雲と湿度まで観察し現実の田園を重みで描いた,ロマン主義,イギリス
-artist_courbet,クールベ,Gustave Courbet,写実主義|社会|厚塗り,労働と日常を大画面に持ち込み主題を更新した,写実主義,フランス
-artist_millet,ミレー,Jean-François Millet|Jean-Francois Millet,バルビゾン派|農民|敬虔,農村の労働を静かな尊厳として描いた,写実主義,フランス
-artist_corot,コロー,Jean-Baptiste-Camille Corot|Corot,バルビゾン派|風景|トーン,柔らかな空気と銀灰色の調子で橋渡しをした,19世紀,フランス
-artist_daumier,ドーミエ,Honoré Daumier|Honore Daumier,風刺|社会|版画,鋭い観察で政治と市民生活を描いた,19世紀,フランス
-artist_manet,マネ,Édouard Manet|Edouard Manet|Manet,近代絵画|都市|平面性,古典引用と大胆な省略で近代絵画の扉を開いた,近代,フランス
-artist_monet,モネ,Claude Monet,印象派|連作|光,光の移ろいを連作で追い視覚体験へ変えた,印象派,フランス
-artist_renoir,ルノワール,Pierre-Auguste Renoir|Auguste Renoir,印象派|人物|温かい色,肌の光と社交の喜びを温かな色調で描いた,印象派,フランス
-artist_degas,ドガ,Edgar Degas,印象派|踊り子|構図,切り取る構図で都市の動作と視線を捉えた,印象派,フランス
-artist_pissarro,ピサロ,Camille Pissarro,印象派|田園|都市風景,田園と近代都市を穏やかな筆致で描き続けた,印象派,フランス
-artist_sisley,シスレー,Alfred Sisley,印象派|風景|水辺,空と水の反射を中心に静かな風景を描いた,印象派,フランス
-artist_cezanne,セザンヌ,Paul Cézanne|Paul Cezanne,ポスト印象派|構造|静物,自然を形の骨格として捉え近代の基礎を作った,ポスト印象派,フランス
-artist_van_gogh,フィンセント・ファン・ゴッホ,Vincent van Gogh|Van Gogh,ポスト印象派|筆触|色彩,うねる筆致と強い色で感情を画面に刻んだ,ポスト印象派,オランダ
-artist_gauguin,ゴーギャン,Paul Gauguin,ポスト印象派|象徴|平面,色面と象徴性で理想郷のイメージを作った,ポスト印象派,フランス
-artist_seurat,スーラ,Georges Seurat,新印象派|点描|理論,点描で視覚混合の効果を理論的に追求した,新印象派,フランス
-artist_toulouse_lautrec,トゥールーズ＝ロートレック,Henri de Toulouse-Lautrec|Toulouse-Lautrec,ポスター|夜の街|線,夜の街を鋭い線と平面で捉えポスター芸術を高めた,19世紀末,フランス
-artist_rodin,ロダン,Auguste Rodin,彫刻|近代|表面,荒い表面と未完性で感情と運動を刻んだ,近代,フランス
-artist_klimt,クリムト,Gustav Klimt,象徴主義|装飾|金,装飾と官能で世紀末ウィーンを象徴した,世紀末,オーストリア
-artist_schiele,エゴン・シーレ,Egon Schiele,表現主義|線|身体,切迫した線と歪む身体で内面の不安を露わにした,表現主義,オーストリア
-artist_munch,ムンク,Edvard Munch,表現主義|不安|色,強い色と簡潔形で生と死の不安を反復した,表現主義,ノルウェー
-artist_hilma_af_klint,ヒルマ・アフ・クリント,Hilma af Klint,抽象|神秘主義|先駆,霊性の体系を抽象形態へ翻訳し先駆的作品を残した,近代,スウェーデン
-artist_picasso,ピカソ,Pablo Picasso,キュビスム|多様式|20世紀,形の分解と再構成で視点を複数化し表現を更新した,20世紀,スペイン
-artist_braque,ブラック,Georges Braque,キュビスム|コラージュ|静物,素材と空間を再定義しキュビスムの言語を固めた,20世紀,フランス
-artist_matisse,マティス,Henri Matisse,フォーヴィスム|色彩|室内,解放された色彩で室内と人物を明快に構成した,20世紀,フランス
-artist_kandinsky,カンディンスキー,Wassily Kandinsky,抽象|構成|理論,色と形の響きを理論化し抽象絵画を推進した,20世紀,ロシア
-artist_klee,パウル・クレー,Paul Klee,バウハウス|線|詩性,遊ぶ線と色で思考と詩を可視化した,20世紀,スイス
-artist_mondrian,モンドリアン,Piet Mondrian,デ・ステイル|幾何学|抽象,垂直水平と原色へ還元し普遍的秩序を追った,20世紀,オランダ
-artist_malevich,マレーヴィチ,Kazimir Malevich,シュプレマティスム|無対象|幾何学,無対象の形態で絵画の限界を押し広げた,前衛,ロシア
-artist_tatlin,タトリン,Vladimir Tatlin,構成主義|素材|立体,工業素材と構造で芸術を技術と社会へ接続した,前衛,ロシア
-artist_duchamp,デュシャン,Marcel Duchamp,ダダ|レディメイド|概念,既製品を作品化し芸術の定義を揺さぶった,ダダ,フランス
-artist_dali,ダリ,Salvador Dalí|Salvador Dali,シュルレアリスム|夢|細密,夢の論理を精緻な写実で描き無意識を舞台化した,シュルレアリスム,スペイン
-artist_magritte,ルネ・マグリット,René Magritte|Rene Magritte,シュルレアリスム|言語|逆説,日常物をずらしイメージと言葉の関係を問うた,シュルレアリスム,ベルギー
-artist_miro,ミロ,Joan Miró|Joan Miro,記号|色面|詩,記号的形態と色面で遊びと宇宙感覚を描いた,20世紀,スペイン
-artist_chagall,シャガール,Marc Chagall,詩的|色彩|民俗,記憶と神話を浮遊する人物で鮮やかに描いた,20世紀,ベラルーシ
-artist_kahlo,フリーダ・カーロ,Frida Kahlo,自画像|象徴|身体,痛みと自己を神話的な自画像として描いた,20世紀,メキシコ
-artist_diego_rivera,ディエゴ・リベラ,Diego Rivera,壁画|社会|歴史,公共壁画で歴史と労働者の物語を描いた,20世紀,メキシコ
-artist_okeeffe,ジョージア・オキーフ,Georgia O'Keeffe|Georgia OKeeffe,モダニズム|花|拡大,花や骨を拡大し形態の抽象性を強調した,20世紀,アメリカ
-artist_hopper,エドワード・ホッパー,Edward Hopper,写実|都市|孤独,静かな都市に孤独と間を置く時間を描いた,20世紀,アメリカ
-artist_pollock,ジャクソン・ポロック,Jackson Pollock,抽象表現主義|ドリッピング|身体性,絵具の滴りで身体運動そのものを画面に刻んだ,抽象表現主義,アメリカ
-artist_rothko,マーク・ロスコ,Mark Rothko,色面|抽象|瞑想,大きな色面の層で沈黙の空間を作った,抽象表現主義,アメリカ
-artist_de_kooning,ウィレム・デ・クーニング,Willem de Kooning,抽象表現主義|筆触|人物,荒い筆触で抽象と人物像を往復し緊張を保った,抽象表現主義,アメリカ
-artist_warhol,アンディ・ウォーホル,Andy Warhol,ポップアート|反復|メディア,反復と量産で消費社会のイメージを作品化した,ポップアート,アメリカ
-artist_basquiat,ジャン＝ミシェル・バスキア,Jean-Michel Basquiat|Basquiat,新表現主義|文字|ストリート,文字と記号で権力と歴史を衝突させた,現代,アメリカ
-artist_haring,キース・ヘリング,Keith Haring,ストリート|記号|社会,単純な記号で社会的メッセージを街へ拡散した,現代,アメリカ
-artist_louise_bourgeois,ルイーズ・ブルジョワ,Louise Bourgeois,彫刻|記憶|感情,家族と記憶の感情を彫刻と空間へ昇華した,現代,フランス
-artist_bacon,フランシス・ベーコン,Francis Bacon,具象|歪み|存在,歪んだ肉体像で暴力と不安を露骨に描いた,20世紀,イギリス
-artist_hockney,デイヴィッド・ホックニー,David Hockney,現代|色彩|視点,鮮やかな色と複数視点で日常空間を再構成した,現代,イギリス
-artist_morandi,モランディ,Giorgio Morandi,静物|反復|トーン,瓶と器の距離と灰色の調子で時間を沈殿させた,20世紀,イタリア
-artist_brancusi,ブランクーシ,Constantin Brâncuși|Constantin Brancusi,彫刻|簡素化|抽象,形を極限まで単純化し本質の輪郭を彫刻化した,近代,ルーマニア
-artist_giacometti,ジャコメッティ,Alberto Giacometti,彫刻|実存|細長い,細長い人体像で実存的距離と空間の重さを表した,20世紀,スイス
-artist_lempicka,タマラ・ド・レンピッカ,Tamara de Lempicka,アールデコ|肖像|モダン,硬質な光沢表現で都会的肖像を描いた,アールデコ,ポーランド
-artist_sonia_delaunay,ソニア・ドローネー,Sonia Delaunay,抽象|色彩|デザイン,色彩のリズムを絵画とテキスタイルへ展開した,20世紀,フランス
-artist_jan_van_eyck,ヤン・ファン・エイク,Jan van Eyck,初期フランドル派|油彩|細密,油彩の可能性を広げ質感描写を極めた,北方ルネサンス,フランドル
-artist_bosch,ヒエロニムス・ボス,Hieronymus Bosch,北方ルネサンス|幻想|寓意,怪奇な想像力で罪と救済の寓意世界を描いた,北方ルネサンス,ネーデルラント
-artist_bruegel_elder,ピーテル・ブリューゲル,Pieter Bruegel the Elder|Bruegel,北方ルネサンス|風俗画|風景,農民の生活と季節の循環を大きな視野で描いた,北方ルネサンス,フランドル
-artist_durer,アルブレヒト・デューラー,Albrecht Dürer|Albrecht Duerer|Durer,北方ルネサンス|版画|理論,版画と理論で写実を高め人体比例も研究した,北方ルネサンス,ドイツ
-artist_holbein,ハンス・ホルバイン,Hans Holbein the Younger|Holbein,北方ルネサンス|肖像|宮廷,緻密な描写で宗教改革期の人物像を記録的に描いた,北方ルネサンス,ドイツ
-artist_fra_angelico,フラ・アンジェリコ,Fra Angelico,初期ルネサンス|宗教画|清澄,透明な色と静けさで敬虔な世界を描いた,前期ルネサンス,イタリア
-artist_masaccio,マザッチョ,Masaccio,初期ルネサンス|遠近|人体,重さのある人体と統一遠近で近代的空間を確立した,前期ルネサンス,イタリア
-artist_donatello,ドナテッロ,Donatello,彫刻|古典復興|写実,古典復興の精神で表情豊かな写実彫刻を生み出した,前期ルネサンス,イタリア
-artist_bernini,ベルニーニ,Gian Lorenzo Bernini|Bernini,バロック|彫刻|劇場性,激しい動きと光の効果で宗教体験を劇場化した,バロック,イタリア
-artist_william_blake,ウィリアム・ブレイク,William Blake|Blake,ロマン主義|幻視|詩と版画,詩と版画を融合し幻視的世界を独自の神話で描いた,ロマン主義,イギリス
-artist_sargent,ジョン・シンガー・サージェント,John Singer Sargent|Sargent,肖像|印象派的筆致|上流社会,流麗な筆致で上流社会の人物像を鮮やかに描いた,19世紀末,アメリカ
-artist_vigee_le_brun,ヴィジェ＝ルブラン,Élisabeth Vigée Le Brun|Elisabeth Vigee Le Brun|Vigee Le Brun,肖像|宮廷|女性画家,柔らかな表情と華やかさで宮廷肖像を描いた,18世紀,フランス
-artist_berthe_morisot,ベルト・モリゾ,Berthe Morisot|Morisot,印象派|女性画家|室内,軽い筆致で家庭の瞬間を透明に切り取った,印象派,フランス
-artist_mary_cassatt,メアリー・カサット,Mary Cassatt|Cassatt,印象派|母子|版画,親密な母子像と版画表現で近代生活の視線を示した,印象派,アメリカ
-artist_hokusai,葛飾北斎,Katsushika Hokusai|Hokusai,浮世絵|風景|波,大胆な構図と線で自然と都市の活力を描いた,江戸,日本
-artist_hiroshige,歌川広重,Utagawa Hiroshige|Hiroshige,浮世絵|街道|雨雪,叙情的な色面で旅と季節の空気を描いた,江戸,日本
-artist_utamaro,喜多川歌麿,Kitagawa Utamaro|Utamaro,浮世絵|美人画|繊細,女性の表情と仕草を繊細に捉え美人画を洗練した,江戸,日本
-artist_sesshu,雪舟等楊,Sesshū Tōyō|Sesshu Toyo|Sesshu,水墨画|山水|禅,鋭い筆勢の水墨山水で緊張感ある空間を作った,室町,日本
-artist_korin,尾形光琳,Ogata Kōrin|Ogata Korin|Korin,琳派|装飾|屏風,大胆な図案化と金地で自然をデザインへ昇華した,江戸,日本
-artist_jakuchu,伊藤若冲,Itō Jakuchū|Ito Jakuchu|Jakuchu,江戸絵画|細密|動植物,細密描写と鮮烈な色で生命感を極めた,江戸,日本
-artist_ad_reinhardt,アド・ラインハート,Ad Reinhardt,抽象|ミニマル|モノクロ,黒の抽象画を徹底し、絵画を極限まで還元する方向を示した,ミニマル前夜,アメリカ
-artist_andrew_wyeth,アンドリュー・ワイエス,Andrew Wyeth,写実|テンペラ|アメリカンリアリズム,乾いた光と静謐さで農村の記憶や不在の気配を描いた,20世紀,アメリカ
-artist_calder,アレクサンダー・カルダー,Alexander Calder,彫刻|モビール|抽象,モビールで彫刻に運動と偶然性を導入し空間芸術を刷新した,モダニズム,アメリカ
-artist_caspar_david_friedrich,カスパー・ダーヴィト・フリードリヒ,Caspar David Friedrich,ロマン主義|風景|崇高,自然の広がりに人の内面を重ね、孤独と崇高を象徴的に描いた,ロマン主義,ドイツ
-artist_damien_hirst,ダミアン・ハースト,Damien Hirst,現代美術|YBA|生と死,標本や反復イメージで生と死、信仰と消費を挑発的に扱った,現代,イギリス
-artist_el_lissitzky,エル・リシツキー,El Lissitzky,構成主義|タイポグラフィ|デザイン,構成主義とグラフィックで芸術と社会の接点を設計した,ロシア・アヴァンギャルド,ロシア
-artist_gainsborough,トマス・ゲインズバラ,Thomas Gainsborough,肖像|風景|18世紀,軽やかな筆致で肖像と田園風景を詩的に描き英国絵画を代表した,18世紀,イギリス
-artist_georges_de_la_tour,ジョルジュ・ド・ラ・トゥール,Georges de La Tour,バロック|明暗|ろうそく,ろうそくの光に照らされた静かな場面で明暗表現を極めた,バロック,フランス
-artist_grant_wood,グラント・ウッド,Grant Wood,地域主義|アメリカ|農村,中西部の生活を象徴的に描き地域主義絵画を代表した,20世紀,アメリカ
-artist_hans_memling,ハンス・メムリンク,Hans Memling,初期フランドル|宗教画|肖像,端正な描写と澄んだ色調で信仰画と肖像を精緻に表現した,初期フランドル,ネーデルラント
-artist_henry_moore,ヘンリー・ムーア,Henry Moore,彫刻|人体|有機形態,穴の開いた有機的フォルムで人体と風景の共鳴を彫刻にした,モダニズム,イギリス
-artist_hunt,ウィリアム・ホルマン・ハント,William Holman Hunt,ラファエル前派|宗教画|象徴,精密な自然描写と象徴性でラファエル前派の理念を体現した,ラファエル前派,イギリス
-artist_jasper_johns,ジャスパー・ジョーンズ,Jasper Johns,ネオダダ|記号|ポップ前夜,旗や標的など既成記号を描き、意味と物質の境界を問い直した,ネオダダ,アメリカ
-artist_jeff_koons,ジェフ・クーンズ,Jeff Koons,現代美術|ポップ|キッチュ,鏡面彫刻や量産イメージで欲望と価値の仕組みを誇張した,現代,アメリカ
-artist_joseph_kosuth,ジョセフ・コスース,Joseph Kosuth,コンセプチュアル|言語|定義,言葉と定義を素材に、作品の意味生成そのものを提示した,コンセプチュアル,アメリカ
-artist_lichtenstein,ロイ・リキテンスタイン,Roy Lichtenstein,ポップアート|コミック|網点,コミック表現を拡大し、印刷網点で大衆文化の視覚語を転用した,ポップアート,アメリカ
-artist_millais,ジョン・エヴァレット・ミレー,John Everett Millais,ラファエル前派|物語|肖像,鮮烈な色と緻密な描写で物語性の高い場面を構築した,ラファエル前派,イギリス
-artist_rossetti,ダンテ・ガブリエル・ロセッティ,Dante Gabriel Rossetti,ラファエル前派|象徴|詩,詩と絵画を往還し、官能的な女性像と象徴色彩で独自世界を築いた,ラファエル前派,イギリス
-artist_rousseau,アンリ・ルソー,Henri Rousseau,素朴派|象徴|ジャングル,素朴な筆致と幻想的な植物描写で夢のような風景を生んだ,素朴派,フランス
-artist_waterhouse,ジョン・ウィリアム・ウォーターハウス,John William Waterhouse,後期ラファエル前派|神話|文学,神話や文学の女性像を濃密な色彩で叙情的に描いた,後期ラファエル前派,イギリス
-artist_ciurlionis,チュルリョーニス,Mikalojus Konstantinas Čiurlionis,象徴主義|音楽|絵画,作曲と絵画を往復し宇宙的象徴世界を築いた,近代,リトアニア
-artist_kawanabe_kyosai,河鍋暁斎,Kawanabe Kyōsai,日本画|戯画|幕末明治,奇想と筆力で戯画から仏画まで奔放に描き切った,近代,日本
-artist_albert_marquet,アルベール・マルケ,Albert Marquet,フォーヴ|風景|水辺,静かな色面で都市と水辺の気配をすくい取った,近代,フランス
-artist_alfredo_jaar,アルフレド・ジャー,Alfredo Jaar,現代|社会|インスタレーション,政治とメディアを問う作品で見ることの倫理を揺さぶった,現代,チリ
-artist_richard_tuttle,リチャード・タトル,Richard Tuttle,現代|ミニマル|ドローイング,小さな形と素材で空間の感覚を更新し続けた,現代,アメリカ
-artist_dan_graham,ダン・グレアム,Dan Graham,現代|映像|建築,パビリオンや映像で観者と空間の関係を可視化した,現代,アメリカ
-artist_aoki_jun,青木淳,Jun Aoki,建築|現代|空間,軽やかな構成で建築と都市の輪郭を編み替える,現代,日本
-artist_mina_perhonen,minä perhonen,minä perhonen,デザイン|テキスタイル|現代,物語性ある図案で日常に詩情を差し込む,現代,日本
-artist_takiguchi_shuzo,瀧口修造,Takiguchi Shūzō,前衛|詩|批評,言葉とイメージの実験で日本前衛を牽引した,近代,日本
-artist_ettore_sottsass,エットレ・ソットサス,Ettore Sottsass,デザイン|ポストモダン|家具,メンフィスなどで色と形の祝祭をデザインに持ち込んだ,現代,イタリア
-artist_kobayashi_kiyochika,小林清親,Kobayashi Kiyochika,版画|明治|新版画前史,光線画で近代都市の陰影を版画に刻んだ,近代,日本
-artist_kawase_hasui,川瀬巴水,Kawase Hasui,新版画|風景|大正昭和,叙情的な風景で新版画の人気を決定づけた,近代,日本
-artist_mori_mariko,森万里子,Mariko Mori,現代|映像|インスタレーション,テクノロジーと精神性を交差させ未来的な祈りの場を立ち上げる,現代,日本
-artist_ron_mueck,ロン・ミュエク,Ron Mueck,現代|彫刻|写実,スケールの違和感と超写実で身体感覚を攪乱する,現代,オーストラリア
-artist_yoshida_nagi,吉田ナギ,Nagi Yoshida,写真|現代|ポートレート,世界各地のコミュニティを鮮烈なポートレートで記録する,現代,日本
-artist_antonio_fontanesi,アントニオ・フォンタネージ,Antonio Fontanesi,近代|風景画|日欧,近代日本の洋画教育にも影響した風景画家,近代,イタリア
-artist_aizu_yaichi,會津八一,Aizu Yaichi,文学|美術史,歌人・書家として知られ、美術史研究も行った,明治-昭和,日本
-artist_akutagawa_saori,芥川（間所）紗織,Akutagawa Saori|Madokoro Saori,,, ,日本
-artist_anders_zorn,アンデシュ・ソーン,Anders Zorn,スウェーデン絵画|肖像画,肖像画と水辺の裸婦で国際的に名高い画家,19世紀,スウェーデン
-artist_arishima_ikuma,有島生馬,Arishima Ikuma,洋画|美術批評,白樺派と関わり洋画制作と美術批評を行った,明治-大正,日本
-artist_aso_saburo,麻生三郎,Aso Saburo,洋画,戦後の洋画で知られる画家,昭和,日本
-artist_abe_tenya,阿部展也(芳文),Abe Tenya|阿部芳文,洋画|抽象,抽象表現でも知られる画家,昭和,日本
-artist_august_strindberg,アウグスト・ストリンドバリ,August Strindberg,文学|絵画,劇作家として著名で、後期に絵画制作も行った,19世紀,スウェーデン
-artist_bruno_liljefors,ブリューノ・リリエフォッシュ,Bruno Liljefors,スウェーデン絵画|動物画,野生動物と自然を写実的に描いた画家,19世紀,スウェーデン
-artist_carl_fredrik_hill,カール=フレードリック・ヒル,Carl Fredrik Hill,スウェーデン絵画|風景画,風景画から晩年の幻想的素描までで知られる画家,19世紀,スウェーデン
-artist_carl_larsson,カール・ラーション,Carl Larsson,スウェーデン絵画|水彩,家庭生活を描いた水彩連作で広く親しまれる画家,19世紀,スウェーデン
-artist_edvard_bergh,エードヴァッド・バリ,Edvard Bergh,スウェーデン絵画|風景画,スウェーデンの風景画で知られる画家,19世紀,スウェーデン
-artist_ernst_josephson,アーンシュト・ヨーセフソン,Ernst Josephson,スウェーデン絵画|象徴主義,写実から象徴的表現まで幅広く展開した画家,19世紀,スウェーデン
-artist_eugene_boudin,ウジェーヌ・ブーダン,Eugène Boudin,フランス絵画|風景画|近代美術,海辺の風景画で知られ、印象派の先駆とされる,19世紀,フランス
-artist_eugene_jansson,エウシェーン・ヤーンソン,Eugène Jansson,スウェーデン絵画|風景画,都市景観や人物像で知られる画家,19世紀,スウェーデン
-artist_fukushima_hideko,福島秀子,Fukushima Hideko,戦後美術|彫刻,実験工房に参加し立体作品などを制作した,戦後,日本
-artist_gyobu_hito,刑部人,Gyobu Hito,,, ,日本
-artist_gustaf_fjaestad,グスタヴ・フィエースタード,Gustaf Fjæstad,スウェーデン絵画|風景画,雪景色など北国の自然を描いた画家,19世紀,スウェーデン
-artist_hasegawa_toshiyuki,長谷川利行,Hasegawa Toshiyuki,洋画,都市の情景を描いた洋画家,大正-昭和,日本
-artist_hayashi_fumiko,林芙美子,Hayashi Fumiko,文学,昭和期を代表する小説家,昭和,日本
-artist_imamura_shiko,今村紫紅,Imamura Shiko,日本画,大正期の日本画家,大正,日本
-artist_karl_nordstrom,カール・ノードシュトルム,Karl Nordström,スウェーデン絵画|風景画,北欧の自然を主題にした風景画家,19世紀,スウェーデン
-artist_kishida_reiko,岸田麗子,Kishida Reiko,,, ,日本
-artist_koen,康円,Kōen|Koen,仏師|仏像,鎌倉時代の仏師として知られる,鎌倉,日本
-artist_koizumi_kiyoshi,小泉清,Koizumi Kiyoshi,版画|木版画,都市風景などを木版画で制作した版画家,昭和,日本
-artist_matsumoto_shunsuke,松本竣介,Matsumoto Shunsuke,洋画,昭和期の洋画家として知られる,昭和,日本
-artist_mikalojus_konstantinas_ciurlionis,ミカロユス・コンスタンティナス・チュルリョーニス,Mikalojus Konstantinas Čiurlionis|M. K. Čiurlionis,象徴主義|絵画|音楽,象徴主義的な絵画と作曲を手がけた芸術家,19-20世紀,リトアニア
-artist_minemura_ritsuko,峰村リツ子,Minemura Ritsuko,,, ,日本
-artist_mitsutani_kunishiro,満谷国四郎,Mitsutani Kunishiro,洋画,明治から昭和にかけて活躍した洋画家,明治-昭和,日本
-artist_miyawaki_aiko,宮脇愛子,Miyawaki Aiko,彫刻|戦後美術,金属を用いた彫刻作品で知られる,戦後,日本
-artist_miya_yoshihei,宮芳平,Miya Yoshihira|Miya Yohei,,, ,日本
-artist_nagayo_yoshio,長與善郎,Nagayo Yoshio,文学,白樺派と関わった小説家・劇作家,大正-昭和,日本
-artist_nagasawa_rosetsu,長沢蘆雪,Nagasawa Rosetsu,日本画|江戸絵画,江戸後期に活躍した画家,江戸,日本
-artist_nakamura_tsune,中村彝,Nakamura Tsune,洋画|肖像画,大正期の洋画家で肖像表現で知られる,大正,日本
-artist_nils_blommer,ニルス・ブロメール,Nils Blommér,スウェーデン絵画|ロマン主義,スウェーデンのロマン主義的風景・人物画で知られる画家,19世紀,スウェーデン
-artist_nils_kreuger,ニルス・クルーゲル,Nils Kreuger,スウェーデン絵画|風景画,農村風景などを描いた画家,19世紀,スウェーデン
-artist_oda_kazuma,織田一磨,Oda Kazuma,版画|木版画,都市や風景を描いた木版画家,明治-昭和,日本
-artist_ogihara_morie,荻原守衛,Ogihara Morie|Ogihara Rokuzan|荻原碌山,彫刻|近代彫刻,近代彫刻の先駆者として知られる彫刻家,明治,日本
-artist_oskar_bjorck,オスカル・ビュルク,Oskar Björck,スウェーデン絵画|写実,写実的な人物・風俗画で知られる画家,19世紀,スウェーデン
-artist_prince_eugen,エウシェーン王子,Prince Eugen|Eugen of Sweden,スウェーデン絵画|風景画,王族であり風景画家としても活動した,19世紀,スウェーデン
-artist_richard_bergh,リッカッド・バリ,Richard Bergh,スウェーデン絵画|象徴主義,象徴的な人物画や風景画で知られる画家,19世紀,スウェーデン
-artist_saeki_yuzo,佐伯祐三,Saeki Yuzo,洋画,パリと東京で活躍した洋画家,大正,日本
-artist_saito_yori,斎藤与里,Saito Yori,洋画,明治から昭和にかけて活躍した洋画家,明治-昭和,日本
-artist_saito_yoshishige,斎藤義重,Saito Yoshishige,彫刻|戦後美術,戦後日本の彫刻で重要な作家,戦後,日本
-artist_satomi_katsuzo,里見勝蔵,Satomi Katsuzo,洋画,大正から昭和にかけて活躍した洋画家,大正-昭和,日本
-artist_satomi_ton,里見弴,Satomi Ton,文学,白樺派と関わった小説家,大正-昭和,日本
-artist_seimiya_naobumi,清宮質文,Seimiya Naobumi,版画|木版画,木版画で知られる版画家,昭和,日本
-artist_somya_ichinen,曽宮一念,Somya Ichinen,洋画,風景・静物などで知られる洋画家,明治-昭和,日本
-artist_sorayama_hajime,空山基,Hajime Sorayama,現代美術|イラスト,エアブラシ技法の作品で知られるアーティスト,現代,日本
-artist_suzuki_ryozo,鈴木良三,Suzuki Ryozo,,, ,日本
-artist_takamura_kotaro,高村光太郎,Takamura Kotaro,彫刻|文学,彫刻と詩で知られる芸術家,明治-昭和,日本
-artist_terada_masaaki,寺田政明,Terada Masaaki,,, ,日本
-artist_tezuka_ryokubin,手塚緑敏,Tezuka Ryokubin,,, ,日本
-artist_togo_seiji,東郷青児,Togo Seiji,洋画,人物画を中心に独自の様式を築いた洋画家,大正-昭和,日本
-artist_tsuruta_goro,鶴田吾郎,Tsuruta Goro,,, ,日本
-artist_tsuruoka_masao,鶴岡政男,Tsuruoka Masao,洋画,戦後に活躍した洋画家,昭和,日本
-artist_yamaguchi_kayo,山口華楊,Yamaguchi Kayo,日本画|動物画,動物画などで知られる日本画家,昭和,日本
-artist_yoshioka_ken,吉岡憲,Yoshioka Ken,,, ,日本
-artist_yoshida_hiroshi,吉田博,Yoshida Hiroshi,版画|新版画,新版画の代表的版画家として知られる,明治-昭和,日本
-artist_gautier_deblonde,ゴーティエ・デブロンド,Gautier Deblonde|Gautier DEBLONDE|ゴーティエ・デブロンド,写真|映像|現代,フランス出身の写真家・映像作家。世界各地のアーティストのアトリエを長年にわたり撮影し、スタジオシリーズ『Atelier』などで知られる。,現代,フランス
-artist_achille_castiglioni,アキッレ・カスティリオーニ,Achille Castiglioni,デザイン|プロダクト|照明|イタリア,イタリアの建築家・プロダクトデザイナー。日用品を観察し、機能とユーモアを両立させたデザインで知られ、「Arco」ランプ（1962、ピエル・ジャコモと共作）などを手がけた。,20世紀,イタリア
-artist_ange_leccia,アンジュ・レシア,Ange Leccia,現代|映像|写真|フランス,フランス（コルシカ）出身の現代美術家。映像や写真、オブジェを通じて反復や知覚、時間感覚を扱う作品で知られる。,現代,フランス
-artist_angus_fairhurst,アンガス・フェアハースト,Angus Fairhurst,現代|彫刻|インスタレーション|イギリス,イギリスの現代美術家（YBA世代）。彫刻・写真・インスタレーションを中心に制作した。,現代,イギリス
-artist_anish_kapoor,アニッシュ・カプーア,Anish Kapoor,現代|彫刻|インスタレーション|イギリス,インド出身の現代美術家（英国拠点）。顔料や鏡面、巨大彫刻などで空間知覚や身体感覚を揺さぶる作品で知られる。,現代,イギリス
-artist_antony_gormley,アントニー・ゴームリー,Antony Gormley,現代|彫刻|イギリス,イギリスの彫刻家。自らの身体を鋳型にした彫刻や、人体と空間の関係を問うインスタレーションで知られる。,現代,イギリス
-artist_ben_shahn,ベン・シャーン,Ben Shahn,絵画|版画|社会派|アメリカ,アメリカの画家・版画家（リトアニア生まれ）。社会問題や労働者の姿を主題に、絵画・写真・ポスターなど多様な媒体で表現した。,20世紀,アメリカ
-artist_bruno_munari,ブルーノ・ムナーリ,Bruno Munari,デザイン|教育|プロダクト|イタリア,イタリアのアーティスト／デザイナー。造形実験からプロダクト、グラフィック、子どものための教育的デザインまで幅広く活動し、創造性の方法論でも影響力を持つ。,20世紀,イタリア
-artist_carsten_holler,カーステン・ホラー,Carsten Höller|Carsten Holler,現代|インスタレーション|体験型|ドイツ,ドイツ出身の現代美術家。遊具のような装置や体験型インスタレーションを通じて、知覚・行動・選択をめぐる実験的状況をつくる。,現代,ドイツ
-artist_chapman_brothers,チャップマン兄弟,Jake Chapman|Dinos Chapman|Chapman Brothers,現代|彫刻|インスタレーション|イギリス,イギリスのアーティストデュオ（兄弟）。歴史イメージや暴力表象を扱う彫刻・インスタレーションで知られる。,現代,イギリス
-artist_chris_ofili,クリス・オフィリ,Chris Ofili|Christopher Ofili,現代|絵画|イギリス,イギリスの画家。コラージュや多素材を取り入れた絵画で知られ、ターナー賞受賞。,現代,イギリス
-artist_christian_jankowski,クリスチャン・ヤンコフスキー,Christian Jankowski,現代|映像|インスタレーション|ドイツ,ドイツの現代美術家。映像・写真・パフォーマンスなどを用い、テレビや商業などアート外の領域との協働を通じて制度や役割を問い直す。,現代,ドイツ
-artist_cindy_sherman,シンディ・シャーマン,Cindy Sherman,現代|写真|アメリカ,アメリカの写真家／現代美術家。変装したセルフポートレート（『Untitled Film Stills』など）で、イメージと女性表象を批評的に扱う。,現代,アメリカ
-artist_cornelia_parker,コーネリア・パーカー,Cornelia Parker,現代|彫刻|インスタレーション|イギリス,イギリスの現代美術家。破壊・変形した素材や既製品を再構成し、力学や記憶を可視化する彫刻／インスタレーションで知られる。,現代,イギリス
-artist_dieter_rams,ディーター・ラムス,Dieter Rams,デザイン|プロダクト|ブラウン|ドイツ,ドイツのインダストリアルデザイナー。Braunのデザインを長年率い、「良いデザインの10原則」などミニマルで人間中心の思想で知られる。,20世紀,ドイツ
-artist_enzo_mari,エンツォ・マーリ,Enzo Mari,デザイン|プロダクト|イタリア,イタリアのデザイナー／アーティスト。大量生産と消費社会への批評的態度でも知られ、DIY家具の提案『Autoprogettazione』（1974）などを通じてデザインの社会性を問い続けた。,20世紀,イタリア
-artist_fiona_banner,フィオナ・バナー,Fiona Banner|The Vanity Press,現代|テキスト|インスタレーション|イギリス,イギリスの現代美術家（Fiona Banner aka The Vanity Press）。テキストや出版、戦闘機・戦争映画など視覚文化への関心から、彫刻・インスタレーション・ドローイングを展開する。,現代,イギリス
-artist_francois_hubert_drouais,フランソワ＝ユベール・ドルーエ,François-Hubert Drouais|Francois-Hubert Drouais,絵画|肖像画|18世紀|フランス,18世紀フランスの宮廷肖像画家。ヴェルサイユ宮廷で活動し、マリー・アントワネットの肖像などで知られる。,18世紀,フランス
-artist_gavin_turk,ギャヴィン・ターク,Gavin Turk,現代|コンセプチュアル|イギリス,イギリスの現代美術家（YBA世代）。作者性や自己表象、ブランド性をめぐるコンセプチュアルな作品で知られる。,現代,イギリス
-artist_gillian_wearing,ジリアン・ウェアリング,Gillian Wearing,現代|写真|映像|イギリス,イギリスの現代美術家。写真・映像で「告白」や社会的役割、他者との関係を扱い、ターナー賞受賞。,現代,イギリス
-artist_hamish_fulton,ハミッシュ・フルトン,Hamish Fulton,現代|ランドアート|イギリス,イギリスの現代美術家。歩行（ウォーキング）そのものを制作の中心に据え、テキストや写真で経験を提示する。,現代,イギリス
-artist_hanae_mori,森英恵,Hanae Mori|Mori Hanae,ファッション|デザイン|日本,日本のファッションデザイナー（1926–2022）。映画衣装から出発し国際的に活躍、フランスのオートクチュール組織に加盟したアジア人女性として知られる。,20世紀,日本
-artist_ian_davenport,イアン・ダヴェンポート,Ian Davenport,現代|絵画|抽象|イギリス,イギリスの抽象画家。傾けた支持体に絵具を注いで生まれる縦のラインや溜まり（puddle）を特徴とする。,現代,イギリス
-artist_jason_rhoades,ジェイソン・ローズ,Jason Rhoades,現代|インスタレーション|ネオン|アメリカ,アメリカのインスタレーション・アーティスト（1965–2006）。日用品や工業素材、ネオンサインを大量に組み合わせた大規模空間作品で知られる。,現代,アメリカ
-artist_julian_opie,ジュリアン・オピー,Julian Opie,現代|絵画|デジタル|イギリス,イギリスの現代美術家。輪郭線と単純化した形態で人物や都市を表し、絵画・彫刻・デジタルメディアで展開する。,現代,イギリス
-artist_kishida_ryusei,岸田劉生,Kishida Ryūsei|Kishida Ryusei,絵画|日本|近代,日本の画家。写実表現を追究し『麗子像』などで知られる。,近代,日本
-artist_liz_rhodes,リズ・ローズ,Lis Rhodes|Liz Rhodes,現代|映像|サウンド|イギリス,イギリスのアーティスト。フィルム、光、音を用いた実験的作品で知られ、代表作に映像・音響インスタレーション『Light Music』がある。,現代,イギリス
-artist_lorna_simpson,ローナ・シンプソン,Lorna Simpson,現代|写真|アメリカ,アメリカの現代美術家。写真とテキスト、映像などで人種・ジェンダー表象を批評的に扱う。,現代,アメリカ
-artist_marc_quinn,マーク・クイン,Marc Quinn,現代|彫刻|イギリス,イギリスの現代美術家。身体やアイデンティティを主題に彫刻・インスタレーションを制作する。,現代,イギリス
-artist_mark_wallinger,マーク・ウォリンジャー,Mark Wallinger,現代|コンセプチュアル|イギリス,イギリスの現代美術家。映像・彫刻・インスタレーションで政治や制度、信仰などを扱う。,現代,イギリス
-artist_martin_creed,マーティン・クリード,Martin Creed,現代|コンセプチュアル|イギリリス,イギリスの現代美術家。最小限の行為や指示で成立する作品や、音楽・パフォーマンスも含む多領域の活動で知られる。,現代,イギリス
-artist_max_bill,マックス・ビル,Max Bill,デザイン|具体芸術|建築|スイス,スイスの芸術家・建築家・デザイナー。具体芸術（Concrete Art）の重要人物で、造形・デザイン・教育を横断し、ウルム造形大学の設立にも関わった。,20世紀,スイス
-artist_michael_landy,マイケル・ランディ,Michael Landy,現代|インスタレーション|イギリス,イギリスの現代美術家（YBA世代）。自身の所持品をすべて解体・破壊したプロジェクト『Break Down』（2001）など、消費社会を問う作品で知られる。,現代,イギリス
-artist_monica_bonvicini,モニカ・ボンヴィチーニ,Monica Bonvicini,現代|インスタレーション|彫刻|イタリア,イタリア出身（ベルリン拠点）の現代美術家。建築、権力、ジェンダーを主題に、言語や素材（チェーン等）を用いたインスタレーションで批評的に展開する。,現代,イタリア
-artist_otl_aicher,オトル・アイヒャー,Otl Aicher|Otto Aicher,グラフィック|タイポグラフィ|ピクトグラム|ドイツ,ドイツのグラフィックデザイナー／タイポグラファ。ウルム造形大学（HfG Ulm）の共同創設者の一人で、1972年ミュンヘン五輪のビジュアル・アイデンティティとピクトグラムで広く知られる。,20世紀,ドイツ
-artist_paul_smith,ポール・スミス,Paul Smith,ファッション|デザイン|イギリス,イギリスのファッションデザイナー。ブランド「Paul Smith」で知られ、クラシックな仕立てに色や柄の遊びを加えたスタイルを展開した。,現代,イギリス
-artist_peter_doig,ピーター・ドイグ,Peter Doig,現代|絵画|イギリス,スコットランド生まれの画家。記憶や写真、風景をもとにした絵画で知られる。,現代,イギリス
-artist_sam_taylor_johnson,サム・テイラー＝ジョンソン,Sam Taylor-Johnson|Sam Taylor-Wood,現代|映像|写真|イギリス,イギリスのアーティスト／映画監督。映像・写真作品で知られ、長編映画も制作する。,現代,イギリス
-artist_sarah_lucas,サラ・ルーカス,Sarah Lucas,現代|彫刻|写真|イギリス,イギリスの現代美術家（YBA世代）。日用品や言葉遊びを用い、身体・ジェンダーをめぐる挑発的な彫刻／写真で知られる。,現代,イギリス
-artist_steve_mcqueen,スティーヴ・マックイーン,Steve McQueen,現代|映像|映画|イギリス,イギリスのアーティスト／映画監督。映像インスタレーションから長編映画まで制作する。,現代,イギリス
-artist_thomas_hirschhorn,トーマス・ヒルシュホルン,Thomas Hirschhorn,現代|インスタレーション|スイス,スイスの現代美術家。段ボールやテープなど日常素材による大規模インスタレーションで、社会と思想を接続する。,現代,スイス
-artist_tom_sachs,トム・サックス,Tom Sachs,現代|彫刻|インスタレーション|アメリカ,アメリカの現代美術家。既製品や工作素材を用い、消費文化や宇宙開発などを題材に制作する。,現代,アメリカ
-artist_tracey_emin,トレイシー・エミン,Tracey Emin|Tracey Karima Emin,現代|インスタレーション|ネオン|イギリス,イギリスの現代美術家（YBA世代）。自伝的・告白的な表現で知られ、ネオン作品やインスタレーションなどを制作する。,現代,イギリス
-artist_wolfgang_tillmans,ヴォルフガング・ティルマンス,Wolfgang Tillmans,現代|写真|ドイツ,ドイツの写真家。ポートレートから抽象まで幅広い写真表現と、空間全体を用いた展示構成で知られる。,現代,ドイツ
-artist_tmp_001,因陀羅,Indra (painter)|因陀羅,絵画|水墨|禅画|中国,元代の画僧。禅画・水墨画で知られ、《禅機図断簡》などが伝わる。,14世紀,中国
-artist_tmp_002,楚石梵琦,Chushi Fanqi|楚石梵琦,書|禅|中国,元代の臨済宗の禅僧。書や賛（題跋）で知られ、因陀羅作品への賛が伝わる。,14世紀,中国
-artist_tmp_003,菱川勢一,Seiichi Hishikawa|DRAWING AND MANUAL|菱川勢一,現代|映像|デザイン|日本,映像ディレクター／デザイナー。映像・インスタレーションなどで活動し、プロジェクト「DRAWING AND MANUAL」としても知られる。,現代,日本
-artist_tmp_026,マリー・アントワネット,Marie Antoinette,18世紀|ファッション|ヴェルサイユ|フランス,フランス王妃（1755–1793）。ヴェルサイユ宮廷の装いとイメージが後世のファッション文化に大きな影響を与えた。,18世紀,フランス
+id,name,aliases,birth_year,death_year,birth_year_min,birth_year_max,death_year_min,death_year_max,movement,era,medium,region,blurb
+artist_leonardo_da_vinci,レオナルド・ダ・ヴィンチ,Leonardo da Vinci|レオナルド|レオナルド・ダ・ヴィンチ,1452,1519,,,,,,renaissance,painting|drawing,italy,芸術と科学を横断した万能の人としてルネサンスの理想を体現した。観察にもとづく写実と構成力で、後世の絵画表現の基準そのものを押し広げた。
+artist_michelangelo_buonarroti,ミケランジェロ,Michelangelo|Michelangelo Buonarroti|ミケランジェロ・ブオナローティ,1475,1564,,,,,,renaissance,sculpture|painting|drawing|architecture,italy,彫刻を核に、絵画・建築へも到達したルネサンス巨匠。人体表現の迫力と精神性の強度で、西洋美術の「崇高さ」のイメージを決定づけた。
+artist_raphael,ラファエロ,Raphael|Raffaello Sanzio|ラファエロ・サンティ,1483,1520,,,,,,renaissance,painting|drawing,italy,均整の取れた構図と澄んだ人物表現で盛期ルネサンスの調和を象徴する。古典的理想と優美さを両立させ、後世のアカデミズムにも強い影響を与えた。
+artist_sandro_botticelli,ボッティチェリ,Sandro Botticelli|Alessandro Botticelli|サンドロ・ボッティチェリ,1445,1510,,,,,,renaissance,painting,italy,線のリズムと詩情で神話世界を可視化したフィレンツェ絵画の代表格。優美さの裏に漂う不穏さも含め、初期ルネサンスの感性を鮮やかに伝える。
+artist_albrecht_durer,アルブレヒト・デューラー,Albrecht Dürer|Durer|デューラー,1471,1528,,,,,,renaissance,printmaking|drawing|painting,germany,版画を通じて北方ルネサンスの表現を広域に拡散させた。精緻な線と理論的関心で、芸術家の社会的地位を押し上げた存在でもある。
+artist_rembrandt,レンブラント,Rembrandt|Rembrandt van Rijn|レンブラント・ファン・レイン,1606,1669,,,,,,baroque,painting|drawing|printmaking,netherlands,光と影の劇的な対比と、人物の内面を掘り下げるまなざしで知られる。豪奢さではなく人間の複雑さを描き切り、近代的な「心理描写」の源流となった。
+artist_johannes_vermeer,フェルメール,Johannes Vermeer|Vermeer|ヨハネス・フェルメール,1632,1675,,,,,,baroque,painting|oil_painting,netherlands,静謐な室内に差し込む光を、緻密な色面と構図で定着した。日常の一瞬を永遠のように見せる感覚が、現代の視覚体験にも直結している。
+artist_caravaggio,カラヴァッジョ,Caravaggio|Michelangelo Merisi da Caravaggio|ミケランジェロ・メリージ,1571,1610,,,,,,baroque,painting|oil_painting,italy,極端な明暗と現実の身体感で宗教画を刷新した革命児。聖と俗を同じ地平に引き寄せる表現は、バロック美術の感情の強度を決定づけた。
+artist_diego_velazquez,ベラスケス,Diego Velázquez|Velazquez|ディエゴ・ベラスケス,1599,1660,,,,,,baroque,painting|oil_painting,spain,宮廷画家として権力の場を描きながら、絵画そのものの見え方を問い直した。空気感のある筆致と視線の構造で、近代絵画の先駆ともみなされる。
+artist_peter_paul_rubens,ルーベンス,Peter Paul Rubens|Rubens|ピーテル・パウル・ルーベンス,1577,1640,,,,,,baroque,painting|oil_painting,belgium,豊満な量感と躍動する構図で、バロックの華やかさを体現した。外交官としても活躍し、芸術が国際政治と結びつく時代の象徴的存在である。
+artist_jean_honore_fragonard,フラゴナール,Jean-Honoré Fragonard|Fragonard|ジャン＝オノレ・フラゴナール,1732,1806,,,,,,rococo,painting|oil_painting,france,軽やかな筆致と甘美な雰囲気でロココの享楽性を描いた。装飾性の高い表現は、革命前夜の空気とともに美術史の転換点を映し出す。
+artist_francisco_goya,ゴヤ,Francisco Goya|Goya|フランシスコ・デ・ゴヤ,1746,1828,,,,,romanticism,modern_19c,painting|printmaking,spain,宮廷画家として成功しつつ、戦争や迷信の闇を鋭く告発した。理性と狂気の境界を直視する表現は、近代の批評精神を先取りしている。
+artist_jmw_turner,ターナー,J. M. W. Turner|Joseph Mallord William Turner|ターナー,1775,1851,,,,,romanticism,modern_19c,painting|watercolor,uk,光と大気の奔流のような描写で風景画を変革した。自然の圧倒的な力と感情の高まりを同時に描き、抽象表現への道筋も開いた。
+artist_claude_monet,クロード・モネ,Claude Monet|モネ|クロード モネ,1840,1926,,,,,impressionism,modern_19c,painting|oil_painting,france,移ろう光と時間を追い、同じ対象を繰り返し描く方法で印象派を象徴した。輪郭よりも視覚体験そのものを重視し、絵画の主題を根底から更新した。
+artist_edgar_degas,エドガー・ドガ,Edgar Degas|Degas|ドガ,1834,1917,,,,,impressionism,modern_19c,painting|drawing|printmaking,france,都市の身体性を鋭い観察で捉え、踊り子や日常の所作を独自の構図で描いた。瞬間を切り取る視点は、写真や映画的感覚とも響き合う。
+artist_pierre_auguste_renoir,ルノワール,Pierre-Auguste Renoir|Renoir|ピエール＝オーギュスト・ルノワール,1841,1919,,,,,impressionism,modern_19c,painting|oil_painting,france,柔らかな光の色彩と肌の質感で、人々の喜びや親密さを描いた。印象派の中でも人間の温度を前面に出し、鑑賞体験を明るく開いた。
+artist_paul_cezanne,ポール・セザンヌ,Paul Cézanne|Cezanne|セザンヌ,1839,1906,,,,,post_impressionism,modern_19c,painting|oil_painting,france,自然を円筒・球・円錐のように捉える構築的な視点で、近代絵画の土台を作った。見えるものを組み立て直す方法が、キュビスム以降へ直結する。
+artist_vincent_van_gogh,フィンセント・ファン・ゴッホ,Vincent van Gogh|Van Gogh|ゴッホ,1853,1890,,,,,post_impressionism,modern_19c,painting|oil_painting|drawing,netherlands,強い筆触と色彩で、感情の振幅そのものを画面に刻み込んだ。生前の評価は限られたが、近代以降の表現主義的感覚の象徴となった。
+artist_georges_seurat,ジョルジュ・スーラ,Georges Seurat|Seurat|スーラ,1859,1891,,,,,neo_impressionism|pointillism,modern_19c,painting|drawing,france,色彩理論を背景に点描による視覚混合を試み、絵画を科学的に組み立てた。冷静な秩序と現代都市の感覚が同居し、印象派後の方向性を示した。
+artist_paul_gauguin,ポール・ゴーギャン,Paul Gauguin|Gauguin|ゴーギャン,1848,1903,,,,,post_impressionism|symbolism,modern_19c,painting|oil_painting,france,装飾的な平面性と象徴性を強め、外部世界より内面や神話的想像力へ向かった。近代のプリミティヴィズムを促した一方、評価には批判的視点も不可欠である。
+artist_henri_matisse,アンリ・マティス,Henri Matisse|Matisse|マティス,1869,1954,,,,,fauvism,modern_early_20c,painting|drawing|sculpture,france,大胆な色面と単純化された形で、絵画の快楽と秩序を両立させた。感覚を解放する色彩は、20世紀のデザインや視覚文化にも影響した。
+artist_pablo_picasso,パブロ・ピカソ,Pablo Picasso|Picasso|ピカソ,1881,1973,,,,,cubism,modern_early_20c,painting|sculpture|drawing|printmaking,spain,形を分解し再構成する発想で、絵画の視点を多層化した。様式を変え続ける創作態度自体が、20世紀美術のダイナミズムを象徴する。
+artist_wassily_kandinsky,ワシリー・カンディンスキー,Wassily Kandinsky|Kandinsky|カンディンスキー,1866,1944,,,,,abstract_art|expressionism,modern_early_20c,painting,russia,色と形を音楽的に組織し、抽象絵画を理論と実践の両面で推進した。対象の再現から解放された絵画の可能性を、思想として提示した点が大きい。
+artist_salvador_dali,サルバドール・ダリ,Salvador Dalí|Dali|ダリ,1904,1989,,,,,surrealism,modern_mid_20c,painting,spain,夢と無意識のイメージを精密描写で増幅し、現実感を反転させた。挑発的な自己演出も含め、シュルレアリスムの大衆的な象徴となった。
+artist_jackson_pollock,ジャクソン・ポロック,Jackson Pollock|Pollock|ポロック,1912,1956,,,,,abstract_expressionism,modern_mid_20c,painting,usa,絵具を垂らす行為そのものを制作の中心に置き、画面を「出来事」に変えた。作者の身体性が直接刻まれる方法は、戦後美術の価値観を更新した。
+artist_mark_rothko,マーク・ロスコ,Mark Rothko|Rothko|ロスコ,1903,1970,,,,,abstract_expressionism,modern_mid_20c,painting,latvia,大きな色面の重なりで、言葉にならない感情や沈黙を呼び起こす絵画を追求した。鑑賞者の距離や空間を含めた体験として作品が成立する点が特徴である。
+artist_andy_warhol,アンディ・ウォーホル,Andy Warhol|Warhol|ウォーホル,1928,1987,,,,,pop_art,modern_mid_20c,printmaking|photography|painting,usa,大量複製やメディアの記号を用い、芸術と消費社会の境界を攪拌した。作者性やオリジナルの概念を揺さぶり、現代の視覚文化の見取り図を提示した。
+artist_katsushika_hokusai,葛飾北斎,Katsushika Hokusai|Hokusai|葛飾 北斎|カツシカ ホクサイ,1760,1849,,,,,ukiyo_e,modern_19c,printmaking|drawing,japan,浮世絵の枠を拡張し、構図の大胆さと観察眼で世界的な影響力を持った。庶民文化から生まれた視覚言語が、近代西洋美術にも波及した。
+artist_utagawa_hiroshige,歌川広重,Utagawa Hiroshige|Hiroshige|歌川 広重|ヒロシゲ,1797,1858,,,,,ukiyo_e,modern_19c,printmaking|drawing,japan,風景を詩情豊かに描き、季節や天候の気配を画面に定着した。遠近の工夫と大胆なトリミングは、後の近代絵画の視点にも共鳴する。
+artist_yayoi_kusama,草間彌生,Yayoi Kusama|Kusama|草間 彌生|クサマ ヤヨイ,1929,,,,,,pop_art|minimalism|conceptual_art,contemporary,installation|sculpture|painting,japan,反復する水玉や網目を通じ、自己と世界の境界を揺さぶる表現を展開した。絵画からインスタレーションまで横断し、体験としての現代美術を広く浸透させた。
+artist_el_greco,エル・グレコ,El Greco|Doménikos Theotokópoulos|ドメニコス・テオトコプロス|エルグレコ,1541,1614,,,,,mannerism,renaissance,painting|oil_painting,greece|spain,ギリシャに生まれスペインで活躍した、マニエリスムの異才。引き伸ばされた人体と霊的な光で、宗教画に強烈な緊張感を与えた。
+artist_gian_lorenzo_bernini,ジャン・ロレンツォ・ベルニーニ,Gian Lorenzo Bernini|Bernini|ベルニーニ,1598,1680,,,,,baroque,baroque,sculpture|architecture,italy,彫刻と建築を統合し、バロックの劇的表現を決定づけた巨匠。動きと感情を石に封じ込める造形で、空間そのものを演出に変えた。
+artist_artemisia_gentileschi,アルテミジア・ジェンティレスキ,Artemisia Gentileschi|Gentileschi|アルテミジア,1593,1653,,,,,baroque,baroque,painting|oil_painting,italy,カラヴァッジョ派の強い明暗と迫真性で知られるバロック期の画家。女性像に力強い主体性を与え、物語絵に緊迫したドラマを刻んだ。
+artist_nicolas_poussin,ニコラ・プッサン,Nicolas Poussin|Poussin|プッサン,1594,1665,,,,,baroque|classicist,baroque,painting|oil_painting,france,古典主義的な秩序と構成で、理性の絵画を打ち立てた。神話や歴史を通じて、人間の感情を厳密な構図に編み込んだ。
+artist_jan_van_eyck,ヤン・ファン・エイク,Jan van Eyck|van Eyck|ファン・エイク,,1441,1390,1395,,,northern_renaissance,renaissance,painting|oil_painting,belgium,油彩技法の洗練と細密描写で北方ルネサンスを代表する。光沢や質感を精緻に描き、絵画に「見る」ことの新しい快楽をもたらした。
+artist_hieronymus_bosch,ヒエロニムス・ボス,Hieronymus Bosch|Bosch|ボス,,1516,1450,1455,,,northern_renaissance,renaissance,painting|oil_painting,netherlands,奇怪な幻視と寓意に満ちた世界を描き、道徳と不安を同居させた。中世的想像力を極限まで押し広げ、後世の幻想表現にも影響した。
+artist_pieter_bruegel_the_elder,ピーテル・ブリューゲル（父）,Pieter Bruegel the Elder|Bruegel|ブリューゲル|ピーテル・ブリューゲル,,1569,1525,1530,,,northern_renaissance,renaissance,painting|drawing,belgium,農民の暮らしや季節の循環を、群像と風景の構成で描いた。庶民文化の観察を通じて、社会の寓意を画面に織り込んだ。
+artist_hans_holbein_the_younger,ハンス・ホルバイン（子）,Hans Holbein the Younger|Holbein|ホルバイン,1497,1543,,,,,northern_renaissance,renaissance,painting|drawing,germany,精密な肖像で権力と個人の輪郭を描き分けた北方ルネサンスの名手。冷静な描写の中に、時代の緊張や知性を封じ込めた。
+artist_titian,ティツィアーノ,Titian|Tiziano Vecellio|ティツィアーノ・ヴェチェッリオ,,1576,1488,1490,,,high_renaissance,renaissance,painting|oil_painting,italy,色彩と筆致で形を立ち上げるヴェネツィア派の中心人物。官能性と威厳を両立させ、油彩表現の可能性を大きく拡張した。
+artist_giorgione,ジョルジョーネ,Giorgione|ジョルジョーネ,,1510,1477,1478,,,high_renaissance,renaissance,painting|oil_painting,italy,詩情ある曖昧さと柔らかな空気感で、ヴェネツィア絵画の新しい抒情を開いた。物語を断定しない画面が、見る者の想像力を誘う。
+artist_pieter_brueghel_the_younger,ピーテル・ブリューゲル（子）,Pieter Brueghel the Younger|Brueghel|ブリューゲル（子）,1564,1638,,,,,flemish_baroque,baroque,painting|oil_painting,belgium,父ブリューゲルの図像を受け継ぎつつ、版画的な明快さで広く普及させた。民衆的主題を繰り返し描き、需要と制作の関係も示す。
+artist_anthony_van_dyck,アンソニー・ヴァン・ダイク,Anthony van Dyck|van Dyck|ヴァン・ダイク,1599,1641,,,,,flemish_baroque,baroque,painting|oil_painting,belgium,優雅な肖像様式で、近代ヨーロッパの貴族像を決定づけた。気品ある姿勢と布の質感で、権威を視覚化する技法を磨いた。
+artist_canaletto,カナレット,Canaletto|Giovanni Antonio Canal|ジョヴァンニ・アントニオ・カナール,1697,1768,,,,,vedutismo,rococo,painting|oil_painting,italy,都市景観画（ヴェドゥータ）を精密に描き、ヴェネツィアの光と遠近を定着した。旅行文化と結びつき、風景の記憶を商品化した存在でもある。
+artist_jacques_louis_david,ジャック＝ルイ・ダヴィッド,Jacques-Louis David|David|ダヴィッド,1748,1825,,,,,neoclassicism,modern_19c,painting|oil_painting,france,古代の徳と政治的緊張を、硬質な構図で描いた新古典主義の中心人物。革命期の視覚言語を形づくり、権力と芸術の関係を露わにした。
+artist_eugene_delacroix,ウジェーヌ・ドラクロワ,Eugène Delacroix|Delacroix|ドラクロワ,1798,1863,,,,,romanticism,modern_19c,painting|oil_painting,france,激しい色彩と動勢で、ロマン主義の情熱を体現した。歴史や異国趣味を題材に、感情の爆発を画面のうねりとして描き出した。
+artist_gustave_courbet,ギュスターヴ・クールベ,Gustave Courbet|Courbet|クールベ,1819,1877,,,,,realism,modern_19c,painting|oil_painting,france,理想化を拒み、現実の労働や生活を正面から描いた写実主義の旗手。題材の選択そのものが社会批評となり、近代絵画の倫理を変えた。
+artist_edouard_manet,エドゥアール・マネ,Édouard Manet|Manet|マネ,1832,1883,,,,,realism|impressionism,modern_19c,painting|oil_painting,france,古典を引用しつつ、都市の現在を鋭く描いた近代絵画の起点。平面的な処理と視線の挑発で、見ることの制度を揺さぶった。
+artist_mary_cassatt,メアリー・カサット,Mary Cassatt|Cassatt|カサット,1844,1926,,,,,impressionism,modern_19c,painting|printmaking,usa,家庭や母子像を主題に、印象派の筆触と版画表現を融合した。親密な場面を通じて、近代の女性の視点を静かに提示した。
+artist_auguste_rodin,オーギュスト・ロダン,Auguste Rodin|Rodin|ロダン,1840,1917,,,,,modernism,modern_19c,sculpture,france,未完のような表面処理と量感で、彫刻に生々しい時間を持ち込んだ。古典の継承と破壊を同時に行い、近代彫刻の扉を開いた。
+artist_gustav_klimt,グスタフ・クリムト,Gustav Klimt|Klimt|クリムト,1862,1918,,,,,symbolism|art_nouveau,modern_early_20c,painting|drawing,austria,金箔や装飾性を用い、官能と不安が同居する象徴的世界を描いた。世紀末ウィーンの美意識を凝縮し、絵画とデザインの境界を曖昧にした。
+artist_edvard_munch,エドヴァルド・ムンク,Edvard Munch|Munch|ムンク,1863,1944,,,,,expressionism|symbolism,modern_early_20c,painting|printmaking,norway,不安、孤独、欲望といった内面を、歪んだ形と色で叫ぶように描いた。個人的体験を普遍化し、表現主義の感情の言語を先導した。
+artist_henri_rousseau,アンリ・ルソー,Henri Rousseau|Rousseau|ルソー（税関吏）,1844,1910,,,,,post_impressionism,modern_19c,painting,france,素朴で硬質な描写と夢のような空間で、独自の幻想を築いた。アカデミックな技法の外側から、前衛に刺激を与えた存在として再評価された。
+artist_marcel_duchamp,マルセル・デュシャン,Marcel Duchamp|Duchamp|デュシャン,1887,1968,,,,,dada|conceptual_art,modern_mid_20c,sculpture|installation,france,既製品を作品として提示し、芸術の定義そのものを問い直した。発想と文脈が価値を生むという視点は、現代美術の基盤になっている。
+artist_piet_mondrian,ピート・モンドリアン,Piet Mondrian|Mondrian|モンドリアン,1872,1944,,,,,de_stijl|abstract_art,modern_early_20c,painting,netherlands,水平・垂直と原色の関係を徹底し、純粋な秩序としての抽象を追求した。絵画を超えて、建築やデザインの視覚原理にも影響した。
+artist_kazimir_malevich,カジミール・マレーヴィチ,Kazimir Malevich|Malevich|マレーヴィチ,1879,1935,,,,,suprematism|abstract_art,modern_early_20c,painting,russia,形と色の最小単位から、純粋な感覚の領域を目指した。表象を脱ぎ捨てる急進性は、20世紀抽象の極北として位置づけられる。
+artist_joan_miro,ジョアン・ミロ,Joan Miró|Miro|ミロ,1893,1983,,,,,surrealism,modern_mid_20c,painting|drawing,spain,記号のような形と鮮やかな色で、無意識の遊びを画面に翻訳した。子どもの落書きにも似た自由さが、詩的な宇宙観として立ち上がる。
+artist_frida_kahlo,フリーダ・カーロ,Frida Kahlo|Kahlo|カーロ,1907,1954,,,,,surrealism,modern_mid_20c,painting,mexico,自己の身体と痛みを正面から描き、個人史を神話の強度にまで高めた。民族性や政治性も織り込み、視線の回復としての肖像を更新した。
+artist_georgia_okeeffe,ジョージア・オキーフ,Georgia O'Keeffe|O'Keeffe|オキーフ,1887,1986,,,,,modernism,modern_mid_20c,painting,usa,花や骨、荒野の形を大胆に拡大し、抽象と具象の境界を往復した。アメリカの風景を独自の感覚で捉え、静かな強度を画面に宿した。
+artist_jean_michel_basquiat,ジャン＝ミシェル・バスキア,Jean-Michel Basquiat|Basquiat|バスキア,1960,1988,,,,,neo_expressionism,contemporary,painting|drawing,usa,グラフィティの衝動と美術史の引用を混ぜ、言葉と図像の衝突で社会を描いた。1980年代の都市文化を象徴し、強いリズムで画面を駆動させた。
+artist_william_blake,ウィリアム・ブレイク,William Blake|Blake|ブレイク,1757,1827,,,,,romanticism,modern_19c,printmaking|drawing|painting,uk,詩と版画を一体化し、幻視的な世界を独自の図像で形にした。理性の時代に対抗する想像力の力を、作品全体で主張した。
+artist_giotto,ジョット,Giotto|Giotto di Bondone|ジョット・ディ・ボンドーネ,,1337,1266,1267,,,,renaissance,painting|fresco,italy,中世的な図像に量感と空間感覚を持ち込み、人物を「そこにいる」存在へ変えた。ルネサンス絵画へ向かう視覚の転換点として位置づけられる。
+artist_masaccio,マザッチョ,Masaccio|トンマーゾ・ディ・セル・ジョヴァンニ|マザッチョ,1401,1428,,,,,,renaissance,painting|fresco,italy,遠近法と光の統一で、画面に説得力ある空間を構築した初期ルネサンスの要。短い生涯ながら、以後の絵画の写実性を一気に加速させた。
+artist_fra_angelico,フラ・アンジェリコ,Fra Angelico|Beato Angelico|フラ アンジェリコ,,1455,1395,1400,,,,renaissance,painting|fresco,italy,祈りの静けさを湛えた色彩と構成で、宗教画に透明な精神性を与えた。厳密な造形と抒情が同居し、初期ルネサンスの理想を示す。
+artist_donatello,ドナテッロ,Donatello|ドナート・ディ・ニッコロ・ディ・ベット・バルディ|ドナテッロ,1386,1466,,,,,,renaissance,sculpture,italy,古代彫刻の復興を現実の身体感覚へ接続し、近代的な彫刻表現を切り開いた。表情と動勢の強さで、石や青銅に生の緊張を宿した。
+artist_andrea_mantegna,アンドレア・マンテーニャ,Andrea Mantegna|マンテーニャ,1431,1506,,,,,,renaissance,painting|drawing,italy,彫刻的な輪郭と厳密な遠近で、古代的威厳を絵画に定着させた。硬質な空間構成は、宮廷文化と人文主義の視覚化として読める。
+artist_hans_memling,ハンス・メムリンク,Hans Memling|Memling|メムリンク,,1494,1430,1440,,,,renaissance,painting|oil_painting,germany,緻密な描写と柔らかな敬虔さで、北方の肖像と宗教画を洗練した。静かな表情の奥に、都市ブルジョワの精神風景がにじむ。
+artist_robert_campin,ロベルト・カンピン,Robert Campin|Master of Flémalle|カンピン,,1444,1375,1380,,,,renaissance,painting|oil_painting,france,初期フランドル絵画の成立に関わったとされる重要人物。日用品の質感まで写し取り、宗教的主題を現実の室内へ引き寄せた。
+artist_piero_della_francesca,ピエロ・デラ・フランチェスカ,Piero della Francesca|ピエロ・デラ・フランチェスカ,,1492,1415,1420,,,,renaissance,painting|fresco,italy,幾何学的な秩序と澄んだ光で、静止した時間のような画面を作った。理性の構成と宗教的静謐が結びつき、唯一無二の重力を放つ。
+artist_tintoretto,ティントレット,Tintoretto|Jacopo Robusti|ヤコポ・ロブスティ,1518,1594,,,,,,renaissance,painting|oil_painting,italy,劇的な遠近と強い明暗で、場面を渦のように動かすヴェネツィアの異才。スピード感ある筆致が、宗教画に切迫したドラマを与えた。
+artist_paolo_veronese,パオロ・ヴェロネーゼ,Paolo Veronese|Veronese|ヴェロネーゼ,1528,1588,,,,,,renaissance,painting|oil_painting,italy,壮麗な色彩と舞台装置のような建築空間で、祝祭性を絵画に定着した。宗教画さえ社交の場のように描き、都市の華やぎを映し出す。
+artist_annibale_carracci,アンニーバレ・カラッチ,Annibale Carracci|Carracci|カラッチ,1560,1609,,,,,,baroque,painting|drawing|fresco,italy,理想化と自然観察を統合し、バロック絵画の基礎を整えた改革者。古典的構成の中に生気を通し、後続の大画面表現を導いた。
+artist_francisco_zurbaran,スルバラン,Francisco de Zurbarán|Zurbarán|スルバラン,1598,1664,,,,,,baroque,painting|oil_painting,spain,静物のような沈黙と厳しい光で、信仰の緊張を描いたスペイン・バロックの巨匠。質感の鋭さが、禁欲と官能を同時に立ち上げる。
+artist_antoine_watteau,アントワーヌ・ヴァトー,Antoine Watteau|Watteau|ヴァトー,1684,1721,,,,,,rococo,painting|oil_painting,france,優雅な社交の場に、どこか翳りのある感情を漂わせたロココの詩人。軽やかな筆致が、楽しさの裏にある不確かさをそっと示す。
+artist_francois_boucher,フランソワ・ブーシェ,François Boucher|Boucher|ブーシェ,1703,1770,,,,,,rococo,painting|drawing,france,神話と官能を装飾的に編み、ロココの甘美さを象徴した。絵画と工芸の感覚が結びつき、宮廷文化の視覚スタイルを形成した。
+artist_jean_baptiste_simeon_chardin,シャルダン,Jean-Baptiste-Siméon Chardin|Chardin|シャルダン,1699,1779,,,,,,rococo,painting|oil_painting,france,派手さよりも日常の静けさを描き、物の重みと空気を丁寧に定着した。素朴な室内が、見る者の感覚を研ぎ澄ます舞台になる。
+artist_william_hogarth,ウィリアム・ホガース,William Hogarth|Hogarth|ホガース,1697,1764,,,,,,modern_19c,painting|printmaking,uk,風刺連作で都市社会の欲望と堕落を描き、絵画を物語と批評の装置にした。笑いの背後に、道徳と階級の現実がくっきり立つ。
+artist_thomas_gainsborough,トマス・ゲインズバラ,Thomas Gainsborough|Gainsborough|ゲインズバラ,1727,1788,,,,,,modern_19c,painting|oil_painting,uk,軽やかな筆致で人物と風景を結び、英国肖像画に洗練を与えた。上流階級の優雅さの中に、自然の気配が静かに流れ込む。
+artist_john_constable,ジョン・コンスタブル,John Constable|Constable|コンスタブル,1776,1837,,,,,romanticism,modern_19c,painting|oil_painting,uk,雲や湿った空気まで観察し、身近な風景を真摯に描いた。自然の具体性が感情と結び、ロマン主義の風景観を現実へ引き寄せた。
+artist_caspar_david_friedrich,カスパー・ダーヴィト・フリードリヒ,Caspar David Friedrich|Friedrich|フリードリヒ,1774,1840,,,,,romanticism,modern_19c,painting|oil_painting,germany,人影と広大な自然を対置し、孤独と崇高を静かに描いた。風景が内面の鏡となり、見る者の思考を深い沈黙へ導く。
+artist_eugene_boudin,ウジェーヌ・ブーダン,Eugène Boudin|Boudin|ブーダン,1824,1898,,,,,impressionism,modern_19c,painting|oil_painting,france,海辺の空と光を素早い筆致で捉え、戸外制作の感覚を広げた。印象派へ至る視覚の準備を整えた先駆として評価される。
+artist_james_mcneill_whistler,ジェームズ・マクニール・ホイッスラー,James McNeill Whistler|Whistler|ホイッスラー,1834,1903,,,,,modernism,modern_19c,painting|printmaking,usa,音楽的な調子として色と形を組み、絵画の自律性を主張した。都市の夜景や室内に漂う沈黙が、近代の感覚を先取りする。
+artist_alfred_sisley,アルフレッド・シスレー,Alfred Sisley|Sisley|シスレー,1839,1899,,,,,impressionism,modern_19c,painting|oil_painting,france,川辺や空の移ろいを一貫して追い、風景に澄んだリズムを与えた。華美さを避けた誠実な視線が、印象派の静かな核を成す。
+artist_gustave_moreau,ギュスターヴ・モロー,Gustave Moreau|Moreau|モロー,1826,1898,,,,,symbolism,modern_19c,painting|drawing,france,神話や聖書を濃密な装飾性で描き、象徴主義の想像力を体現した。細部の執拗さが、物語を心理の迷宮へ変えていく。
+artist_henri_de_toulouse_lautrec,アンリ・ド・トゥールーズ＝ロートレック,Henri de Toulouse-Lautrec|Toulouse-Lautrec|ロートレック,1864,1901,,,,,post_impressionism,modern_19c,painting|drawing|printmaking,france,夜の娯楽と都市の身体を、鋭い線と大胆な省略で捉えた。ポスター表現も含め、近代の視覚メディアの感覚を先導した。
+artist_paul_klee,パウル・クレー,Paul Klee|Klee|クレー,1879,1940,,,,,abstract_art|expressionism,modern_early_20c,painting|drawing,switzerland,線と色を記号のように編み、思考と遊びが同居する画面を作った。音楽的構成と詩的イメージが交差し、抽象の語彙を豊かにした。
+artist_georges_braque,ジョルジュ・ブラック,Georges Braque|Braque|ブラック,1882,1963,,,,,cubism,modern_early_20c,painting|printmaking,france,ピカソと並びキュビスムを形成し、視点の分解と再構成を推し進めた。静物を中心に、見る行為そのものを組み替える実験を重ねた。
+artist_umberto_boccioni,ウンベルト・ボッチョーニ,Umberto Boccioni|Boccioni|ボッチョーニ,1882,1916,,,,,futurism,modern_early_20c,painting|sculpture,italy,速度や都市の躍動を形態の連続として表現し、未来派の核心を担った。静止した彫刻に運動の感覚を持ち込み、近代の身体観を更新した。
+artist_willem_de_kooning,ウィレム・デ・クーニング,Willem de Kooning|de Kooning|デ・クーニング,1904,1997,,,,,abstract_expressionism,modern_mid_20c,painting,netherlands,荒々しい筆致と形の崩しで、抽象と具象を往復し続けた戦後の重要作家。画面は葛藤の痕跡として残り、見る者の身体感覚を揺さぶる。
+artist_louise_bourgeois,ルイーズ・ブルジョワ,Louise Bourgeois|Bourgeois|ブルジョワ,1911,2010,,,,,,modern_mid_20c,sculpture|installation,france,記憶や家族、恐れを造形へ変換し、彫刻を心理の装置にした。親密な感情が巨大な形として立ち上がり、鑑賞者の身体に迫る。
+artist_jeff_koons,ジェフ・クーンズ,Jeff Koons|Koons|クーンズ,1955,,,,,,contemporary_art,contemporary,sculpture|installation,usa,大量消費のイメージを巨大で光沢ある彫刻へ変え、価値と欲望の仕組みを露出させた。無垢さと計算が同居し、現代の視覚経済を映す。
+artist_ai_weiwei,艾未未,Ai Weiwei|Ai Weiwei|アイ・ウェイウェイ|艾未未,1957,,,,,,conceptual_art|contemporary_art,contemporary,installation|sculpture|photography,china,素材と社会的文脈を結びつけ、権力や制度を問い直す作品で知られる。表現を公共圏へ接続し、同時代の倫理と視線を浮かび上がらせる。
+artist_amedeo_modigliani,アメデオ・モディリアーニ,Amedeo Modigliani|Modigliani|モディリアーニ,1884,1920,,,,,modernism,modern_early_20c,painting|drawing|sculpture,italy,細長い顔立ちと簡潔な輪郭で人物の気配を抽出し、憂いを帯びた肖像を確立した。古典と前衛の間を揺れながら、独自の抒情を貫いた。
+artist_francis_bacon,フランシス・ベーコン,Francis Bacon|Bacon|ベーコン,1909,1992,,,,,neo_expressionism,modern_mid_20c,painting,ireland,身体を歪め裂くような像で、戦後の不安と暴力性を直視した。具象でありながら現実感が崩れ、見る者の感覚をえぐる強度を持つ。
+artist_lucian_freud,ルシアン・フロイド,Lucian Freud|Freud|フロイド,1922,2011,,,,,realism,modern_mid_20c,painting,germany,肉体の重みを執拗に描き、肖像を心理ではなく皮膚の事実として立ち上げた。近距離の視線が、モデルと鑑賞者の緊張を生む。
+artist_david_hockney,デイヴィッド・ホックニー,David Hockney|Hockney|ホックニー,1937,,,,,,pop_art|contemporary_art,contemporary,painting|drawing|photography,uk,鮮烈な色と明快な構図で、現代の視覚体験を軽やかに更新し続ける。絵画・写真・デジタルを往復し、見ることの仕組み自体を遊ぶ。
+artist_gerhard_richter,ゲルハルト・リヒター,Gerhard Richter|Richter|リヒター,1932,,,,,,contemporary_art,contemporary,painting,germany,写真のような具象と抽象を行き来し、記憶と現実の曖昧さを絵画で検証した。塗り重ねやぼかしが、像の信頼性を静かに揺さぶる。
+artist_anselm_kiefer,アンゼルム・キーファー,Anselm Kiefer|Kiefer|キーファー,1945,,,,,,contemporary_art,contemporary,painting|sculpture|installation,germany,歴史の傷や神話を重い素材感で引き受け、戦後ドイツの記憶を可視化した。灰や鉛のような物質性が、時間の堆積として迫る。
+artist_cindy_sherman,シンディ・シャーマン,Cindy Sherman|Sherman|シャーマン,1954,,,,,,conceptual_art|contemporary_art,contemporary,photography,usa,変装した自己像で、女性像やメディア表象の型を解体した。写真を「記録」ではなく「役割」の場として用い、視線の権力を暴く。
+artist_georges_rouault,ジョルジュ・ルオー,Georges Rouault|Rouault|ルオー,1871,1958,,,,,expressionism,modern_early_20c,painting|printmaking,france,太い輪郭線と深い色面で、苦悩や救済の感情を濃密に描いた。聖と俗を抱え込み、静かな怒りのような宗教性を宿す。
+artist_joseph_beuys,ヨーゼフ・ボイス,Joseph Beuys|Beuys|ボイス,1921,1986,,,,,conceptual_art,modern_mid_20c,sculpture|installation|design,germany,素材や行為を通じて社会そのものを彫刻の対象とみなした。芸術を公共圏へ接続し、制度や価値の再編を挑発した。
+artist_yves_klein,イヴ・クライン,Yves Klein|Klein|クライン,1928,1962,,,,,conceptual_art,modern_mid_20c,painting|installation,france,単色の青に象徴される徹底した感覚の追求で、絵画の「外側」を指し示した。物質と不可視の間に、作品の場を開こうとした。
+artist_donald_judd,ドナルド・ジャッド,Donald Judd|Judd|ジャッド,1928,1994,,,,,minimalism,modern_mid_20c,sculpture|installation,usa,形と素材をそのまま提示し、表現の物語性を削ぎ落とした。空間の中で作品がどう存在するかを重視し、ミニマリズムの核を作った。
+artist_sol_lewitt,ソル・ルウィット,Sol LeWitt|LeWitt|ルウィット,1928,2007,,,,,conceptual_art|minimalism,modern_mid_20c,drawing|installation|sculpture,usa,アイデアを作品の中心に置き、手順や規則が造形を生む構造を示した。壁画などで、制作と作者性の概念を更新した。
+artist_dan_flavin,ダン・フレイヴィン,Dan Flavin|Flavin|フレイヴィン,1933,1996,,,,,minimalism,modern_mid_20c,installation,usa,蛍光灯という既製品の光で空間を彫刻化し、色と距離の感覚を変えた。物体よりも環境そのものが作品になるという転換を促した。
+artist_cy_twombly,サイ・トゥオンブリー,Cy Twombly|Twombly|トゥオンブリー,1928,2011,,,,,abstract_expressionism,modern_mid_20c,painting|drawing,usa,走り書きのような線と層で、記憶や神話の断片を画面に堆積させた。意味が立ち上がりきらない余白が、詩のように残る。
+artist_agnes_martin,アグネス・マーティン,Agnes Martin|Martin|マーティン,1912,2004,,,,,minimalism,modern_mid_20c,painting|drawing,canada,格子や淡い帯の反復で、静けさと集中を生む絵画を追求した。感情を排するのではなく、微細な揺れとして画面に沈めている。
+artist_frank_stella,フランク・ステラ,Frank Stella|Stella|ステラ,1936,2024,,,,,minimalism|abstract_art,modern_mid_20c,painting|sculpture,usa,形そのものを絵画の条件として押し出し、画面を物体的に扱った。平面のルールを拡張し、抽象の更新を継続した。
+artist_jasper_johns,ジャスパー・ジョーンズ,Jasper Johns|Johns|ジョーンズ,1930,,,,,,pop_art,modern_mid_20c,painting|printmaking,usa,旗や数字など既知の記号を描き、見る行為の自動性を露わにした。意味が固定しない状態を作り、戦後美術の転換点となった。
+artist_robert_rauschenberg,ロバート・ラウシェンバーグ,Robert Rauschenberg|Rauschenberg|ラウシェンバーグ,1925,2008,,,,,pop_art,modern_mid_20c,painting|printmaking|installation,usa,日用品や写真を取り込み、絵画を現実の断片で駆動させた。高低の境界を溶かし、メディア社会の感覚を作品へ流し込んだ。
+artist_bridget_riley,ブリジット・ライリー,Bridget Riley|Riley|ライリー,1931,,,,,,op_art,modern_mid_20c,painting,uk,反復する線や色で視覚の錯覚を生み、見る者の身体感覚を揺らした。絵が動くように感じる体験を通じて、知覚そのものを主題化した。
+artist_takashi_murakami,村上隆,Takashi Murakami|Murakami Takashi|ムラカミ タカシ|村上 隆,1962,,,,,,contemporary_art,contemporary,painting|sculpture|installation,japan,ポップな図像と美術史の枠組みを接続し、日本発の現代的視覚言語を拡張した。商業と芸術の境界を意図的に往復し、価値の回路を問う。
+artist_hiroshi_sugimoto,杉本博司,Hiroshi Sugimoto|Sugimoto Hiroshi|スギモト ヒロシ|杉本 博司,1948,,,,,,contemporary_art,contemporary,photography,japan,長時間露光などの方法で時間を写真に折り畳み、静謐なイメージを作る。歴史・記憶・再現の問題を、極端に澄んだ画面で提示する。
+artist_sonia_delaunay,ソニア・ドローネー,Sonia Delaunay|Delaunay|ドローネー,1885,1979,,,,,abstract_art,modern_early_20c,painting|design,ukraine,色彩のリズムを抽象として組織し、絵画とデザインを横断した。生活の中へ色の構成を拡張し、近代の視覚文化に新しい速度を与えた。
+artist_robert_delaunay,ロベール・ドローネー,Robert Delaunay|Delaunay|ドローネー,1885,1941,,,,,abstract_art,modern_early_20c,painting,france,光と色の分割で、都市や象徴を抽象的な運動として描いた。色彩そのものが主題になる絵画を推し進め、抽象の基礎を広げた。
+artist_el_lissitzky,エル・リシツキー,El Lissitzky|Lissitzky|リシツキー,1890,1941,,,,,constructivism,modern_early_20c,design|printmaking|architecture,russia,造形を社会の設計へ接続し、グラフィックや展示空間で前衛を推進した。図像と言語の配置が、政治と視覚の関係を鋭く組み替える。
+artist_vladimir_tatlin,ウラジーミル・タトリン,Vladimir Tatlin|Tatlin|タトリン,1885,1953,,,,,constructivism,modern_early_20c,sculpture|architecture|design,russia,素材と構造を前面に出し、芸術を制作と技術の場へ引き寄せた。構成主義の象徴として、近代の設計思想に強い影響を残した。
+artist_kazuo_shiraga,白髪一雄,Kazuo Shiraga|Shiraga Kazuo|シラガ カズオ|白髪 一雄,1924,2008,,,,,gutai,modern_mid_20c,painting,japan,足で描くなど身体性を極限まで前景化し、絵画を行為の痕跡として成立させた。具体美術協会の中核として、戦後の表現の枠を押し広げた。
+artist_lee_ufan,李禹煥,Lee Ufan|Lee U-fan|リ・ウーファン|李 禹煥,1936,,,,,,mono_ha|minimalism,contemporary,painting|sculpture|installation,south_korea,物と物の関係、空間の張りつめた間合いを作品として提示した。最小限の介入で、見る者の知覚が環境へ開かれていく感覚を作る。
+artist_yoko_ono,オノ・ヨーコ,Yoko Ono|Ono Yoko|オノ ヨーコ|小野 洋子,1933,,,,,,conceptual_art,contemporary,installation|design,japan,指示文や参加型の形式で、作品を鑑賞者の行為へ開放した。芸術を日常と政治へ接続し、想像力の共有を公共の実践として提示する。
+artist_pietro_perugino,ペルジーノ,Pietro Perugino|Perugino|ペルジーノ,,1523,1446,1452,,,,renaissance,painting,italy,澄んだ色調と均整の取れた構図で、盛期ルネサンスの「静かな理想」を形にした。ラファエロにも影響を与え、優美な宗教画様式を広めた。
+artist_andrea_del_verrocchio,ヴェロッキオ,Andrea del Verrocchio|Verrocchio|アンドレア・デル・ヴェロッキオ,1435,1488,,,,,,renaissance,sculpture|painting|drawing,italy,彫刻と絵画を横断し、写実と躍動感を鍛え上げたフィレンツェの中核的人物。工房を通じて次世代の才能を育て、表現の水準を底上げした。
+artist_fra_filippo_lippi,フィリッポ・リッピ,Fra Filippo Lippi|Filippo Lippi|フィリッポ・リッピ,,1469,1406,1407,,,,renaissance,painting|fresco,italy,柔らかな表情と流れる線で、宗教画に親密な人間味を持ち込んだ。優美さと現実感のあいだを往復し、初期ルネサンスの感性を豊かにした。
+artist_giorgio_de_chirico,ジョルジョ・デ・キリコ,Giorgio de Chirico|de Chirico|デ・キリコ,1888,1978,,,,,modernism,modern_early_20c,painting|drawing,italy,無人の広場や不穏な影で、時間がねじれるような静けさを描いた。「形而上的」なイメージはシュルレアリスムの想像力を刺激し、20世紀絵画の不安を先取りした。
+artist_max_ernst,マックス・エルンスト,Max Ernst|Ernst|エルンスト,1891,1976,,,,,dada|surrealism,modern_early_20c,painting|printmaking,germany,偶然性の技法や奇妙な図像で、無意識の連想を画面に導入した。ダダからシュルレアリスムへと横断し、理性の秩序を軽やかに破壊した。
+artist_giorgio_morandi,ジョルジョ・モランディ,Giorgio Morandi|Morandi|モランディ,1890,1964,,,,,modernism,modern_early_20c,painting|drawing,italy,瓶や器の反復で、わずかな色と距離の差異を凝視した。静物を通じて時間の密度を描き、沈黙の中に強い集中を生む絵画を築いた。
+artist_edward_hopper,エドワード・ホッパー,Edward Hopper|Hopper|ホッパー,1882,1967,,,,,modernism,modern_early_20c,painting,usa,都市の光と影の切れ目に、人の孤独や距離感を浮かび上がらせた。日常の場面が舞台のように見え、見る者の感情を静かに揺らす。
+artist_grant_wood,グラント・ウッド,Grant Wood|Wood|グラント・ウッド,1891,1942,,,,,american_regionalism,modern_early_20c,painting,usa,アメリカ中西部の風土と人物を、硬質で象徴的な描写で定着した。素朴さの裏に緊張を仕込み、国家的イメージの作られ方を示す。
+artist_norman_rockwell,ノーマン・ロックウェル,Norman Rockwell|Rockwell|ロックウェル,1894,1978,,,,,american_realism,modern_mid_20c,painting|drawing,usa,物語性の強い人物描写で、アメリカの日常と理想像を広く共有させた。親しみやすさの中に、社会の矛盾や変化も滲ませる。
+artist_henri_cartier_bresson,アンリ・カルティエ＝ブレッソン,Henri Cartier-Bresson|Cartier-Bresson|カルティエ＝ブレッソン,1908,2004,,,,,documentary_photography,modern_mid_20c,photography,france,街角の一瞬を鋭く切り取り、「決定的瞬間」と呼ばれる写真観を確立した。構図と偶然が交差する速度感で、20世紀の視覚記録を刷新した。
+artist_man_ray,マン・レイ,Man Ray|マンレイ,1890,1976,,,,,dada|surrealism,modern_early_20c,photography|printmaking,usa,写真とオブジェを横断し、光や偶然を使って現実をねじる実験を続けた。イメージが理性を裏切る快感を提示し、前衛の語彙を増やした。
+artist_alfred_stieglitz,アルフレッド・スティーグリッツ,Alfred Stieglitz|Stieglitz|スティーグリッツ,1864,1946,,,,,modernism,modern_early_20c,photography,usa,写真を芸術として確立する運動を牽引し、近代美術の受容にも大きく関わった。都市や雲の連作などで、写真の自律的表現を押し広げた。
+artist_ansel_adams,アンセル・アダムス,Ansel Adams|Adams|アンセル・アダムス,1902,1984,,,,,landscape_photography,modern_mid_20c,photography,usa,鮮明な階調と緻密なプリントで自然風景を壮大に定着した。技術を徹底して磨き上げ、写真が持つ「光の彫刻性」を高い水準で示した。
+artist_constantin_brancusi,コンスタンティン・ブランクーシ,Constantin Brancusi|Brancusi|ブランクーシ,1876,1957,,,,,modernism,modern_early_20c,sculpture,romania,形を極限まで単純化し、彫刻を「本質のかたち」へ近づけた。磨かれた表面と抽象化で、近代彫刻の方向を決定づけた。
+artist_alberto_giacometti,アルベルト・ジャコメッティ,Alberto Giacometti|Giacometti|ジャコメッティ,1901,1966,,,,,surrealism|modernism,modern_mid_20c,sculpture|drawing,switzerland,細長い人物像に、存在の脆さと距離感を凝縮した。触れられそうで触れられない現実の感覚を、彫刻の輪郭として固定する。
+artist_henry_moore,ヘンリー・ムーア,Henry Moore|Moore|ムーア,1898,1986,,,,,modernism,modern_mid_20c,sculpture,uk,人体を抽象化しつつ、骨格や空洞の力学で量感を組み立てた。屋外空間と結びつくスケール感で、彫刻を公共の風景に根づかせた。
+artist_barbara_hepworth,バーバラ・ヘップワース,Barbara Hepworth|Hepworth|ヘップワース,1903,1975,,,,,modernism,modern_mid_20c,sculpture,uk,穿孔された形態や滑らかな曲面で、空間そのものを彫刻の一部にした。触覚的な静けさが、風景と身体感覚を結びつける。
+artist_jean_arp,ジャン・アルプ,Jean Arp|Hans Arp|Arp|アルプ,1886,1966,,,,,dada|surrealism,modern_early_20c,sculpture|drawing,germany,有機的な曲線と偶然の生成を取り込み、形が「育つ」ような彫刻を作った。ダダの精神を保ちつつ、抽象を軽やかな生命感へ導いた。
+artist_ellsworth_kelly,エルズワース・ケリー,Ellsworth Kelly|Kelly|ケリー,1923,2015,,,,,minimalism,modern_mid_20c,painting|sculpture,usa,単純な色面と輪郭で、見ることの条件をむき出しにした。絵画と物体の境界を意識させ、空間の中で色がどう立つかを徹底して追った。
+artist_barnett_newman,バーネット・ニューマン,Barnett Newman|Newman|ニューマン,1905,1970,,,,,abstract_expressionism,modern_mid_20c,painting,usa,広い色面と垂直の線で、崇高さや沈黙の体験を呼び起こした。絵画を「場」として立ち上げ、鑑賞者の身体と時間を巻き込む。
+artist_clyfford_still,クリフォード・スティル,Clyfford Still|Still|スティル,1904,1980,,,,,abstract_expressionism,modern_mid_20c,painting,usa,裂けるような色面の衝突で、原初的なエネルギーを画面に刻んだ。抽象を心理ではなく地層のような物質感として提示し、戦後絵画の強度を押し上げた。
+artist_helen_frankenthaler,ヘレン・フランケンサーラー,Helen Frankenthaler|Frankenthaler|フランケンサーラー,1928,2011,,,,,abstract_expressionism,modern_mid_20c,painting,usa,染み込むような色の広がりで、絵具と支持体の関係を更新した。偶然と制御のあわいで、抽象の空気感を新しいスケールで示した。
+artist_joan_mitchell,ジョアン・ミッチェル,Joan Mitchell|Mitchell|ミッチェル,1925,1992,,,,,abstract_expressionism,modern_mid_20c,painting,usa,荒々しい筆致と色の塊で、風景の記憶を身体的に再構成した。感情が形になる直前の勢いを、画面全体のうねりとして残す。
+artist_robert_motherwell,ロバート・マザウェル,Robert Motherwell|Motherwell|マザウェル,1915,1991,,,,,abstract_expressionism,modern_mid_20c,painting|printmaking,usa,抽象に知性と政治的感覚を織り込み、形の緊張で思考を立ち上げた。大きな構成の中で、沈黙と衝突が交互に脈打つ。
+artist_richard_serra,リチャード・セラ,リチャード・セラ|Richard Serra|Serra|セラ,1938,2024,,,,,minimalism,modern_mid_20c,sculpture|installation,usa,巨大な鋼板で空間を曲げ、歩行そのものを鑑賞体験に変えた。重力と圧迫感が、身体の尺度を揺らし、場所の感覚を作り替える。
+artist_damien_hirst,ダミアン・ハースト,Damien Hirst|Hirst|ハースト,1965,,,,,,contemporary,contemporary,installation|sculpture,uk,生と死、価値と消費を露骨な象徴で突きつけ、現代の欲望の回路を可視化した。挑発的な形式の背後に、市場と倫理の緊張が走る。
+artist_banksy,バンクシー,Banksy|バンクシー,,,,,,,contemporary,contemporary,painting|printmaking,uk,匿名性を武器に、街頭の壁面を社会批評のメディアへ変えた。軽妙な図像が政治や監視、格差の問題に刺さり、拡散される時代性を体現する。
+artist_olafur_eliasson,オラファー・エリアソン,Olafur Eliasson|Eliasson|エリアソン,1967,,,,,,contemporary,contemporary,installation,iceland|denmark,光・霧・水などの現象を用い、環境と知覚の関係を体験として提示する。見ることが世界の作り方であると気づかせ、公共空間の感覚を更新する。
+artist_marina_abramovic,マリーナ・アブラモヴィッチ,Marina Abramović|Abramovic|アブラモヴィッチ,1946,,,,,,contemporary,contemporary,performance|installation,serbia,身体の限界や他者との関係を、時間と痛みを伴う行為で提示した。鑑賞者の視線や同席そのものが作品となり、倫理と親密さの境界を問う。
+artist_tracey_emin,トレイシー・エミン,Tracey Emin|Emin|エミン,1963,,,,,,contemporary,contemporary,installation|drawing,uk,私的な経験や傷を率直に作品化し、告白が公共の言語へ変わる瞬間を作った。脆さを隠さない態度が、同時代の感情の輪郭を浮かび上がらせる。
+artist_camille_pissarro,カミーユ・ピサロ,Camille Pissarro|Pissarro|ピサロ,1830,1903,,,,,impressionism,modern_19c,painting|oil_painting,us_virgin_islands,印象派の中心人物として戸外制作を支え、都市と田園の光を粘り強く追った。多くの後進を導き、運動の「背骨」のような存在となった。
+artist_gustave_caillebotte,ギュスターヴ・カイユボット,Gustave Caillebotte|Caillebotte|カイユボット,1848,1894,,,,,impressionism,modern_19c,painting|oil_painting,france,都市の街路や室内を鋭い遠近と切り取りで描き、近代の視線を先取りした。印象派の支援者としても重要で、運動を実務面で支えた。
+artist_jean_francois_millet,ジャン＝フランソワ・ミレー,Jean-François Millet|Jean Francois Millet|Millet|ミレー,1814,1875,,,,,realism,modern_19c,painting|oil_painting,france,農民の労働と祈りを崇高に描き、日常を歴史画級の重みへ引き上げた。社会の現実と精神性が同居する画面が、後代の表現を刺激した。
+artist_odilon_redon,オディロン・ルドン,Odilon Redon|Redon|ルドン,1840,1916,,,,,symbolism,modern_19c,drawing|printmaking|painting,france,闇から立ち上がる幻想的な像と、後年の鮮やかな色彩で内面世界を描いた。説明できない感情を視覚化し、象徴主義の想像力を広げた。
+artist_pierre_bonnard,ピエール・ボナール,Pierre Bonnard|Bonnard|ボナール,1867,1947,,,,,post_impressionism|nabis,modern_early_20c,painting|oil_painting,france,室内や日常の光を、色の記憶として編み直した画家。身近な場面がゆっくり変形し、時間そのものが画面に溶け込む。
+artist_edouard_vuillard,エドゥアール・ヴュイヤール,Édouard Vuillard|Edouard Vuillard|Vuillard|ヴュイヤール,1868,1940,,,,,post_impressionism|nabis,modern_early_20c,painting|drawing,france,壁紙や布地の模様まで含め、生活の空気を平面のリズムで捉えた。親密な室内が心理の舞台となり、静かな緊張を生む。
+artist_fernand_leger,フェルナン・レジェ,Fernand Léger|Fernand Leger|Leger|レジェ,1881,1955,,,,,cubism|modernism,modern_early_20c,painting|drawing,france,機械時代の形と色を大胆に単純化し、都市のエネルギーを明快に可視化した。硬質な輪郭と色面が、近代の視覚をポップに先取りする。
+artist_juan_gris,フアン・グリス,Juan Gris|Gris|フアン グリス,1887,1927,,,,,cubism,modern_early_20c,painting|drawing,spain,キュビスムを理知的に整理し、構成の明晰さで静物を組み立て直した。分解された視点が、画面の秩序として美しく回収される。
+artist_hilma_af_klint,ヒルマ・アフ・クリント,Hilma af Klint|af Klint|ヒルマ・アフ・クリント,1862,1944,,,,,abstract_art,modern_early_20c,painting,sweden,抽象を早い時期から体系的に試み、霊性や象徴を幾何学へ翻訳した。後年の再評価により、抽象史の見取り図を塗り替えた。
+artist_isamu_noguchi,イサム・ノグチ,Isamu Noguchi|Noguchi|野口勇|ノグチ イサム,1904,1988,,,,,modernism,modern_mid_20c,sculpture|installation|design,usa|japan,彫刻・庭園・家具を横断し、形を空間体験として設計した。東西の感覚を接続し、日常と芸術の境界をしなやかに溶かした。
+artist_barbara_kruger,バーバラ・クルーガー,Barbara Kruger|Kruger|クルーガー,1945,,,,,,conceptual_art,contemporary,photography|printmaking|design,usa,強い言葉と写真を組み合わせ、消費や権力、ジェンダーの構造を直撃する。広告の語彙を反転させ、見る側の「同意」を揺さぶる。
+artist_kara_walker,カラ・ウォーカー,Kara Walker|Walker|ウォーカー,1969,,,,,,conceptual_art|contemporary_art,contemporary,drawing|printmaking|installation,usa,影絵のような図像で、歴史の暴力や人種表象の残酷さを露出させる。美しさと不穏が同居し、鑑賞者の倫理を試す。
+artist_anish_kapoor,アニッシュ・カプーア,Anish Kapoor|Kapoor|カプーア,1954,,,,,,contemporary_art,contemporary,sculpture|installation,india|uk,巨大な形態や鏡面で、空間の感覚を反転させる作品を展開する。物質が虚無へつながるような体験が、身体の尺度を揺らす。
+artist_james_turrell,ジェームズ・タレル,James Turrell|Turrell|タレル,1943,,,,,,contemporary_art|minimalism,contemporary,installation,usa,光そのものを素材に、空間の輪郭や奥行きを知覚として作り替える。見るという行為が、環境を生成する瞬間を体験させる。
+artist_frank_lloyd_wright,フランク・ロイド・ライト,Frank Lloyd Wright|Wright|ライト,1867,1959,,,,,modernism,modern_early_20c,architecture,usa,水平線を強調した空間構成で、風景と建築の連続性を追求した。機能と詩情を統合し、近代建築の語彙をアメリカから拡張した。
+artist_le_corbusier,ル・コルビュジエ,Le Corbusier|Charles-Édouard Jeanneret|シャルル＝エドゥアール・ジャンヌレ,1887,1965,,,,,modernism,modern_early_20c,architecture|design,switzerland,建築を機械のように合理化しつつ、都市計画まで射程に入れた近代の巨人。強い理念が賛否を生み、20世紀の空間観を決定づけた。
+artist_antoni_gaudi,アントニ・ガウディ,Antoni Gaudí|Antoni Gaudi|Gaudi|ガウディ,1852,1926,,,,,art_nouveau,modern_19c,architecture,spain,自然の形態を建築へ翻訳し、曲線と装飾で独自の構造美を生んだ。工芸・宗教・都市の夢が結晶し、唯一無二の景観を作る。
+artist_tadao_ando,安藤忠雄,Tadao Ando|Ando Tadao|アンドウ タダオ|安藤 忠雄,1941,,,,,,contemporary,contemporary,architecture,japan,コンクリートと光、静かな幾何学で、場所の感覚を研ぎ澄ませる建築を作る。内と外の境界を操作し、体験としての空間を成立させる。
+artist_zaha_hadid,ザハ・ハディド,Zaha Hadid|Hadid|ハディド,1950,2016,,,,,contemporary,contemporary,architecture|design,iraq,流線形の造形で、建築を固定物ではなく運動する地形のように扱った。図面のラディカルさを現実へ押し込み、同時代の空間語彙を更新した。
+artist_lucie_rie,ルーシー・リー,Lucie Rie|Rie|ルーシー リー,1902,1995,,,,,modernism,modern_mid_20c,ceramics,austria,薄い器体と洗練された釉調で、陶芸に現代的な緊張感を与えた。触覚的な静けさがあり、工芸の枠を超えて評価される。
+artist_bernard_leach,バーナード・リーチ,Bernard Leach|Leach|リーチ,1887,1979,,,,,modernism,modern_mid_20c,ceramics|design,hong_kong|uk,東西の陶芸理念を接続し、スタジオ・ポタリーの思想を広めた。用の美と作家性の両立を掲げ、工芸の近代を形づくった。
+artist_edward_weston,エドワード・ウェストン,Edward Weston|Weston|ウェストン,1886,1958,,,,,modernism,modern_mid_20c,photography,usa,貝殻や野菜、裸体を彫刻のように撮り、形の本質を写真で立ち上げた。光と輪郭の精度が、写真表現の自律性を押し上げた。
+artist_dorothea_lange,ドロシア・ラング,Dorothea Lange|Lange|ラング,1895,1965,,,,,documentary_photography,modern_mid_20c,photography,usa,社会不安の時代に、人々の顔と暮らしを記録し、写真を公共の証言へ押し上げた。視線の誠実さが、歴史の温度をそのまま残す。
+artist_diane_arbus,ダイアン・アーバス,Diane Arbus|Arbus|アーバス,1923,1971,,,,,documentary_photography,modern_mid_20c,photography,usa,周縁に置かれた人々を正面から撮り、普通という規範の輪郭を露出させた。距離の近さが、共感と不穏を同時に引き起こす。
+artist_saul_leiter,ソール・ライター,Saul Leiter|Leiter|ライター,1923,2013,,,,,documentary_photography,modern_mid_20c,photography,usa,都市の断片を色と反射で切り取り、日常を詩のように変換した。窓越しの視線が、距離と親密さの同居を生む。
+artist_louise_nevelson,ルイーズ・ネヴェルソン,Louise Nevelson|Nevelson|ネヴェルソン,1899,1988,,,,,abstract_expressionism,modern_mid_20c,sculpture|installation,ukraine,木片を集積し、影と量塊で空間を組み立てる独自の彫刻を確立した。単色の統一が、雑多な断片を壮大な建築のように変える。
+artist_eva_hesse,エヴァ・ヘス,Eva Hesse|Hesse|ヘス,1936,1970,,,,,minimalism|conceptual_art,modern_mid_20c,sculpture|installation,germany,素材の脆さや不均衡をそのまま形にし、ミニマル以後の感情を彫刻へ持ち込んだ。秩序と崩れの間で、身体的な不安が立ち上がる。
+artist_josef_albers,ヨーゼフ・アルバース,Josef Albers|Albers|アルバース,1888,1976,,,,,abstract_art,modern_mid_20c,painting|design,germany,色の相互作用を反復実験として示し、見ることを訓練へ変えた。厳格な構成が、色の揺らぎと錯覚を鮮やかに露出させる。
+artist_georg_baselitz,ゲオルク・バゼリッツ,Georg Baselitz|Baselitz|バゼリッツ,1938,,,,,,neo_expressionism,modern_mid_20c,painting|drawing,germany,像を逆さに描くなどの方法で、意味よりも絵画の暴力的な力を前面化した。戦後の記憶を背負い、具象の可能性を荒々しく更新した。
+artist_keith_haring,キース・ヘリング,Keith Haring|Haring|ヘリング,1958,1990,,,,,pop_art,modern_mid_20c,drawing|painting,usa,街頭の線描を起点に、生命力と社会批評を同時に走らせた。シンプルな図像が強く拡散し、公共空間での芸術の回路を広げた。
+artist_jean_dubuffet,ジャン・デュビュッフェ,Jean Dubuffet|Dubuffet|デュビュッフェ,1901,1985,,,,,art_brut,modern_mid_20c,painting|sculpture|drawing,france,未訓練の表現や落書きに価値を見出し、既成の美術観を揺さぶった。粗い質感と奔放な線で、芸術の境界そのものを問い直した。
+artist_lucio_fontana,ルーチョ・フォンタナ,Lucio Fontana|Fontana|フォンタナ,1899,1968,,,,,spatialism,modern_mid_20c,painting|sculpture,argentina,キャンバスを切り裂く行為で、絵画を平面から空間へ開いた。物質と空虚の境界に触れ、近代以後の表現の前提を更新した。
+artist_franz_kline,フランツ・クライン,Franz Kline|Kline|クライン,1910,1962,,,,,abstract_expressionism,modern_mid_20c,painting,usa,太い黒の筆致で、衝動と構造が同居する抽象を描いた。書のような速度感が画面を貫き、身体的なリズムを直接伝える。
+artist_ad_reinhardt,アド・ラインハート,Ad Reinhardt|Reinhardt|ラインハート,1913,1967,,,,,abstract_expressionism,modern_mid_20c,painting,usa,極限まで抑制された色面で、絵画を沈黙と集中の場へ押し詰めた。見えにくさそのものが、見る行為の精度を試す。
+artist_ls_lowry,L.S.ロウリー,L. S. Lowry|LS Lowry|Lowry|ロウリー,1887,1976,,,,,modernism,modern_mid_20c,painting|drawing,uk,工業都市の人々を素朴な造形で描き、群衆の気配と孤独を同時に残した。日常の景色が社会の温度として立ち上がる。
+artist_frank_auerbach,フランク・アウアーバッハ,Frank Auerbach|Auerbach|アウアーバッハ,1931,,,,,,neo_expressionism,contemporary,painting|drawing,germany,絵具を幾層にも積み重ね、時間の堆積として肖像や風景を作る。見ることの執念が、画面の厚みとして露出する。
+artist_leon_golub,レオン・ゴルブ,Leon Golub|Golub|ゴルブ,1922,2004,,,,,neo_expressionism,modern_mid_20c,painting,usa,権力や暴力の構造を、荒い肌理と直接的な図像で描いた。政治的主題を避けず、見る側の倫理を正面から問う。
+artist_robert_frank,ロバート・フランク,Robert Frank|Frank|フランク,1924,2019,,,,,documentary_photography,modern_mid_20c,photography,switzerland,旅の視線でアメリカ社会の断片を切り取り、写真の語り口を刷新した。ざらついた即興性が、時代の空気をそのまま運ぶ。
+artist_vivian_maier,ヴィヴィアン・マイヤー,Vivian Maier|Maier|マイヤー,1926,2009,,,,,documentary_photography,modern_mid_20c,photography,usa,街角の人々や光の瞬間を、鋭い距離感で記録した。日常の裂け目にあるユーモアと孤独を、静かにすくい上げる。
+artist_annie_leibovitz,アニー・リーボヴィッツ,Annie Leibovitz|Leibovitz|リーボヴィッツ,1949,,,,,,documentary_photography,contemporary,photography,usa,ポートレートで人物像を物語として構成し、現代の視覚文化を形づくった。演出と親密さのバランスで、記憶に残る像を作る。
+artist_hiroshi_yoshida,吉田博,Hiroshi Yoshida|Yoshida Hiroshi|ヨシダ ヒロシ|吉田 博,1876,1950,,,,,shin_hanga,modern_early_20c,printmaking,japan,木版の技法で光と空気を繊細に表現し、新版画を国際的に広めた。風景を静かな色の層で構成し、旅の感覚を定着させた。
+artist_hasui_kawase,川瀬巴水,Hasui Kawase|Kawase Hasui|カワセ ハスイ|川瀬 巴水,1883,1957,,,,,shin_hanga,modern_early_20c,printmaking,japan,雨や雪、夕闇などの気配を丁寧に描き、風景の叙情を木版で掬い取った。静けさの中に季節の体温が宿る。
+artist_tsuguharu_foujita,藤田嗣治,Tsuguharu Foujita|Foujita Tsuguharu|レオナール・フジタ|藤田 嗣治,1886,1968,,,,,ecole_de_paris,modern_early_20c,painting|drawing,japan,乳白色の肌の表現と精密な線描で、独自の人体像を確立した。東西の感覚が交差し、パリの前衛の中で特異な抒情を放つ。
+artist_nam_june_paik,ナム・ジュン・パイク,Nam June Paik|Paik|ペク・ナムジュン|ナムジュン・パイク,1932,2006,,,,,fluxus,modern_mid_20c,installation|design,south_korea,メディアを素材に、映像と空間を結びつける表現を切り開いた。技術を遊びに変え、現代の視覚環境そのものを作品化した。
+artist_on_kawara,河原温,On Kawara|Kawara On|カワラ オン|河原 温,1932,2014,,,,,conceptual_art,modern_mid_20c,painting|installation,japan,日付を描く反復で、時間を作品の主題へ押し上げた。淡々とした形式が、存在の確かさと不確かさを同時に浮かび上がらせる。
+artist_jenny_holzer,ジェニー・ホルツァー,Jenny Holzer|Holzer|ホルツァー,1950,,,,,,conceptual_art,contemporary,installation|design,usa,言葉を公共空間へ投下し、権力や暴力の語り口を可視化した。短いテキストが、見る側の思考と同意を鋭く揺さぶる。
+artist_joseph_kosuth,ジョセフ・コスース,Joseph Kosuth|Kosuth|コスース,1945,,,,,,conceptual_art,contemporary,installation|design,usa,言葉・定義・物を並置し、意味が成立する仕組みを作品として示した。芸術を「何であるか」より「どう成立するか」へ転回させた。
+artist_christo,クリスト,Christo|Christo Javacheff|クリスト・ヤヴァシェフ|Christo and Jeanne-Claude,1935,2020,,,,,conceptual_art,contemporary,installation,bulgaria,建築や風景を包む大規模プロジェクトで、場所の見え方を一時的に変えた。準備と消滅を含む時間そのものが作品になる。
+artist_rachel_whiteread,レイチェル・ホワイトリード,Rachel Whiteread|Whiteread|ホワイトリード,1963,,,,,,contemporary_art,contemporary,sculpture|installation,uk,空間の「内部」を鋳型で固定し、不在を物体として提示する。見慣れた部屋や家具が、記憶の重さを帯びて立ち上がる。
+artist_antony_gormley,アントニー・ゴームリー,Antony Gormley|Gormley|ゴームリー,1950,,,,,,contemporary_art,contemporary,sculpture|installation,uk,身体を尺度に、空間や地形との関係を彫刻として組み直す。人型が風景の一部となり、見る者の位置感覚を更新する。
+artist_shirin_neshat,シリン・ネシャット,Shirin Neshat|Neshat|ネシャット,1957,,,,,,conceptual_art|contemporary_art,contemporary,photography|installation,iran,身体や言語、権力の関係を、写真と映像の詩的な緊張で描く。個人の物語が社会の制度へ接続し、視線の政治を露わにする。
+artist_kiki_smith,キキ・スミス,Kiki Smith|Smith|スミス,1954,,,,,,contemporary_art,contemporary,sculpture|printmaking|drawing,germany,身体や自然、生と死の境界を繊細に扱い、物質の脆さに強度を与える。個人的な感覚が神話や生命観へ広がっていく。
+artist_alexander_calder,アレクサンダー・カルダー,Alexander Calder|Calder|カルダー,1898,1976,,,,,modernism,modern_mid_20c,sculpture,usa,モビールで空気の動きを彫刻に変え、形を時間の中で成立させた。軽やかな構造が、空間に遊びと緊張を同時に生む。
+artist_david_smith,デイヴィッド・スミス,David Smith|Smith|スミス,1906,1965,,,,,abstract_expressionism,modern_mid_20c,sculpture,usa,溶接した金属で線と量塊を組み、彫刻をドローイングのように扱った。工業素材の硬さが、身体的なリズムへ変換される。
+artist_paul_delvaux,ポール・デルヴォー,Paul Delvaux|Delvaux|デルヴォー,1897,1994,,,,,surrealism,modern_mid_20c,painting,belgium,古典的な街並みに夢のような不穏を流し込み、静けさの中に違和感を作った。物語が断絶し、見る者の想像が勝手に走り出す。
+artist_felix_vallotton,フェリックス・ヴァロットン,Félix Vallotton|Felix Vallotton|Vallotton|ヴァロットン,1865,1925,,,,,post_impressionism|nabis,modern_early_20c,painting|printmaking,switzerland,平面的で冷静な構図と、鋭い心理の切り取りで室内や都市を描いた。木版画の黒の強さも含め、近代の不穏な空気を定着させた。
+artist_hans_haacke,ハンス・ハーケ,Hans Haacke|Haacke|ハーケ,1936,,,,,,conceptual_art,contemporary,installation,germany,制度や資本の関係を調査し、展示空間そのものを批評の場に変えた。作品が社会の構造を指し示し、見る側の立場を問う。
+artist_richard_hamilton,リチャード・ハミルトン,Richard Hamilton|Hamilton|ハミルトン,1922,2011,,,,,pop_art,modern_mid_20c,painting|printmaking,uk,大衆文化や広告の図像を用い、消費社会の欲望を分析的に描いた。軽さの中に批評があり、ポップの視線を決定づけた。
+artist_peter_blake,ピーター・ブレイク,Peter Blake|Blake|ブレイク,1932,,,,,,pop_art,contemporary,painting|printmaking,uk,大衆文化の断片をコラージュ的に編み、親しさと奇妙さが同居する画面を作る。記憶の寄せ集めが、時代の顔として立ち上がる。
+artist_roy_lichtenstein,ロイ・リキテンスタイン,Roy Lichtenstein|Lichtenstein|リキテンスタイン,1923,1997,,,,,pop_art,modern_mid_20c,painting|printmaking,usa,漫画的な図像と網点を転用し、複製と感情表現の仕組みを可視化した。軽快な表面の裏で、イメージの制度が問われている。
+artist_george_stubbs,ジョージ・スタッブス,George Stubbs|Stubbs|スタッブス,1724,1806,,,,,modern_19c,modern_19c,painting|drawing,uk,動物解剖の知識に基づく精密さで、馬を中心に生命の造形を描いた。写実の徹底が、感情ではなく構造としての美を浮かび上がらせる。
+artist_william_turnbull,ウィリアム・ターンブル,William Turnbull|Turnbull|ターンブル,1922,2012,,,,,modernism,modern_mid_20c,sculpture,uk,原初的な形態への志向と簡潔な量感で、彫刻を静かな記号へ近づけた。素材の選択と抑制が、形の存在感を際立たせる。
+artist_george_bellows,ジョージ・ベローズ,George Bellows|Bellows|ベローズ,1882,1925,,,,,american_realism,modern_early_20c,painting|drawing,usa,都市の格闘技や街路を力強い筆致で描き、アメリカの生のエネルギーを定着した。社会の粗さが、画面の勢いとして噴き出す。
+artist_john_singer_sargent,ジョン・シンガー・サージェント,John Singer Sargent|Sargent|サージェント,1856,1925,,,,,realism,modern_19c,painting|oil_painting,usa,流麗な筆致で上流社会の気配を捉え、肖像画を華麗な舞台へ変えた。即興に見える巧みさが、人物の距離と欲望を同時に写す。
+artist_winslow_homer,ウィンスロー・ホーマー,Winslow Homer|Homer|ホーマー,1836,1910,,,,,realism,modern_19c,painting|watercolor,usa,海や自然と向き合う人間を、簡潔で力強い構図で描いた。叙情よりも現実の厳しさが前に出て、アメリカ風景の骨格を示す。
+artist_john_sloan,ジョン・スローン,John Sloan|Sloan|スローン,1871,1951,,,,,american_realism,modern_early_20c,painting|drawing|printmaking,usa,街角の労働者や日常を描き、都市生活の空気をそのまま画面に移した。観察の誠実さが、社会の温度として残る。
+artist_ivan_shishkin,イワン・シーシキン,Ivan Shishkin|Shishkin|シーシキン,1832,1898,,,,,realism,modern_19c,painting|drawing,russia,森の細部まで観察し、自然を国家的風景として壮大に描いた。緻密な写実が、ロシアの大地の重みと静けさを伝える。
+artist_ilja_repina,イリヤ・レーピン,Ilya Repin|Ilja Repin|Repin|レーピン,1844,1930,,,,,realism,modern_19c,painting|drawing,russia,社会の現実と人物の心理を結びつけ、歴史や労働の場面を迫真性で描いた。ドラマの中心に人間の表情があり、同時代の緊張を映す。
+artist_mikhail_vrubel,ミハイル・ヴルーベリ,Mikhail Vrubel|Vrubel|ヴルーベリ,1856,1910,,,,,symbolism,modern_19c,painting|drawing,russia,結晶のような筆致と幻想的主題で、象徴主義の不穏な美を形にした。宗教や神話が心理の鏡となり、時代の不安がにじむ。
+artist_ivan_aivazovsky,イワン・アイヴァゾフスキー,Ivan Aivazovsky|Aivazovsky|アイヴァゾフスキー,1817,1900,,,,,romanticism,modern_19c,painting|oil_painting,russia,波や光の劇的な表現で、海を巨大な舞台として描いた。自然の崇高さが感情の高まりと結びつき、ロマン主義的な叙事詩を作る。
+artist_childe_hassam,チャイルド・ハッサム,Childe Hassam|Hassam|ハッサム,1859,1935,,,,,impressionism,modern_19c,painting|oil_painting,usa,印象派の筆触をアメリカの都市と風景へ移植し、光の揺れを定着した。街路の気配が軽やかに描かれ、近代の生活感が立ち上がる。
+artist_thomas_eakins,トマス・イーキンズ,Thomas Eakins|Eakins|イーキンズ,1844,1916,,,,,realism,modern_19c,painting|photography|drawing,usa,人体と運動を科学的に観察し、日常の場面に厳密な写実を与えた。冷静な視線が、人物の存在感を過剰に飾らず残す。
+artist_arthur_rackham,アーサー・ラッカム,Arthur Rackham|Rackham|ラッカム,1867,1939,,,,,illustration,modern_early_20c,drawing|printmaking,uk,精緻な線と幻想的な森のイメージで挿絵の黄金期を代表した。物語世界の空気を作り込み、想像力を視覚の奥へ連れていく。
+artist_aubrey_beardsley,オーブリー・ビアズリー,Aubrey Beardsley|Beardsley|ビアズリー,1872,1898,,,,,art_nouveau,modern_19c,drawing|printmaking|design,uk,白と黒の強い対比で退廃と優美を描き、世紀末の感性を象徴した。線の装飾性が、文学と視覚文化を鋭く接続する。
+artist_mucha,アルフォンス・ミュシャ,Alphonse Mucha|Mucha|ミュシャ,1860,1939,,,,,art_nouveau,modern_19c,design|printmaking|drawing,czechia,装飾的な曲線と人物像でポスター芸術を確立し、アール・ヌーヴォーの顔となった。大衆メディアを美で包み、都市の視覚を更新した。
+artist_ilya_kabakov,イリヤ・カバコフ,Ilya Kabakov|Il'ya Kabakov|Kabakov|カバコフ,1933,,,,,,contemporary_art|conceptual_art,contemporary,installation|drawing,russia,架空の生活や制度をインスタレーションとして組み立て、社会の記憶を可視化した。個人の夢と国家の仕組みが絡み合い、物語が空間に立ち上がる。
+artist_olga_rozanova,オリガ・ロザノワ,Olga Rozanova|Rozanova|ロザノワ,1886,1918,,,,,avant_garde,modern_early_20c,painting|design,russia,色面と構成の実験でロシア前衛の抽象を押し広げた。短い生涯の中で、形式の自由と色彩の自律性を強く推し進めた。
+artist_lyubov_popova,リュボーフィ・ポポーワ,Lyubov Popova|Liubov Popova|Popova|ポポーワ,1889,1924,,,,,constructivism,modern_early_20c,painting|design,russia,絵画からデザインへ越境し、造形を社会の設計へ接続した。構成主義の視覚言語を生活へ拡張し、前衛の役割を更新した。
+artist_alexander_rodchenko,アレクサンドル・ロトチェンコ,Alexander Rodchenko|Rodchenko|ロトチェンコ,1891,1956,,,,,constructivism,modern_early_20c,photography|design|printmaking,russia,写真・グラフィックで大胆な視点と構成を提示し、視覚を政治と結びつけた。角度やタイポグラフィが、時代の速度をそのまま運ぶ。
+artist_elisabeth_vigee_le_brun,エリザベート・ヴィジェ＝ルブラン,Élisabeth Vigée Le Brun|Vigee Le Brun|ヴィジェ＝ルブラン,1755,1842,,,,,rococo,modern_19c,painting,france,宮廷の肖像で名声を得つつ、柔らかな光で人物の生命感を引き出した。政治の激動の中を生き、肖像画が社会の舞台であることを示す。
+artist_angelica_kauffman,アンゲリカ・カウフマン,Angelica Kauffman|Kauffman|カウフマン,1741,1807,,,,,neoclassicism,modern_19c,painting,switzerland,新古典主義の歴史画や肖像で活躍し、理性と優雅さを両立させた。国際的な活動を通じ、女性芸術家の可能性も広げた。
+artist_joshua_reynolds,ジョシュア・レノルズ,Joshua Reynolds|Reynolds|レノルズ,1723,1792,,,,,neoclassicism,modern_19c,painting,uk,英国肖像画の権威として「大様式」を唱え、理想化された人物像を作った。制度と理論を整え、芸術の社会的枠組みを強化した。
+artist_jean_auguste_dominique_ingres,アングル,Jean-Auguste-Dominique Ingres|Ingres|アングル,1780,1867,,,,,neoclassicism,modern_19c,painting|drawing,france,滑らかな線と冷ややかな均整で、理想化された人体を描いた。古典的規範を守りながら、近代の欲望や視線も鋭く露出する。
+artist_william_adolphe_bouguereau,ウィリアム＝アドルフ・ブグロー,William-Adolphe Bouguereau|Bouguereau|ブグロー,1825,1905,,,,,academic_art,modern_19c,painting,france,高度に磨かれた写実と理想化で、アカデミー的絵画の完成度を示した。近代の前衛と対照的に、制度が求めた美の規範を体現する。
+artist_hans_baldung_grien,ハンス・バルドゥング・グリーン,Hans Baldung Grien|Baldung|バルドゥング,1484,1545,,,,,northern_renaissance,renaissance,painting|printmaking,germany,デューラー周辺の北方ルネサンスで、寓意と官能の緊張を強めた異色の画家。死や魔女の主題に、時代の不安と欲望が滲む。
+artist_lorenzo_ghiberti,ロレンツォ・ギベルティ,Lorenzo Ghiberti|Ghiberti|ギベルティ,1378,1455,,,,,renaissance,renaissance,sculpture,italy,浮彫の空間表現を洗練し、初期ルネサンス彫刻の視覚語彙を整えた。物語を金属に編み込み、都市の信仰と誇りを象徴した。
+artist_sofonisba_anguissola,ソフォニスバ・アングイッソラ,Sofonisba Anguissola|ソフォニスバ・アングイッソラ|アングイッソラ,1532,1625,,,,,renaissance,renaissance,painting|oil_painting|drawing,italy,宮廷で活躍し、女性画家として例外的な評価を得たルネサンスの肖像画家。繊細な観察で人物の知性と気配を描き分け、後世の女性芸術家像にも影響した。
+artist_lavinia_fontana,ラヴィニア・フォンタナ,Lavinia Fontana|フォンタナ|ラヴィニア・フォンタナ,1552,1614,,,,,renaissance,renaissance,painting|oil_painting,italy,宗教画と肖像で名声を得たボローニャの画家。華やかな衣装や小道具の描写を通じて、当時の社会と個人の姿を鮮明に伝える。
+artist_judith_leyster,ユディト・レイステル,Judith Leyster|Leyster|レイステル,1609,1660,,,,,baroque,baroque,painting|oil_painting,netherlands,オランダ黄金期に活躍し、人物の表情や音楽の場面などを生き生きと描いた。軽快な筆致と明るい空気感で、日常の瞬間を鮮やかに定着した。
+artist_rachel_ruysch,ラヘル・ライシュ,Rachel Ruysch|Ruysch|ライシュ,1664,1750,,,,,baroque,baroque,painting|oil_painting,netherlands,花の静物を精緻に描き、生命の瑞々しさと儚さを同時に示した。構図の緊張と質感の巧みさで、静物画を高い格へ押し上げた。
+artist_antonio_canova,アントニオ・カノーヴァ,Antonio Canova|Canova|カノーヴァ,1757,1822,,,,,neoclassicism,modern_19c,sculpture,italy,古代彫刻の理想を洗練された白い量感で再構築した新古典主義の彫刻家。静かな均整の中に官能と気品を宿し、近代の彫刻観を形づくった。
+artist_jean_antoine_houdon,ジャン＝アントワーヌ・ウードン,Jean-Antoine Houdon|Houdon|ウードン,1741,1828,,,,,neoclassicism,modern_19c,sculpture,france,啓蒙期の人物像を写実と理想のバランスで捉えた彫刻家。表情や骨格の説得力が強く、肖像彫刻を知性のメディアへ高めた。
+artist_jean_leon_gerome,ジャン＝レオン・ジェローム,Jean-Léon Gérôme|Jean Leon Gerome|Gérôme|ジェローム,1824,1904,,,,,academic_art,modern_19c,painting|oil_painting,france,緻密な描写と劇場的な構図で、歴史画や異国趣味を完成度高く描いた。アカデミー絵画の頂点として称賛と批判の両方を集め、近代の価値観の分岐点を示す。
+artist_rosa_bonheur,ローザ・ボヌール,Rosa Bonheur|Bonheur|ボヌール,1822,1899,,,,,realism,modern_19c,painting|oil_painting,france,動物の身体感覚を確かな観察で捉え、写実の強度を押し広げた。迫力ある動勢と構図で、動物画を近代の主要ジャンルとして成立させた。
+artist_john_everett_millais,ジョン・エヴァレット・ミレイ,John Everett Millais|Millais|ミレイ,1829,1896,,,,,pre_raphaelite,modern_19c,painting|oil_painting,uk,前ラファエル派の中心として、細密な自然描写と物語性を両立させた。透明感ある色彩と徹底した観察が、近代の視覚に新しい倫理を与えた。
+artist_dante_gabriel_rossetti,ダンテ・ゲイブリエル・ロセッティ,Dante Gabriel Rossetti|Rossetti|ロセッティ,1828,1882,,,,,pre_raphaelite,modern_19c,painting|drawing|design,uk,詩と絵画を往復し、象徴的な女性像と濃密な色彩で独自の抒情を作った。中世趣味と近代の欲望が交差し、視覚表現に強い磁力を与える。
+artist_william_holman_hunt,ウィリアム・ホルマン・ハント,William Holman Hunt|Holman Hunt|ハント,1827,1910,,,,,pre_raphaelite,modern_19c,painting|oil_painting,uk,宗教的主題を精密な描写と象徴で組み立て、絵画に道徳的緊張を持ち込んだ。細部の徹底が物語を支え、画面全体が解釈の装置になる。
+artist_edward_burne_jones,エドワード・バーン＝ジョーンズ,Edward Burne-Jones|Burne-Jones|バーン＝ジョーンズ,1833,1898,,,,,pre_raphaelite|aesthetic_movement,modern_19c,painting|design|drawing,uk,夢のように静かな人物像で神話や伝説を描き、装飾芸術とも深く結びついた。物語の時間が薄く引き伸ばされ、鑑賞者を別世界へ誘う。
+artist_gustave_dore,ギュスターヴ・ドレ,Gustave Doré|Gustave Dore|Doré|ドレ,1832,1883,,,,,romanticism,modern_19c,drawing|printmaking,france,文学作品の世界を圧倒的な想像力で可視化した版画家・挿絵画家。光と闇の劇的な演出で、物語の感情を一枚の像に凝縮した。
+artist_sesshu_toyo,雪舟等楊,Sesshū Tōyō|Sesshu Toyo|雪舟|せっしゅう,1420,1506,,,,,sumi_e,medieval_japan,painting|drawing,japan,水墨の濃淡と余白で空気を描き、景の骨格を一気に掴む表現を確立した。東アジア絵画の系譜を吸収しつつ、日本的な緊張感を研ぎ澄ませた。
+artist_kano_eitoku,狩野永徳,Kano Eitoku|Eitoku Kano|狩野 永徳|かのう えいとく,1543,1590,,,,,kano_school,early_modern_japan,painting,japan,巨大な画面に金地と豪快な筆致で権威の空間を作り上げた。障壁画を舞台装置のように機能させ、桃山の視覚を象徴する。
+artist_tawaraya_sotatsu,俵屋宗達,Tawaraya Sōtatsu|Tawaraya Sotatsu|宗達|俵屋 宗達,,1643,1570,1580,,,rinpa,early_modern_japan,painting,japan,装飾性の高い構図とにじみの技法で、物語と文様を軽やかに融合した。琳派の源流として、画面をリズムで組み立てる感覚を決定づけた。
+artist_ogata_korin,尾形光琳,Ogata Kōrin|Ogata Korin|光琳|尾形 光琳,1658,1716,,,,,rinpa,early_modern_japan,painting|design,japan,大胆な省略と反復で自然を記号化し、装飾の力で画面を支配した。琳派の様式を完成へ導き、絵画と意匠の境界を溶かした。
+artist_ito_jakuchu,伊藤若冲,Itō Jakuchū|Ito Jakuchu|若冲|伊藤 若冲,1716,1800,,,,,edo_painting,early_modern_japan,painting,japan,動植物を異様なまでの観察と色彩で描き、写実と幻想が同居する世界を作った。緻密さと大胆さの落差が、見る者の感覚を一気に攫う。
+artist_maruyama_okyo,円山応挙,Maruyama Ōkyo|Maruyama Okyo|応挙|円山 応挙,1733,1795,,,,,maruyama_shijo,early_modern_japan,painting|drawing,japan,写生の精神を軸に、目に見えるものの説得力を日本絵画へ注ぎ込んだ。生き物や風景の気配が自然に立ち上がり、近世の写実を方向づけた。
+artist_uemura_shoen,上村松園,Uemura Shōen|Uemura Shoen|松園|上村 松園,1875,1949,,,,,nihonga,modern_early_20c,painting,japan,気品ある女性像を通じて、理想化と現実感の均衡を追求した日本画家。線と色の抑制が、静かな強さと佇まいの美を際立たせる。
+artist_yokoyama_taikan,横山大観,Yokoyama Taikan|Taikan Yokoyama|大観|横山 大観,1868,1958,,,,,nihonga,modern_early_20c,painting,japan,輪郭を強く立てずに形をにじませ、霞む光や空気を画面全体で表現した。風景を精神の場へ変換し、日本画の近代的な表情を切り開いた。
+artist_el_anatsui,エル・アナツイ,El Anatsui|Anatsui|アナツイ,1944,,,,,,contemporary_art,contemporary,sculpture|installation,ghana,金属片や廃材を編み上げ、布のように揺れる巨大な壁面作品を生む。素材の来歴が歴史と交易を示唆し、物質が記憶として立ち上がる。
+artist_shomei_tomatsu,東松照明,Shomei Tomatsu|Tomatsu Shomei|トマツ ショウメイ|東松 照明,1930,2012,,,,,documentary_photography,modern_mid_20c,photography,japan,戦後日本の現実を、鋭い距離感と象徴的な断片で捉えた写真家。記録でありながら詩的で、社会の温度と不穏を同時に写し取る。
+artist_daido_moriyama,森山大道,Daido Moriyama|Moriyama Daido|モリヤマ ダイドウ|森山 大道,1938,,,,,,documentary_photography,modern_mid_20c,photography,japan,粗い粒子や強いコントラストで都市の衝動を写し、写真の身体性を前面化した。路上の視線が、現代の速度と孤独をそのまま運ぶ。
+artist_carrie_mae_weems,キャリー・メイ・ウィームズ,Carrie Mae Weems|Weems|ウィームズ,1953,,,,,,conceptual_art|contemporary_art,contemporary,photography|installation,usa,写真とテキストで歴史や人種、家庭の物語を組み替え、視線の権力を問う。個人の場面が社会の構造へ接続し、静かな強度を生む。
+artist_cao_fei,曹斐,Cao Fei|Cao Fei|ツァオ・フェイ|曹斐,1978,,,,,,contemporary_art,contemporary,installation|photography,china,都市とテクノロジーの変化を、物語性のあるプロジェクトとして提示する。現実と仮想の境界が揺れ、同時代の生活感覚が露わになる。
+artist_shigeru_ban,坂茂,Shigeru Ban|Ban Shigeru|バン シゲル|坂 茂,1957,,,,,,contemporary_architecture,contemporary,architecture|design,japan,紙管などの素材を用い、構造の合理性と社会的実装を結びつける建築家。災害支援の仮設建築でも知られ、建築の役割を現場から問い直した。
+artist_johannes_ittens,ヨハネス・イッテン,Johannes Itten|Itten|イッテン,1888,1967,,,,,modernism,modern_early_20c,design|painting,switzerland,バウハウスで色彩理論と造形教育を体系化し、視覚の基礎を更新した。色の関係を訓練として提示し、デザインと美術の共通言語を作った。
+artist_william_morris,ウィリアム・モリス,William Morris|Morris|モリス,1834,1896,,,,,arts_and_crafts,modern_19c,design|printmaking,uk,手仕事の価値を掲げ、生活と美の関係を問い直した。テキスタイルや書物装丁などで、デザインを倫理と結びつける思想を広めた。
+artist_james_ens_or,ジェームズ・アンソール,James Ensor|Ensor|アンソール,1860,1949,,,,,symbolism|expressionism,modern_early_20c,painting|printmaking,belgium,仮面や群衆のモチーフで社会の偽善や不安を戯画化した。笑いと恐怖が同居し、近代の心理を鋭くえぐる。
+artist_rogier_van_der_weyden,ロヒール・ファン・デル・ウェイデン,Rogier van der Weyden|ヴァン・デル・ウェイデン|ロヒール・ファン・デル・ウェイデン,,1464,1390,1400,,,northern_renaissance,renaissance,painting|oil_painting,belgium,鋭い感情表現と緻密な描写で、北方ルネサンスの宗教画を高い緊張感へ導いた。涙や視線の重みが、信仰を心理のドラマとして立ち上げる。
+artist_lucas_cranach_the_elder,ルーカス・クラナッハ（父）,Lucas Cranach the Elder|Cranach|クラナッハ|ルーカス・クラナッハ,1472,1553,,,,,northern_renaissance,renaissance,painting|drawing|printmaking,germany,宗教改革期の肖像や寓意画で知られ、鋭い輪郭と独特の優美さを持つ。政治と信仰の時代を、図像の力で可視化した。
+artist_paolo_uccello,パオロ・ウッチェロ,Paolo Uccello|Uccello|ウッチェロ,1397,1475,,,,,renaissance,renaissance,painting|drawing,italy,遠近法の実験に魅せられ、空間を幾何学として組み立てた。現実と抽象のあいだで、戦いや騎士の場面を奇妙な緊張へ変える。
+artist_filippo_brunelleschi,フィリッポ・ブルネレスキ,Filippo Brunelleschi|Brunelleschi|ブルネレスキ,1377,1446,,,,,renaissance,renaissance,architecture,italy,近代遠近法の基礎を形にし、建築に合理的な空間構成をもたらした。構造と美の統合が、ルネサンスの都市像を決定づける。
+artist_giorgio_vasari,ジョルジョ・ヴァザーリ,Giorgio Vasari|Vasari|ヴァザーリ,1511,1574,,,,,mannerism,renaissance,painting|architecture,italy,画家・建築家として活動しつつ、美術史の枠組みを言葉で整えた。芸術家像そのものを作り替え、後世の「ルネサンス観」に影響した。
+artist_giambologna,ジャンボローニャ,Giambologna|Giovanni Bologna|ジャンボローニャ,1529,1608,,,,,mannerism,renaissance,sculpture,france,螺旋状に立ち上がる動勢で、彫刻を「回り込んで見る」体験へ変えた。緊張感あるポーズが、人体表現の可能性を押し広げる。
+artist_frans_hals,フランス・ハルス,Frans Hals|Hals|ハルス,,1666,1580,1585,,,baroque,baroque,painting|oil_painting,belgium,即興的な筆致で笑いと身振りを捉え、肖像に生の速度を持ち込んだ。人物が息をするように立ち上がり、都市の活気が画面に満ちる。
+artist_jan_steen,ヤン・ステーン,Jan Steen|Steen|ステーン,1626,1679,,,,,baroque,baroque,painting|oil_painting,netherlands,家庭の騒がしさや人間臭さをユーモラスに描き、道徳と笑いを同居させた。日常の芝居が、社会の鏡として効いてくる。
+artist_georges_de_la_tour,ジョルジュ・ド・ラ・トゥール,Georges de La Tour|La Tour|ド・ラ・トゥール,1593,1652,,,,,baroque,baroque,painting|oil_painting,france,ろうそくの光に浮かぶ沈黙の場面で、宗教的な静けさと緊張を描いた。闇の量感が、人物の内面を彫刻のように際立たせる。
+artist_claude_lorrain,クロード・ロラン,Claude Lorrain|Claude Gellée|ロラン|クロード・ロラン,1600,1682,,,,,baroque,baroque,painting|oil_painting,france,光と大気の層で風景を構成し、理想化された自然を詩のように描いた。遠景の霞が、時間と記憶の感覚を画面に流し込む。
+artist_theodore_gericault,テオドール・ジェリコー,Théodore Géricault|Theodore Gericault|Géricault|ジェリコー,1791,1824,,,,,romanticism,modern_19c,painting|oil_painting,france,極限状況の身体と感情を、激しい構図で描きロマン主義の衝動を示した。理想よりも現実の重さが前に出て、時代の不安が露わになる。
+artist_berthe_morisot,ベルト・モリゾ,Berthe Morisot|Morisot|モリゾ,1841,1895,,,,,impressionism,modern_19c,painting|oil_painting,france,軽やかな筆触で室内や家族の時間を描き、印象派に親密な視点をもたらした。白の揺れや空気の気配が、生活の温度として残る。
+artist_john_william_waterhouse,ジョン・ウィリアム・ウォーターハウス,John William Waterhouse|Waterhouse|ウォーターハウス,1849,1917,,,,,pre_raphaelite,modern_19c,painting|oil_painting,uk,神話や文学の女性像を、透明感ある色彩と物語性で描いた。ロマン性と不穏が同居し、ヴィクトリア朝の夢と影を映す。
+artist_lawrence_alma_tadema,ローレンス・アルマ＝タデマ,Lawrence Alma-Tadema|Alma-Tadema|アルマ＝タデマ,1836,1912,,,,,academic_art,modern_19c,painting|oil_painting,netherlands,古代世界を豪奢な質感と考証で再現し、視覚的な歴史劇として成立させた。大理石の冷たさや光の反射が、欲望の舞台装置になる。
+artist_egon_schiele,エゴン・シーレ,Egon Schiele|Schiele|シーレ,1890,1918,,,,,expressionism,modern_early_20c,painting|drawing,austria,鋭い線とねじれた身体で、欲望と不安をむき出しにした。ポーズの痛々しさが、存在の緊張を直接こちらへ突きつける。
+artist_oskar_kokoschka,オスカー・ココシュカ,Oskar Kokoschka|Kokoschka|ココシュカ,1886,1980,,,,,expressionism,modern_early_20c,painting|drawing,austria,荒い筆致と強い色で人物の心理をえぐり出し、肖像を闘いの場にした。感情が画面を揺らし、見る側の距離感まで変えてくる。
+artist_franz_marc,フランツ・マルク,Franz Marc|Marc|マルク,1880,1916,,,,,expressionism,modern_early_20c,painting,germany,動物を象徴的な色と形で描き、精神の世界を可視化した。純粋さへの希求が、戦前の不安と交差し、画面に鋭い透明感を残す。
+artist_august_macke,アウグスト・マッケ,August Macke|Macke|マッケ,1887,1914,,,,,expressionism,modern_early_20c,painting,germany,街の散歩や人々の姿を明るい色面で組み、近代の生活をリズムとして描いた。軽快さの奥に、時代の脆さが一瞬だけ透ける。
+artist_emil_nolde,エミール・ノルデ,Emil Nolde|Nolde|ノルデ,1867,1956,,,,,expressionism,modern_early_20c,painting|printmaking,germany,燃えるような色彩と荒いタッチで、信仰や自然の力を激しく表現した。絵具の厚みが感情の圧力となり、画面から迫ってくる。
+artist_laszlo_moholy_nagy,ラースロー・モホリ＝ナジ,László Moholy-Nagy|Laszlo Moholy-Nagy|Moholy-Nagy|モホリ＝ナジ,1895,1946,,,,,bauhaus,modern_early_20c,photography|design|painting,hungary,光・素材・構造を実験し、バウハウスの視覚教育を更新した。写真やタイポグラフィを通じて、近代の「見る」技術そのものを鍛え直した。
+artist_hannah_hoch,ハンナ・ヘーヒ,Hannah Höch|Hannah Hoch|Höch|ヘーヒ,1889,1978,,,,,dada,modern_early_20c,design|printmaking,germany,フォトモンタージュでメディアの断片を切り貼りし、権力やジェンダーの像を解体した。笑いと不穏が同居し、イメージの政治を露出させる。
+artist_kathe_kollwitz,ケーテ・コルヴィッツ,Käthe Kollwitz|Kathe Kollwitz|Kollwitz|コルヴィッツ,1867,1945,,,,,expressionism,modern_early_20c,drawing|printmaking|sculpture,germany,労働や喪失の痛みを、黒の重みで抱え込むように描いた。個人の悲しみが社会の現実へ接続し、静かな叫びとして残り続ける。
+artist_tamara_de_lempicka,タマラ・ド・レンピッカ,Tamara de Lempicka|Lempicka|レンピッカ,1898,1980,,,,,art_deco,modern_early_20c,painting|oil_painting,poland,硬質な曲面と光沢で人物を彫刻のように描き、アール・デコの洗練を象徴した。華やかさの裏に冷たさが走り、時代の欲望が透ける。
+artist_diego_rivera,ディエゴ・リベラ,Diego Rivera|Rivera|リベラ,1886,1957,,,,,muralism,modern_mid_20c,painting,mexico,壁画で歴史と労働を公共空間へ描き込み、芸術を社会の言語として機能させた。明快な図像が、政治と生活の現実を強く可視化する。
+artist_jose_clemente_orozco,ホセ・クレメンテ・オロスコ,José Clemente Orozco|Jose Clemente Orozco|Orozco|オロスコ,1883,1949,,,,,muralism,modern_mid_20c,painting,mexico,革命後の社会を、重い筆致と悲劇性で描いた壁画家。英雄譚に回収されない人間の苦しみが、画面の迫力として残る。
+artist_david_alfaro_siqueiros,ダビッド・アルファロ・シケイロス,David Alfaro Siqueiros|Siqueiros|シケイロス,1896,1974,,,,,muralism,modern_mid_20c,painting,mexico,斜めの構図や新素材を用いて、壁画を圧倒的な運動感へ変えた。集団と闘争のエネルギーが、公共の空間を揺さぶる装置になる。
+artist_robert_capa,ロバート・キャパ,Robert Capa|Capa|キャパ,1913,1954,,,,,documentary_photography,modern_mid_20c,photography,hungary,戦場の最前線で人間の恐怖と勇気を撮り、報道写真の倫理と迫力を更新した。近さゆえの揺れが、現実の速度として伝わる。
+artist_nan_goldin,ナン・ゴールディン,Nan Goldin|Goldin|ゴールディン,1953,,,,,,contemporary,contemporary,photography,usa,親密な共同体や痛みの記録を、日記のような写真で積み重ねた。美化しない視線が、愛と暴力の境界を生々しく照らす。
+artist_andreas_gursky,アンドレアス・グルスキー,Andreas Gursky|Gursky|グルスキー,1955,,,,,,contemporary,contemporary,photography,germany,巨大なスケールと俯瞰の構図で、現代社会のシステムを一枚の像へ圧縮する。人と商品と空間がパターン化し、世界の仕組みが見えてくる。
+artist_wolfgang_tillmans,ヴォルフガング・ティルマンス,Wolfgang Tillmans|Tillmans|ティルマンス,1968,,,,,,contemporary,contemporary,photography,germany,日常の断片から抽象までを自在に往復し、写真を「生活の思考」として扱う。軽さと鋭さが同居し、同時代の感覚を更新し続ける。
+artist_rene_magritte,ルネ・マグリット,René Magritte|Rene Magritte|Magritte|マグリット,1898,1967,,,,,surrealism,modern_early_20c,painting,belgium,日常的な物を静かに並べ替え、意味のズレを鋭く浮かび上がらせた。絵は謎を叫ばずに囁き、見る側の確信だけを崩していく。
+artist_max_beckmann,マックス・ベックマン,Max Beckmann|Beckmann|ベックマン,1884,1950,,,,,expressionism,modern_early_20c,painting|printmaking,germany,戦争と都市の不穏を、重い輪郭と圧縮された空間で描いた。人生の舞台が息苦しく折り畳まれ、近代の悲劇が静かに滲み出る。
+artist_edward_ruscha,エド・ルシェ,Ed Ruscha|Edward Ruscha|Ruscha|ルシェ,1937,,,,,,pop_art|conceptual_art,contemporary,painting|printmaking,usa,言葉や風景の断片を冷めた距離で扱い、アメリカ的イメージの仕組みを露出させた。軽い表面の下で、記号と欲望の回路が見えてくる。
+artist_frank_gehry,フランク・ゲーリー,Frank Gehry|Gehry|ゲーリー,1929,,,,,,deconstructivism,contemporary,architecture|design,canada,建築を彫刻のようにうねらせ、都市の景観を一気に更新した。構造の合理性と造形の暴走が同居し、建物が「出来事」になる。
+artist_ludwig_mies_van_der_rohe,ミース・ファン・デル・ローエ,Ludwig Mies van der Rohe|Mies|ミース|ミース・ファン・デル・ローエ,1886,1969,,,,,modernism,modern_early_20c,architecture|design,germany,極限まで削ぎ落とした構成で、近代建築のミニマルな規範を作った。ガラスと鋼の論理が、空間を透明な秩序として立ち上げる。
+artist_walter_gropius,ヴァルター・グロピウス,Walter Gropius|Gropius|グロピウス,1883,1969,,,,,bauhaus|modernism,modern_early_20c,architecture|design,germany,バウハウスを率い、芸術と工業の統合を教育として形にした。建築を社会の設計へ接続し、近代のデザイン言語を体系化した。
+artist_im_pei,I.M.ペイ,I. M. Pei|IM Pei|Ieoh Ming Pei|ペイ,1917,2019,,,,,modernism,modern_mid_20c,architecture,china,幾何学の明快さで公共建築を組み立て、都市に強い輪郭を与えた。透明性と記念性のバランスで、近代建築の品格を示した。
+artist_oscar_niemeyer,オスカー・ニーマイヤー,Oscar Niemeyer|Niemeyer|ニーマイヤー,1907,2012,,,,,modernism,modern_mid_20c,architecture|design,brazil,曲線を大胆に用い、近代建築に官能と詩情を持ち込んだ。都市計画と結びつくスケールで、ブラジルの未来像を視覚化した。
+artist_eero_saarinen,エーロ・サーリネン,Eero Saarinen|Saarinen|サーリネン,1910,1961,,,,,modernism,modern_mid_20c,architecture|design,finland,用途ごとに形を変える発想で、建築を機能と象徴の両面から設計した。構造の技術が、そのまま都市のアイコンへ変換される。
+artist_robert_mapplethorpe,ロバート・メイプルソープ,Robert Mapplethorpe|Mapplethorpe|メイプルソープ,1946,1989,,,,,contemporary_art,modern_mid_20c,photography,usa,厳密な構図と光で身体や花を撮り、写真を冷たい彫刻のように研ぎ澄ませた。美と禁忌の境界を直視し、視線の倫理を揺さぶった。
+artist_steve_mccurry,スティーブ・マッカリー,Steve McCurry|McCurry|マッカリー,1950,,,,,,documentary_photography,contemporary,photography,usa,旅と取材の現場で、人の眼差しと色彩の強度を捉える写真家。一枚の顔が世界の政治や生活へ直結し、記憶のフックとして残る。
+artist_sebastiao_salgado,セバスチャン・サルガド,Sebastião Salgado|Sebastiao Salgado|Salgado|サルガド,1944,,,,,,documentary_photography,contemporary,photography,brazil,労働や移民、自然の危機を長期取材で記録し、写真を社会の証言として積み上げた。壮大なスケールが、個々の生の重さを逆に際立たせる。
+artist_alfredo_jaar,アルフレド・ジャー,Alfredo Jaar,1956,,,,,,conceptual_art,contemporary,installation|photography,chile,社会や政治を題材に、写真・映像・インスタレーションを通じて見る者の思考を揺さぶる現代美術家。情報の見え方そのものを問い直す作品で知られる。
+artist_ohnishi_shigeru,大西茂,Shigeru Ohnishi|大西 茂,1928,1994,,,,,," ""contemporary""",photography|painting,japan,写真と絵画を往復しながら、像が立ち上がる瞬間や視覚の手触りを探る作家。媒体の境界をにじませる表現が特徴。
+artist_sorayama_hajime,空山基,Hajime Sorayama|SORYAMA,1947,,,,,,,contemporary,drawing|design,japan,精緻なエアブラシ表現で“メタリックな官能”を描き出すアーティスト。ハイパーリアルな人体表現と未来的イメージで国際的に知られる。
+artist_shimomura_kanzan,下村観山,Shimomura Kanzan|下村 観山,1873,1930,,,,,nihonga,modern_early_20c,painting,japan,近代日本画を代表する一人。古典の素養を踏まえつつ、清澄な色彩と構成で時代の感覚を取り込み、画面に静かな緊張感を宿した。
+artist_nagasawa_rosetsu,長沢蘆雪,Nagasawa Rosetsu|長沢 蘆雪,1754,1799,,,,,maruyama_shijo,edo,painting|drawing,japan,江戸中期の絵師。大胆な省略と鋭い観察眼を併せ持ち、ユーモアと緊迫が同居する独自の画面で異彩を放つ。
+artist_w_eugene_smith,W・ユージン・スミス,W. Eugene Smith|William Eugene Smith,1918,1978,,,,,,modern_mid_20c,photography,usa,強い倫理観と編集的視点で、写真によるルポルタージュを革新した写真家。濃密な階調と物語性で“記録”を超える表現を切り開いた。
+artist_aoki_jun,青木淳,Jun Aoki|青木 淳,1956,,,,,,,contemporary,architecture|design,japan,都市や制度の条件を読み替え、建築を柔らかく更新する建築家。軽やかな構成と空間の“密度”の扱いで評価される。
+artist_richard_tuttle,リチャード・タトル,Richard Tuttle,1941,,,,,,,contemporary,installation|sculpture|drawing,usa,小さな素材や線、余白の関係から感覚を立ち上げる美術家。作品の“軽さ”が見る行為そのものを鋭く意識化させる。
+artist_andrew_wyeth,アンドリュー・ワイエス,Andrew Wyeth,1917,2009,,,,,realism,modern_mid_20c,painting|drawing,usa,抑制の効いた色調と緻密な描写で、日常の静けさに潜む感情を描いた画家。人物や風景に時間の手触りを刻む表現で知られる。
+artist_mori_hanae,森英恵,Hanae Mori|森 英恵,1926,2022,,,,,,modern_mid_20c,design,japan,国際的に活躍した日本のファッションデザイナー。東西の美意識を横断し、エレガンスと華やかさを両立させた仕事で知られる。
+artist_eric_carle,エリック・カール,Eric Carle,1929,2021,,,,,,modern_mid_20c,drawing|design,usa,コラージュによる鮮やかな色面と、明快な構成で親しまれる絵本作家。視覚と言葉のリズムで物語体験をつくり出した。
+artist_ron_mueck,ロン・ミュエク,Ron Mueck,1958,,,,,,,contemporary,sculpture,australia,人体を極端なスケールで造形し、存在の重さや脆さを突きつける彫刻家。精密な質感表現と心理的距離感が特徴。
+artist_ettore_sottsass,エットレ・ソットサス,Ettore Sottsass,1917,2007,,,,,postmodernism,modern_mid_20c,design,italy,戦後デザインを牽引し、色彩と形態で“生活の価値観”を更新したデザイナー。メンフィスをはじめ、家具からプロダクトまで幅広く展開した。
+artist_sugimoto_hiroshi,杉本博司,Hiroshi Sugimoto|杉本 博司,1948,,,,,,conceptual_art,contemporary,photography,japan,写真を核に、時間や認識の条件を問い直す現代美術家。厳密な構想と技術で、像の起源や終わりまで射程に入れる。
+artist_kobayashi_kiyochika,小林清親,Kobayashi Kiyochika|小林 清親,1847,1915,,,,,,modern_19c,printmaking|drawing,japan,明治期の版画・絵画で活躍し、光と影の表現で都市の変貌を描いた。文明開化の空気を視覚化した作家として重要。
+artist_kawase_hasui,川瀬巴水,Kawase Hasui|川瀬 巴水,1883,1957,,,,,shin_hanga,modern_early_20c,printmaking,japan,新版画を代表する版画家。旅情ある風景表現で知られ、静けさと気配を湛えた画面で近代の“日本の景”を更新した。
+artist_mikalojus_konstantinas_ciurlionis,M・K・チュルリョーニス,M. K. Čiurlionis|Mikalojus Konstantinas Čiurlionis,1875,1911,,,,,symbolism,modern_early_20c,painting|drawing,lithuania,音楽と絵画を横断し、宇宙観や神話的イメージを詩的に結晶させた芸術家。連作的構成と象徴性で独自の世界を築いた。
+artist_imamura_shiko,今村紫紅,Imamura Shiko|今村 紫紅|いまむら しこう,1880,1916,,,,,nihonga,modern_early_20c,painting,japan,明治末から大正初期にかけて活躍した日本画家。琳派や大和絵の素養に近代的な感覚を交差させ、簡潔で鮮烈な色彩と構成で新しい日本画表現を切り開いた。
+artist_tanaka_atsuko,田中敦子,Atsuko Tanaka|田中 敦子|タナカ アツコ,1932,2005,,,,,gutai|abstract_art,modern_mid_20c,painting|installation,japan,具体と結びつき、電気回路や身体感覚を想起させる表現で戦後日本の前衛を牽引した。絵画と空間表現を横断し、見る者の知覚を揺さぶる作品で知られる。
+artist_fukushima_hideko,福島秀子,Hideko Fukushima|福島 秀子|フクシマ ヒデコ,1927,1997,,,,,abstract_art,modern_mid_20c,painting|drawing,japan,戦後の抽象表現の文脈で、色面と構成の緊張関係を追求した。静かな画面に確かな強度を宿し、時代の実験精神を体現した作家として位置づけられる。
+artist_enokura_koji,榎倉康二,Koji Enokura|榎倉 康二|エノクラ コウジ,1942,1995,,,,,mono_ha,modern_mid_20c,installation|sculpture,japan,素材への最小限の介入で、重力や痕跡、空間の気配を立ち上げる表現を展開した。物派の流れの中で、見る行為そのものを環境へ開く作品で知られる。
+artist_kawanabe_kyosai,河鍋暁斎,Kyosai Kawanabe|河鍋 暁斎|かわなべ きょうさい,1831,1889,,,,,ukiyo_e,modern_19c,painting|drawing|printmaking,japan,幕末明治の激動期に、奔放な筆致と諧謔を武器に多彩な画題を描いた。伝統と風刺精神を併せ持つ表現で、近代への転換期を象徴する存在となった。
+artist_mori_mariko,森万里子,Mariko Mori|Mori Mariko|森 万里子|モリ マリコ,1967,,,,,,contemporary_art,contemporary,installation|sculpture|photography,japan,テクノロジーと精神性、身体感覚を接続するインスタレーションで国際的に評価された。未来的な造形と言語化しにくい感覚を同居させ、時代の想像力を更新してきた。
+artist_hagio_moto,萩尾望都,Moto Hagio|萩尾 望都|ハギオ モト,1949,,,,,,manga,contemporary,drawing,japan,少女漫画の表現領域を拡張し、繊細な心理描写と構成力で物語表現を刷新した。SFや家族、アイデンティティなどの主題を深く掘り下げ、後続世代に大きな影響を与えた。
+artist_yamagishi_ryoko,山岸凉子,Ryoko Yamagishi|山岸 涼子|ヤマギシ リョウコ,1947,,,,,,manga,contemporary,drawing,japan,幻想性と身体性を併せ持つ描写で、少女漫画のドラマ性と表現の濃度を高めた。歴史や舞台芸術の主題にも踏み込み、読者の感情と知性を同時に揺さぶる作品で知られる。
+artist_yamato_waki,大和和紀,Waki Yamato|大和 和紀|ヤマト ワキ,1948,,,,,,manga,contemporary,drawing,japan,華やかな画面構成と人物造形で、少女漫画の魅力を広く浸透させた。歴史題材やロマン性を軸に、読者の想像力を牽引する物語世界を築いた。
